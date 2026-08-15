@@ -1,5 +1,5 @@
 # south-side-pgh-sign
 
-![South Side sign](./s-s-sign.png)
+![South Side sign](./docs/s-s-sign.png)
 
-![South Side sign mechanical drawing](./s-s-mech.png)
+![South Side sign mechanical drawing](./docs/s-s-mech.png)
