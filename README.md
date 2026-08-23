@@ -63,7 +63,24 @@ xLights Notes
 - Layout -> Models -> pick a model -> Controller -> Dig Quad 1. Set number of
   nodes to match the number of pixels in the light, and Lights/Node = 1.
   String properties -> String Type: RGBW Nodes, RGB Color Handling:
-  R=G=B -> W.
+  R=G=B -> W, Model chain: Beginning, might need to do this to get start
+  channel to be clean of !.
+- Get FPP set up. See FPP Notes.
+- Tools -> FPP Connect, discovers device. Check upload. Check sequence name.
+  Click upload.
+- In FPP: Content setup -> playlists, New Playlist, Add a sequence, add
+  your sequence.
+
+FPP Notes
+- Status/control network and set static IP to 192.168.10.10
+- Set DNS to 8.8.8.8 and 1.1.1.1, Restart Network
+- Use http://fpp.local to access.
+- Input/Output Setup -> Channel Outputs. Outputs Count: 1, Set
+- Enable Output, Active, Dig Quad 1, DDP - One Based, 192.168.10.50,
+  start channel 1, Save.
+- Status/Control -> Display Testing. Start channel 1, End Channel 32,
+  Click Enable Test Mode
+- Go back to xLights.
 
 
 Lights

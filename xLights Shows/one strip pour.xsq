@@ -133,7 +133,7 @@
     </Element>
     <Element type="model" name="Bottom pour middle">
       <EffectLayer>
-        <Effect ref="0" name="Fill" startTime="0" endTime="30000" palette="0" />
+        <Effect ref="0" name="Fill" selected="1" startTime="0" endTime="30000" palette="0" />
       </EffectLayer>
     </Element>
     <Element type="model" name="Bottom pour top">
