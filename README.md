@@ -50,6 +50,22 @@ From now on use http://fpp.local to access.
 - Color order: RGB
 - Data GPIO: 16
 
+xLights Notes
+- Create models
+- Add models to a metronome sequence
+- Apply effects desired until preview looks correct
+- Layout -> Controllers -> Add -> Add E1.31/ArtNET/DDP
+  - Name: Dig Quad 1
+  - IP Address: 192.168.10.50
+  - Protocol: DDP
+  - Vendor: WLED
+  - Active: Active
+- Layout -> Models -> pick a model -> Controller -> Dig Quad 1. Set number of
+  nodes to match the number of pixels in the light, and Lights/Node = 1.
+  String properties -> String Type: RGBW Nodes, RGB Color Handling:
+  R=G=B -> W.
+
+
 Lights
 - Important specs
 - Tightest radius 2 ¾” - 3”
