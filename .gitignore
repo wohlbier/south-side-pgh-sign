@@ -1,0 +1,23 @@
+# ── xLights (in "xLights Shows/") ─────────────────────
+# Rendered output (regenerable from .xsq)
+xLights Shows/**/*.fseq
+
+# xLights auto-backups (git is our versioning now)
+xLights Shows/Backup/
+xLights Shows/**/*.xbkp
+*.jbkp
+
+# Media (large binaries)
+xLights Shows/**/*.wav
+xLights Shows/**/*.mp3
+xLights Shows/**/*.mp4
+xLights Shows/**/*.avi
+
+# ── Downloaded tools / OS images (re-downloadable, huge) ─
+*.img
+*.img.zip
+*.dmg
+
+# ── OS cruft (anywhere in repo) ───────────────────────
+.DS_Store
+**/.DS_Store

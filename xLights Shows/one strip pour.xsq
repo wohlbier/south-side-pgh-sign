@@ -1,0 +1,360 @@
+<?xml version="1.0"?>
+<xsequence BaseChannel="0" ChanCtrlBasic="0" ChanCtrlColor="0" FixedPointTiming="1" ModelBlending="true">
+  <head>
+    <version>2026.15</version>
+    <author></author>
+    <author-email></author-email>
+    <author-website></author-website>
+    <song></song>
+    <artist></artist>
+    <album></album>
+    <MusicURL></MusicURL>
+    <comment></comment>
+    <sequenceTiming>25 ms</sequenceTiming>
+    <sequenceType>Animation</sequenceType>
+    <mediaFile></mediaFile>
+    <sequenceDuration>30.000</sequenceDuration>
+    <imageDir></imageDir>
+  </head>
+  <ColorPalettes>
+    <ColorPalette>C_BUTTON_Palette1=#ffffff,C_BUTTON_Palette2=#ff0000,C_BUTTON_Palette3=#00ff00,C_BUTTON_Palette4=#0000ff,C_BUTTON_Palette5=#ffff00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00ffff,C_BUTTON_Palette8=#ff00ff,C_CHECKBOXBRIGHTNESSLEVEL=0,C_CHECKBOX_Chroma=0,C_CHECKBOX_MusicSparkles=0,C_CHECKBOX_Palette1=0,C_CHECKBOX_Palette2=1,C_CHECKBOX_Palette3=0,C_CHECKBOX_Palette4=0,C_CHECKBOX_Palette5=0,C_CHECKBOX_Palette6=0,C_CHECKBOX_Palette7=0,C_CHECKBOX_Palette8=0,C_SLIDER_SparkleFrequency=0</ColorPalette>
+  </ColorPalettes>
+  <EffectDB>
+    <Effect>E_CHECKBOX_Fill_Color_Time=0,E_CHECKBOX_Fill_Offset_In_Pixels=1,E_CHECKBOX_Fill_Wrap=1,E_CHOICE_Fill_Direction=Right,E_SLIDER_Fill_Band_Size=0,E_SLIDER_Fill_Offset=0,E_SLIDER_Fill_Skip_Size=0,E_VALUECURVE_Fill_Position=Active=TRUE|Id=ID_VALUECURVE_Fill_Position|Type=Ramp|Min=0.00|Max=100.00|P2=100.00|RV=TRUE|,T_CHECKBOX_Canvas=0,T_CHECKBOX_LayerMorph=0,T_CHOICE_LayerMethod=Normal,T_SLIDER_EffectLayerMix=0</Effect>
+  </EffectDB>
+  <SequenceMedia />
+  <DataLayers>
+    <DataLayer lor_params="0" channel_offset="0" num_channels="0" num_frames="0" data="&lt;rendered: erase-mode>" source="&lt;auto-generated>" name="Nutcracker" />
+  </DataLayers>
+  <DisplayElements>
+    <Element collapsed="false" type="timing" name="New Timing" visible="true" views=",Master View" active="false" />
+    <Element collapsed="false" type="timing" name="5000ms Metronome" visible="true" views="" active="true" />
+    <Element collapsed="false" type="model" name="Angle pour" visible="true" />
+    <Element collapsed="false" type="model" name="Angle pour center" visible="true" />
+    <Element collapsed="false" type="model" name="Angle pour left" visible="true" />
+    <Element collapsed="false" type="model" name="Angle pour right" visible="true" />
+    <Element collapsed="false" type="model" name="Bottom pour" visible="true" />
+    <Element collapsed="false" type="model" name="Bottom pour bottom" visible="true" />
+    <Element collapsed="false" type="model" name="Bottom pour middle" visible="true" />
+    <Element collapsed="false" type="model" name="Bottom pour top" visible="true" />
+    <Element collapsed="false" type="model" name="D side" visible="true" />
+    <Element collapsed="false" type="model" name="D side center" visible="true" />
+    <Element collapsed="false" type="model" name="D side left" visible="true" />
+    <Element collapsed="false" type="model" name="D side right" visible="true" />
+    <Element collapsed="false" type="model" name="E side" visible="true" />
+    <Element collapsed="false" type="model" name="E side 0" visible="true" />
+    <Element collapsed="false" type="model" name="E side 1" visible="true" />
+    <Element collapsed="false" type="model" name="E side 2" visible="true" />
+    <Element collapsed="false" type="model" name="E side 3" visible="true" />
+    <Element collapsed="false" type="model" name="E side 4" visible="true" />
+    <Element collapsed="false" type="model" name="E side 5" visible="true" />
+    <Element collapsed="false" type="model" name="E side 6" visible="true" />
+    <Element collapsed="false" type="model" name="E side 7" visible="true" />
+    <Element collapsed="false" type="model" name="H south" visible="true" />
+    <Element collapsed="false" type="model" name="H south 0" visible="true" />
+    <Element collapsed="false" type="model" name="H south 1" visible="true" />
+    <Element collapsed="false" type="model" name="H south 2" visible="true" />
+    <Element collapsed="false" type="model" name="H south 3" visible="true" />
+    <Element collapsed="false" type="model" name="H south 4" visible="true" />
+    <Element collapsed="false" type="model" name="H south 5" visible="true" />
+    <Element collapsed="false" type="model" name="H south 6" visible="true" />
+    <Element collapsed="false" type="model" name="H south 7" visible="true" />
+    <Element collapsed="false" type="model" name="H south 8" visible="true" />
+    <Element collapsed="false" type="model" name="I side" visible="true" />
+    <Element collapsed="false" type="model" name="I side center" visible="true" />
+    <Element collapsed="false" type="model" name="I side left" visible="true" />
+    <Element collapsed="false" type="model" name="I side right" visible="true" />
+    <Element collapsed="false" type="model" name="Mid pour" visible="true" />
+    <Element collapsed="false" type="model" name="Mid pour center" visible="true" />
+    <Element collapsed="false" type="model" name="Mid pour left" visible="true" />
+    <Element collapsed="false" type="model" name="Mid pour right" visible="true" />
+    <Element collapsed="false" type="model" name="O south" visible="true" />
+    <Element collapsed="false" type="model" name="O south 0" visible="true" />
+    <Element collapsed="false" type="model" name="O south 1" visible="true" />
+    <Element collapsed="false" type="model" name="O south 2" visible="true" />
+    <Element collapsed="false" type="model" name="O south 3" visible="true" />
+    <Element collapsed="false" type="model" name="O south 4" visible="true" />
+    <Element collapsed="false" type="model" name="S side" visible="true" />
+    <Element collapsed="false" type="model" name="S side bottom" visible="true" />
+    <Element collapsed="false" type="model" name="S side feed" visible="true" />
+    <Element collapsed="false" type="model" name="S side feed center" visible="true" />
+    <Element collapsed="false" type="model" name="S side feed left" visible="true" />
+    <Element collapsed="false" type="model" name="S side feed right" visible="true" />
+    <Element collapsed="false" type="model" name="S side middle" visible="true" />
+    <Element collapsed="false" type="model" name="S side top" visible="true" />
+    <Element collapsed="false" type="model" name="S south" visible="true" />
+    <Element collapsed="false" type="model" name="S south bottom" visible="true" />
+    <Element collapsed="false" type="model" name="S south feed" visible="true" />
+    <Element collapsed="false" type="model" name="S south feed center" visible="true" />
+    <Element collapsed="false" type="model" name="S south feed left" visible="true" />
+    <Element collapsed="false" type="model" name="S south feed right" visible="true" />
+    <Element collapsed="false" type="model" name="S south middle" visible="true" />
+    <Element collapsed="false" type="model" name="S south top" visible="true" />
+    <Element collapsed="false" type="model" name="T south" visible="true" />
+    <Element collapsed="false" type="model" name="T south 0" visible="true" />
+    <Element collapsed="false" type="model" name="T south 1" visible="true" />
+    <Element collapsed="false" type="model" name="T south 2" visible="true" />
+    <Element collapsed="false" type="model" name="T south 3" visible="true" />
+    <Element collapsed="false" type="model" name="T south 4" visible="true" />
+    <Element collapsed="false" type="model" name="T south 5" visible="true" />
+    <Element collapsed="false" type="model" name="Top left pour" visible="true" />
+    <Element collapsed="false" type="model" name="Top middle pour" visible="true" />
+    <Element collapsed="false" type="model" name="Top pour" visible="true" />
+    <Element collapsed="false" type="model" name="Top right pour" visible="true" />
+    <Element collapsed="false" type="model" name="U south" visible="true" />
+    <Element collapsed="false" type="model" name="U south bottom" visible="true" />
+    <Element collapsed="false" type="model" name="U south center" visible="true" />
+    <Element collapsed="false" type="model" name="U south top" visible="true" />
+  </DisplayElements>
+  <ElementEffects>
+    <Element type="timing" name="New Timing">
+      <EffectLayer />
+    </Element>
+    <Element type="timing" name="5000ms Metronome" fixed="5000">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="Angle pour">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="Angle pour center">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="Angle pour left">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="Angle pour right">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="Bottom pour">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="Bottom pour bottom">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="Bottom pour middle">
+      <EffectLayer>
+        <Effect ref="0" name="Fill" startTime="0" endTime="30000" palette="0" />
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Bottom pour top">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="D side">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="D side center">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="D side left">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="D side right">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="E side">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="E side 0">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="E side 1">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="E side 2">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="E side 3">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="E side 4">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="E side 5">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="E side 6">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="E side 7">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="H south">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="H south 0">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="H south 1">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="H south 2">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="H south 3">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="H south 4">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="H south 5">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="H south 6">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="H south 7">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="H south 8">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="I side">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="I side center">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="I side left">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="I side right">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="Mid pour">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="Mid pour center">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="Mid pour left">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="Mid pour right">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="O south">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="O south 0">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="O south 1">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="O south 2">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="O south 3">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="O south 4">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="S side">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="S side bottom">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="S side feed">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="S side feed center">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="S side feed left">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="S side feed right">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="S side middle">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="S side top">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="S south">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="S south bottom">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="S south feed">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="S south feed center">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="S south feed left">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="S south feed right">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="S south middle">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="S south top">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="T south">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="T south 0">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="T south 1">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="T south 2">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="T south 3">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="T south 4">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="T south 5">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="Top left pour">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="Top middle pour">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="Top pour">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="Top right pour">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="U south">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="U south bottom">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="U south center">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="U south top">
+      <EffectLayer />
+    </Element>
+  </ElementEffects>
+  <lastView>0</lastView>
+  <TimingTags>
+    <Tag number="0" position="-1" />
+    <Tag number="1" position="-1" />
+    <Tag number="2" position="-1" />
+    <Tag number="3" position="-1" />
+    <Tag number="4" position="-1" />
+    <Tag number="5" position="-1" />
+    <Tag number="6" position="-1" />
+    <Tag number="7" position="-1" />
+    <Tag number="8" position="-1" />
+    <Tag number="9" position="-1" />
+  </TimingTags>
+</xsequence>
