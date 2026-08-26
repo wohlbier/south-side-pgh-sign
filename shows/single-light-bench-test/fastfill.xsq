@@ -10,10 +10,10 @@
     <album></album>
     <MusicURL></MusicURL>
     <comment></comment>
-    <sequenceTiming>50 ms</sequenceTiming>
+    <sequenceTiming>25 ms</sequenceTiming>
     <sequenceType>Animation</sequenceType>
     <mediaFile></mediaFile>
-    <sequenceDuration>8.000</sequenceDuration>
+    <sequenceDuration>1.000</sequenceDuration>
     <imageDir></imageDir>
   </head>
   <ColorPalettes>
@@ -27,16 +27,16 @@
     <DataLayer lor_params="0" channel_offset="0" num_channels="0" num_frames="0" data="&lt;rendered: erase-mode>" source="&lt;auto-generated>" name="Nutcracker" />
   </DataLayers>
   <DisplayElements>
-    <Element collapsed="false" type="timing" name="1000ms Metronome" visible="true" views="" active="false" />
+    <Element collapsed="false" type="timing" name="125ms Metronome" visible="true" views="" active="true" />
     <Element collapsed="false" type="model" name="Poly Line" visible="true" />
   </DisplayElements>
   <ElementEffects>
-    <Element type="timing" name="1000ms Metronome" fixed="1000">
+    <Element type="timing" name="125ms Metronome" fixed="125">
       <EffectLayer />
     </Element>
     <Element type="model" name="Poly Line">
       <EffectLayer>
-        <Effect ref="0" name="Fill" selected="1" id="1" startTime="0" endTime="8000" palette="0" />
+        <Effect ref="0" name="Fill" selected="1" startTime="0" endTime="1000" palette="0" />
       </EffectLayer>
     </Element>
   </ElementEffects>

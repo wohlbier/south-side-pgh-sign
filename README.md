@@ -45,16 +45,19 @@ From now on use http://fpp.local to access.
 - Dig-quad IP addresses:192.168.10.50, 255.255.255.0, 192.168.10.1
 - Mac USB interface: 192.168.10.20
 - Site for flashing: https://install.wled.me/
+
+WLED (http://192.168.10.50/) Notes
 - LED settings: SK6812/WS2814 RGBW
 - Length: 8
-- Color order: RGB
+- Color order: BRG
 - Data GPIO: 16
+- Config -> Sync Interfaces -> DMX Mode: Multi RGBW
 
 xLights Notes
 - Layout -> Controllers -> Add -> Add E1.31/ArtNET/DDP
   - Name: Dig Quad 1
   - IP Address: 192.168.10.50
-  - Protocol: DDP (silently bumps the controller Id to 2 — reset it to 1).
+  - Protocol: E1.31
   - Vendor: WLED
   - Uncheck "Keep Channel Numbers"
   - Active: Active
