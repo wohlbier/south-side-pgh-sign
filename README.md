@@ -2,6 +2,8 @@
 
 ![South Side sign](./docs/s-s-sign.png)
 
+![South Side sign mechanical drawing](./docs/SSS.LED.png)
+
 ![South Side sign mechanical drawing](./docs/s-s-mech.png)
 
 
