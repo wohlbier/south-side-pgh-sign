@@ -7,6 +7,8 @@
 ![South Side sign mechanical drawing](./docs/s-s-mech.png)
 
 
+## Setting it up
+
 https://falconchristmas.com/forum/
 
 Download Pi imager `imager_2.0.10.dmg` install the dmg
@@ -20,7 +22,6 @@ Run Pi Imager
 - OS: Use custom, FPP-v9.5.3-Pi.img
 - Storage: Mass Storage Device Media
 - Write
-
 
 Device	IP
 Pi (FPP)	192.168.10.10
@@ -90,7 +91,23 @@ xLights Notes
   - Content setup -> playlists, New Playlist, Add a sequence, add
   your sequence. Set Repeat, play.
 
-Lights
+
+## Power
+- 15W/meter, 5 meter length circuit, 75W/circuit, 75W/24V = 3.125A/circuit
+- 4 circuits/driver x 75W = 300W/driver
+- 3x [Power supply](https://www.meanwell-web.com/en/mean-well-hlg-480h-24-hlg-480h-24)
+![Power supply](./docs/powersupply.png)
+
+## Installation
+- 3x [Enclosure](https://www.newark.com/omega/amp664/plastic-enclosure-polycarbonate/dp/55AH0889)
+![Driver enclosure](./docs/amp664.png)
+- 3x [Enclosure](https://www.newark.com/omega/amp664/plastic-enclosure-polycarbonate/dp/55AH0889)
+![Driver enclosure](./docs/amp664.png)
+- 4x Gore-type breather vent (e.g. a PMF100 membrane vent, ~$8) — the
+  condensation fix.
+- Cable glands.
+
+## Lights
 - Important specs
 - Tightest radius 2 ¾” - 3”
 - IP 65 - 67, or 68, https://flexfireleds.com/led-ip-ratings-led-flex-strip-waterproofing-explained-waterproof-v-nonwaterproof-led-strip-lights/
