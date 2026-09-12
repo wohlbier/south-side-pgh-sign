@@ -1,10 +1,13 @@
 # south-side-pgh-sign
 
-![South Side sign](./docs/s-s-sign.png)
+<p align="center">
+  <img src="./docs/s-s-sign.png" alt="South Side sign" width="600">
+</p>
 
-![South Side sign mechanical drawing](./docs/SSS.LED.png)
-
-![South Side sign mechanical drawing](./docs/s-s-mech.png)
+<p align="center">
+  <img src="./docs/SSS.LED.png" alt="South Side sign LED dimensions drawing" width="49%">
+  <img src="./docs/s-s-mech.png" alt="South Side sign mechanical drawing" width="49%">
+</p>
 
 
 ## Setting it up
@@ -23,10 +26,11 @@ Run Pi Imager
 - Storage: Mass Storage Device Media
 - Write
 
-Device	IP
-Pi (FPP)	192.168.10.10
-Mac (dongle)	192.168.10.20  (USB 10/100/1000 LAN)
-Board (WLED)	192.168.10.50
+| Device | IP |
+| --- | --- |
+| Pi (FPP) | 192.168.10.10 |
+| Mac (dongle) | 192.168.10.20  (USB 10/100/1000 LAN) |
+| Board (WLED) | 192.168.10.50 |
 
 Connect it up
 ```
@@ -96,16 +100,22 @@ xLights Notes
 - 15W/meter, 5 meter length circuit, 75W/circuit, 75W/24V = 3.125A/circuit
 - 4 circuits/driver x 75W = 300W/driver
 - 3x [Power supply](https://www.meanwell-web.com/en/mean-well-hlg-480h-24-hlg-480h-24)
-![Power supply](./docs/powersupply.png)
+
+<p align="center">
+  <img src="./docs/powersupply.png" alt="Power supply" width="400">
+</p>
 
 ## Installation
 - 3x [Enclosure](https://www.newark.com/omega/amp664/plastic-enclosure-polycarbonate/dp/55AH0889)
-![Driver enclosure](./docs/amp664.png)
-- 3x [Enclosure](https://www.newark.com/omega/amp664/plastic-enclosure-polycarbonate/dp/55AH0889)
-![Driver enclosure](./docs/amp664.png)
+- 1x [Enclosure](https://www.newark.com/omega/amp1426/plastic-enclosure-polycarbonate/dp/55AH0872)
 - 4x Gore-type breather vent (e.g. a PMF100 membrane vent, ~$8) — the
   condensation fix.
 - Cable glands.
+
+<p align="center">
+  <img src="./docs/amp664.png" alt="Driver enclosure" width="45%">
+  <img src="./docs/amp1426.png" alt="Control enclosure" width="45%">
+</p>
 
 ## Lights
 - Important specs
