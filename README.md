@@ -111,6 +111,7 @@ xLights Notes
 - 4x Gore-type breather vent (e.g. a PMF100 membrane vent, ~$8) — the
   condensation fix.
 - Cable glands.
+- Possible [Cat 6](https://www.jefatech.com/products/jefa-tech-shielded-cat6-assembly-with-toughcable-connectors?variant=30336563904601)
 
 <p align="center">
   <img src="./docs/amp664.png" alt="Driver enclosure" width="45%">
