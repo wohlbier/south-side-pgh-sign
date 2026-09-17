@@ -13,6 +13,16 @@
   <img src="./docs/s-s-mech.png" alt="South Side sign mechanical drawing" width="49%">
 </p>
 
+<p align="center">
+  <img src="./docs/SSS.1.png" alt="South Side Sketch" width="600">
+</p>
+<p align="center">
+  <img src="./docs/SSS.2.png" alt="South Side Sketch" width="600">
+</p>
+<p align="center">
+  <img src="./docs/SSS.3.png" alt="South Side Sketch" width="600">
+</p>
+
 
 ## Setting it up
 
