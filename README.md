@@ -120,17 +120,13 @@ xLights Notes
 </p>
 
 ## Installation
-- 3x [Enclosure](https://www.newark.com/omega/amp664/plastic-enclosure-polycarbonate/dp/55AH0889)
-- 1x [Enclosure](https://www.newark.com/omega/amp1426/plastic-enclosure-polycarbonate/dp/55AH0872)
+- 3x [Enclosure](https://www.digikey.com/en/products/detail/hammond-manufacturing/1554VB2GY/6816976)
+- 1x [Enclosure](https://www.digikey.com/en/products/detail/hammond-manufacturing/1554XA2GY/11498192)
 - 4x Gore-type breather vent (e.g. a PMF100 membrane vent, ~$8) — the
   condensation fix.
+- Light lead OD: 6.5mm
 - Cable glands.
-- Possible [Cat 6](https://www.jefatech.com/products/jefa-tech-shielded-cat6-assembly-with-toughcable-connectors?variant=30336563904601)
-
-<p align="center">
-  <img src="./docs/amp664.png" alt="Driver enclosure" width="45%">
-  <img src="./docs/amp1426.png" alt="Control enclosure" width="45%">
-</p>
+- Possible [Cat 6](https://www.jefatech.com/products/jefa-tech-shielded-cat6-assembly-with-toughcable-connectors?variant=30336563904601) [Unterminated](https://www.jefatech.com/products/jefa-tech-shielded-cat6-with-ground-wire)
 
 ## Lights
 - Important specs
