@@ -1,11 +1,11 @@
 # south-side-pgh-sign
 
 <p align="center">
-  <img src="./docs/s-s-sign.png" alt="South Side sign" width="600">
+  <img src="./docs/s-s-sign.png" alt="South Side sign" width="100%">
 </p>
 
 <p align="center">
-  <img src="./docs/SouthSideSketch.png" alt="South Side Sketch" width="600">
+  <img src="./docs/SouthSideSketch.png" alt="South Side Sketch" width="100%">
 </p>
 
 <p align="center">
@@ -14,16 +14,16 @@
 </p>
 
 <p align="center">
-  <img src="./docs/SSS.1.png" alt="South Side Sketch" width="600">
+  <img src="./docs/SSS.1.png" alt="South Side Sketch" width="100%">
 </p>
 <p align="center">
-  <img src="./docs/SSS.2.png" alt="South Side Sketch" width="600">
+  <img src="./docs/SSS.2.png" alt="South Side Sketch" width="100%">
 </p>
 <p align="center">
-  <img src="./docs/SSS.3.png" alt="South Side Sketch" width="600">
+  <img src="./docs/SSS.3.png" alt="South Side Sketch" width="100%">
 </p>
 <p align="center">
-  <img src="./docs/SSS.4.png" alt="South Side Sketch" width="600">
+  <img src="./docs/SSS.4.png" alt="South Side Sketch" width="100%">
 </p>
 
 ## Setting it up
