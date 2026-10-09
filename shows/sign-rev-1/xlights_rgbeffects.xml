@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xrgb>
+  <models type="rgb_effects">
+    <model name="A" DisplayAs="Poly Line" AlternateNodes="false" Antialias="1" Controller="Dig Quad A" Corner1="" Corner10="Neither" Corner11="Neither" Corner12="Neither" Corner2="" Corner3="Neither" Corner4="Neither" Corner5="Neither" Corner6="Neither" Corner7="Neither" Corner8="Neither" Corner9="Neither" cPointData="" Dir="L" DropPattern="1" LayoutGroup="Default" LightsPerNode="1" ModelHeight="1.000000" NodesPerString="43" NumPoints="12" PixelSize="20" PointData="0.000000,0.000000,0.000000,-8.322113,-7.598450,0.000000,-13.387756,-15.920593,0.000000,-17.367920,-25.690002,0.000000,-19.538910,-34.735840,0.000000,-20.624390,-43.781616,0.000000,-21.348053,-52.465576,0.000000,-22.395691,-357.740936,0.000000,30.431702,-409.844666,0.000000,274.968079,-408.888794,0.000000,299.210754,-385.731567,0.000000,299.210754,-385.731567,0.000000" PolyStrings="1" RGBWHandling="RGB Only" ScaleX="1.000000" ScaleY="1.000000" ScaleZ="1.000000" SegsExpanded="TRUE" SourceVersion="2026.18" StartChannel="!Dig Quad A:1" StartSide="B" StringType="RGBW Nodes" Transparency="0" versionNumber="8" WorldPosX="431.406189" WorldPosY="544.528381" WorldPosZ="0.000000">
+      <ControllerConnection Port="1" Protocol="ws2811"/>
+    </model>
+    <model name="B" DisplayAs="Poly Line" AlternateNodes="false" Antialias="1" Controller="Dig Quad A" Corner1="" Corner10="Neither" Corner2="" Corner3="Neither" Corner4="Neither" Corner5="Neither" Corner6="Neither" Corner7="Neither" Corner8="Neither" Corner9="Neither" cPointData="" Dir="L" DropPattern="1" LayoutGroup="Default" LightsPerNode="1" ModelHeight="1.000000" NodesPerString="41" NumPoints="10" PixelSize="20" PointData="0.000000,0.000000,0.000000,-9.407593,-10.493103,0.000000,-14.473267,-23.519043,0.000000,-16.644226,-37.630524,0.000000,-17.729736,-59.702240,0.000000,-18.091553,-86.477783,0.000000,-18.255402,-348.245178,0.000000,30.591858,-397.092468,0.000000,270.514618,-395.866455,0.000000,288.606171,-377.774902,0.000000" PolyStrings="1" RGBWHandling="RGB Only" ScaleX="1.000000" ScaleY="1.000000" ScaleZ="1.000000" SegsExpanded="TRUE" SourceVersion="2026.18" StartChannel="!Dig Quad A:173" StartSide="B" StringType="RGBW Nodes" Transparency="0" versionNumber="8" WorldPosX="433.569977" WorldPosY="537.561829" WorldPosZ="0.000000">
+      <ControllerConnection Port="2" Protocol="ws2811"/>
+    </model>
+    <model name="C" DisplayAs="Poly Line" AlternateNodes="false" Antialias="1" Controller="Dig Quad A" Corner1="" Corner2="" Corner3="Neither" Corner4="Neither" Corner5="Neither" Corner6="Neither" Corner7="Neither" Corner8="Neither" Corner9="Neither" cPointData="" Dir="L" DropPattern="1" LayoutGroup="Default" LightsPerNode="1" ModelHeight="1.000000" NodesPerString="39" NumPoints="9" PixelSize="20" PointData="0.000000,0.000000,0.000000,-6.874786,-9.407593,0.000000,-11.216766,-23.519073,0.000000,-12.302277,-39.077820,0.000000,-12.961151,-53.829956,0.000000,-13.619965,-339.226349,0.000000,29.076141,-383.369812,0.000000,265.866943,-382.536224,0.000000,278.169189,-371.681274,0.000000" PolyStrings="1" RGBWHandling="RGB Only" ScaleX="1.000000" ScaleY="1.000000" ScaleZ="1.000000" SegsExpanded="TRUE" SourceVersion="2026.18" StartChannel="!Dig Quad A:337" StartSide="B" StringType="RGBW Nodes" Transparency="0" versionNumber="8" WorldPosX="434.945190" WorldPosY="530.843567" WorldPosZ="0.000000">
+      <ControllerConnection Port="3" Protocol="ws2811"/>
+    </model>
+  </models>
+  <modelGroups type="rgb_effects">
+    <modelGroup name="Pour" DisplayAs="ModelGroup" DefaultCamera="2D" GridSize="400" layout="minimalGrid" LayoutGroup="Default" models="A,B,C">
+    </modelGroup>
+  </modelGroups>
+  <view_objects>
+    <view_object name="Gridlines" DisplayAs="Gridlines" LayoutGroup="Default" WorldPosX="0.000000" WorldPosY="0.000000" WorldPosZ="0.000000" ScaleX="1.000000" ScaleY="1.000000" ScaleZ="1.000000" RotateX="90.000000" RotateY="0.000000" RotateZ="0.000000" GridLineSpacing="50" GridWidth="2000" GridHeight="1000" GridColor="#008000" GridAxis="0" PointToFront="0"/>
+  </view_objects>
+  <layoutGroups>
+  </layoutGroups>
+  <perspectives current="Default Perspective">
+    <perspective name="Default Perspective" settings="layout3|name=ModelPreview;caption=Model Preview;state=6293440;dir=4;layer=1;row=0;pos=0;prop=100000;bestw=250;besth=250;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1;floatw_cli=-1;floath_cli=-1|name=HousePreview;caption=House Preview;state=6293440;dir=4;layer=1;row=0;pos=1;prop=100000;bestw=250;besth=250;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1;floatw_cli=-1;floath_cli=-1|name=EffectAssist;caption=Effect Assist;state=2099198;dir=4;layer=1;row=0;pos=2;prop=100000;bestw=250;besth=250;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1;floatw_cli=-1;floath_cli=-1|name=DisplayElements;caption=Display Elements;state=6293503;dir=4;layer=0;row=0;pos=0;prop=100000;bestw=750;besth=1050;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=750;floath=1050;floatw_cli=-1;floath_cli=-1|name=Perspectives;caption=Perspectives;state=2099198;dir=4;layer=1;row=0;pos=0;prop=100000;bestw=215;besth=152;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1;floatw_cli=-1;floath_cli=-1|name=Effect;caption=Effect Settings;state=2099196;dir=4;layer=0;row=1;pos=0;prop=100000;bestw=173;besth=108;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1;floatw_cli=-1;floath_cli=-1|name=SelectEffect;caption=Select Effects;state=2099198;dir=4;layer=1;row=0;pos=0;prop=100000;bestw=602;besth=450;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1;floatw_cli=-1;floath_cli=-1|name=SearchPanel;caption=Search Panel;state=2099198;dir=4;layer=1;row=0;pos=0;prop=100000;bestw=574;besth=376;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1;floatw_cli=-1;floath_cli=-1|name=EffectDropper;caption=Effects;state=2099198;dir=1;layer=0;row=0;pos=0;prop=100000;bestw=1260;besth=756;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1;floatw_cli=-1;floath_cli=-1|name=ValueCurveDropper;caption=Value Curves;state=2099198;dir=1;layer=0;row=0;pos=0;prop=100000;bestw=50;besth=50;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1;floatw_cli=-1;floath_cli=-1|name=ColourDropper;caption=Colours;state=2099198;dir=1;layer=0;row=0;pos=0;prop=100000;bestw=20;besth=20;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1;floatw_cli=-1;floath_cli=-1|name=Jukebox;caption=Jukebox;state=2099198;dir=1;layer=0;row=0;pos=0;prop=100000;bestw=100;besth=200;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1;floatw_cli=-1;floath_cli=-1|name=FindData;caption=Find Data;state=2099198;dir=1;layer=0;row=0;pos=0;prop=100000;bestw=603;besth=176;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1;floatw_cli=-1;floath_cli=-1|name=EffectPresets;caption=Effect Presets;state=2099199;dir=4;layer=0;row=0;pos=0;prop=100000;bestw=700;besth=600;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1;floatw_cli=-1;floath_cli=-1|name=Color;caption=Color;state=2099196;dir=1;layer=0;row=0;pos=0;prop=100000;bestw=50;besth=50;minw=50;minh=50;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1;floatw_cli=-1;floath_cli=-1|name=LayerTiming;caption=Layer Blending;state=2099196;dir=1;layer=0;row=0;pos=1;prop=100000;bestw=50;besth=50;minw=50;minh=50;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1;floatw_cli=-1;floath_cli=-1|name=LayerSettings;caption=Layer Settings;state=2099196;dir=1;layer=0;row=0;pos=2;prop=100000;bestw=239;besth=70;minw=50;minh=50;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1;floatw_cli=-1;floath_cli=-1|name=SequenceVideo;caption=Sequence Video;state=2099199;dir=4;layer=0;row=0;pos=0;prop=100000;bestw=320;besth=180;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1;floatw_cli=-1;floath_cli=-1|name=Main Sequencer;caption=Main Sequencer;state=768;dir=5;layer=0;row=0;pos=0;prop=100000;bestw=296;besth=221;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1;floatw_cli=-1;floath_cli=-1|dock_size(4,1,0)=252|dock_size(4,0,1)=175|dock_size(1,0,0)=89|dock_size(5,0,0)=298||@@XLLAYOUT@@|layout3|name=ModelList;caption=;state=34800;dir=1;layer=0;row=0;pos=0;prop=100000;bestw=-1;besth=200;minw=300;minh=50;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=600;floath=1000;floatw_cli=-1;floath_cli=-1|name=ModelSettings;caption=Background Properties;state=1984;dir=5;layer=0;row=0;pos=0;prop=100000;bestw=20;besth=94;minw=0;minh=50;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=600;floath=1000;floatw_cli=-1;floath_cli=-1|dock_size(1,0,0)=128|dock_size(5,0,0)=22|" version="3.0" gridSpacing="16" iconSize="16"/>
+  </perspectives>
+  <settings>
+    <LayoutMode3D value="0"/>
+    <ShowGUID value="553475ce-12f4-45c8-a620-b400a960257a"/>
+    <backgroundBrightness value="100"/>
+    <backgroundImage value="/Users/jgwohlbier/Desktop/south-side-pgh-sign/docs/SSS.4.front.png"/>
+    <previewHeight value="720"/>
+    <previewWidth value="1280"/>
+    <xlightsVersion value="2026.18"/>
+  </settings>
+  <modelSets>
+  </modelSets>
+  <views>
+  </views>
+  <colors version="1">
+    <DisabledEffect Red="200" Green="200" Blue="0"/>
+    <EffectDefault Red="192" Green="192" Blue="192"/>
+    <EffectSelected Red="204" Green="102" Blue="255"/>
+    <EffectSelectedDisabled Red="200" Green="200" Blue="64"/>
+    <EffectSelectedFixed Red="255" Green="128" Blue="0"/>
+    <EffectSelectedLocked Red="200" Green="128" Blue="152"/>
+    <GridDashes Red="255" Green="255" Blue="0"/>
+    <Gridlines Red="40" Green="40" Blue="40"/>
+    <LabelOutline Red="103" Green="103" Blue="103"/>
+    <Labels Red="255" Green="255" Blue="204"/>
+    <LayoutDashes Red="255" Green="255" Blue="0"/>
+    <LockedEffect Red="200" Green="0" Blue="0"/>
+    <ModelDefault Red="211" Green="211" Blue="211"/>
+    <ModelInVisualiser Red="0" Green="128" Blue="255"/>
+    <ModelNotOnController Red="255" Green="128" Blue="0"/>
+    <ModelOverlap Red="255" Green="0" Blue="0"/>
+    <ModelSelected Red="255" Green="255" Blue="0"/>
+    <Phonemes Red="255" Green="181" Blue="218"/>
+    <Phrases Red="153" Green="255" Blue="153"/>
+    <ReferenceEffect Red="255" Green="0" Blue="255"/>
+    <ReferenceEffectDisabled Red="255" Green="255" Blue="127"/>
+    <ReferenceEffectLocked Red="255" Green="0" Blue="127"/>
+    <RowHeaderSelected Red="130" Green="178" Blue="207"/>
+    <TextHighlighted Red="0" Green="0" Blue="0"/>
+    <TextUnselected Red="0" Green="0" Blue="0"/>
+    <Timing1 Red="0" Green="255" Blue="255"/>
+    <Timing2 Red="255" Green="0" Blue="0"/>
+    <Timing3 Red="0" Green="255" Blue="0"/>
+    <Timing4 Red="0" Green="0" Blue="255"/>
+    <Timing5 Red="255" Green="255" Blue="0"/>
+    <TimingDefault Red="255" Green="255" Blue="255"/>
+    <Waveform Red="130" Green="178" Blue="207"/>
+    <WaveformMouseMarker Red="0" Green="0" Blue="255"/>
+    <WaveformSelected Red="0" Green="0" Blue="200"/>
+    <WaveformSelectedEffect Red="255" Green="128" Blue="0"/>
+    <Words Red="255" Green="218" Blue="145"/>
+  </colors>
+  <Viewpoints>
+  </Viewpoints>
+</xrgb>

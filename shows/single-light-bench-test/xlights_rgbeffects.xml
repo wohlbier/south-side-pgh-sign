@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xrgb>
   <models type="rgb_effects">
-    <model name="Poly Line" DisplayAs="Poly Line" AlternateNodes="false" Antialias="1" Controller="Dig Quad 1" Corner1="" Corner2="" Corner3="Neither" Corner4="Neither" Corner5="Neither" Corner6="Neither" Corner7="Neither" Corner8="Neither" cPointData="" Dir="L" DropPattern="1" LayoutGroup="Default" LightsPerNode="1" ModelHeight="1.000000" NodesPerString="8" NumPoints="8" PixelSize="20" PointData="0.000000,0.000000,0.000000,92.831207,-60.697388,0.000000,187.447693,-96.401733,0.000000,276.708496,-123.179932,0.000000,374.895386,-146.387726,0.000000,469.511902,-158.884277,0.000000,569.484009,-171.380798,0.000000,689.093445,-178.521606,0.000000" PolyStrings="1" RGBWHandling="R=G=B -&gt; W" ScaleX="1.000000" ScaleY="1.000000" ScaleZ="1.000000" SegsExpanded="TRUE" SourceVersion="2026.16" StartChannel="!Dig Quad 1:1" StartSide="B" StringType="GBRW Nodes" Transparency="0" versionNumber="8" WorldPosX="160.669495" WorldPosY="650.097656" WorldPosZ="0.000000">
+    <model name="Poly Line" DisplayAs="Poly Line" AlternateNodes="false" Antialias="1" Controller="Dig Quad 1" Corner1="" Corner2="" Corner3="Neither" Corner4="Neither" Corner5="Neither" Corner6="Neither" Corner7="Neither" Corner8="Neither" cPointData="" Dir="L" DropPattern="1" LayoutGroup="Default" LightsPerNode="1" ModelHeight="1.000000" NodesPerString="8" NumPoints="8" PixelSize="20" PointData="0.000000,0.000000,0.000000,92.831207,-60.697388,0.000000,187.447693,-96.401733,0.000000,276.708496,-123.179932,0.000000,374.895386,-146.387726,0.000000,469.511902,-158.884277,0.000000,569.484009,-171.380798,0.000000,689.093445,-178.521606,0.000000" PolyStrings="1" RGBWHandling="R=G=B -&gt; W" ScaleX="1.000000" ScaleY="1.000000" ScaleZ="1.000000" SegsExpanded="TRUE" SourceVersion="2026.18" StartChannel="!Dig Quad 1:1" StartSide="B" StringType="GBRW Nodes" Transparency="0" versionNumber="8" WorldPosX="160.669495" WorldPosY="650.097656" WorldPosZ="0.000000">
       <ControllerConnection Port="1" Protocol="sk6812rgbw"/>
     </model>
   </models>
@@ -20,13 +20,13 @@
     <ShowGUID value="94632cb7-3c14-4aef-a6cc-4ea1f2ffd3db"/>
     <previewHeight value="720"/>
     <previewWidth value="1280"/>
-    <xlightsVersion value="2026.16"/>
+    <xlightsVersion value="2026.18"/>
   </settings>
   <modelSets>
   </modelSets>
   <views>
   </views>
-  <colors>
+  <colors version="1">
     <DisabledEffect Red="200" Green="200" Blue="0"/>
     <EffectDefault Red="192" Green="192" Blue="192"/>
     <EffectSelected Red="204" Green="102" Blue="255"/>
@@ -40,6 +40,7 @@
     <LayoutDashes Red="255" Green="255" Blue="0"/>
     <LockedEffect Red="200" Green="0" Blue="0"/>
     <ModelDefault Red="211" Green="211" Blue="211"/>
+    <ModelInVisualiser Red="0" Green="128" Blue="255"/>
     <ModelNotOnController Red="255" Green="128" Blue="0"/>
     <ModelOverlap Red="255" Green="0" Blue="0"/>
     <ModelSelected Red="255" Green="255" Blue="0"/>

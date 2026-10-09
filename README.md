@@ -74,15 +74,16 @@ WLED (http://192.168.10.50/) Notes
 - Length: 8
 - Color order: BRG
 - Data GPIO: 16
-- Config -> Sync Interfaces -> DMX Mode: Multi RGBW
+- Config -> Sync Interfaces -> E1.31, start universe 1 (11, 21 for B, C),
+  DMX Mode
 
 xLights Notes
 - Layout -> Controllers -> Add -> Add E1.31/ArtNET/DDP
-  - Name: Dig Quad 1
+  - Name: Dig Quad A
+  - Vendor: WLED
+  - Model/Category: QuinLED-Dig-Quad
   - IP Address: 192.168.10.50
   - Protocol: E1.31
-  - Vendor: WLED
-  - Uncheck "Keep Channel Numbers"
   - Active: Active
 - Create model(s) (do 10 pixels/node initially to see viz, or Appearance ->
   Pixel Size to 20)
@@ -99,9 +100,15 @@ xLights Notes
   - Status/control network and set static IP to 192.168.10.10 (RPi)
   - Set DNS to 8.8.8.8 and 1.1.1.1, Restart Network
   - Use http://fpp.local to access.
-  - Input/Output Setup -> Channel Outputs. Outputs Count: 1, Set
-  - Enable Output, Active, Dig Quad 1, DDP - One Based, 192.168.10.50,
-    start channel 1, Save.
+  - Input/Output Setup -> Channel Outputs. Outputs Count: 3 (one row per
+    board), Set
+  - Each row: Active, E1.31 - Unicast, board IP, universe size 512,
+    start universe, universe count (pixels / 128, rounded up), Save.
+    - Dig Quad A: 192.168.10.50, start universe 1
+    - Dig Quad B: 192.168.10.51, start universe 11
+    - Dig Quad C: 192.168.10.52, start universe 21
+  - Enable Output, Active, Dig Quad A, E1.31 - Unicast, 192.168.10.50,
+    universe size 512, start universe 1, Save.
   - Status/Control -> Display Testing. Start channel 1, End Channel 32,
     Click Enable Test Mode
   - Go back to xLights.
