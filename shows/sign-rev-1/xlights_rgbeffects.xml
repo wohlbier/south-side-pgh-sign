@@ -195,7 +195,7 @@
     </modelGroup>
     <modelGroup name="SIDE S" DisplayAs="ModelGroup" DefaultCamera="2D" GridSize="400" layout="minimalGrid" LayoutGroup="Default" models="JJ,KK,LL">
     </modelGroup>
-    <modelGroup name="SIDE fill" DisplayAs="ModelGroup" DefaultCamera="2D" GridSize="400" layout="minimalGrid" LayoutGroup="Default" models="GG,HH,II">
+    <modelGroup name="SIDE tube" DisplayAs="ModelGroup" centreDefined="1" centreMaxx="668" centreMaxy="163" centreMinx="656" centreMiny="154" centrex="662.611633" centrey="158.701904" DefaultCamera="2D" GridSize="400" layout="minimalGrid" LayoutGroup="Default" models="GG,HH,II" XCentreOffset="5">
     </modelGroup>
     <modelGroup name="SOUTH" DisplayAs="ModelGroup" DefaultCamera="2D" GridSize="400" layout="minimalGrid" LayoutGroup="Default" models="SOUTH S,SOUTH O,SOUTH U,SOUTH T,SOUTH H">
     </modelGroup>
@@ -209,9 +209,9 @@
     </modelGroup>
     <modelGroup name="SOUTH U" DisplayAs="ModelGroup" DefaultCamera="2D" GridSize="400" layout="minimalGrid" LayoutGroup="Default" models="O,P,Q">
     </modelGroup>
-    <modelGroup name="SOUTH fill" DisplayAs="ModelGroup" DefaultCamera="2D" GridSize="387" layout="minimalGrid" LayoutGroup="Default" models="D,E,F">
+    <modelGroup name="SOUTH tube" DisplayAs="ModelGroup" DefaultCamera="2D" GridSize="387" layout="minimalGrid" LayoutGroup="Default" models="D,E,F">
     </modelGroup>
-    <modelGroup name="Whole sign" DisplayAs="ModelGroup" DefaultCamera="2D" GridSize="400" layout="minimalGrid" LayoutGroup="Default" models="SOUTH,SIDE,SOUTH fill,SIDE fill,Pour">
+    <modelGroup name="Whole sign" DisplayAs="ModelGroup" DefaultCamera="2D" GridSize="400" layout="minimalGrid" LayoutGroup="Default" models="SOUTH,SIDE,SOUTH tube,SIDE tube,Pour">
     </modelGroup>
   </modelGroups>
   <view_objects>
