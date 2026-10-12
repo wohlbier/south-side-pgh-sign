@@ -33,6 +33,15 @@
     <Element collapsed="false" type="model" name="Pour" visible="true" />
     <Element collapsed="false" type="model" name="SIDE tube" visible="true" />
     <Element collapsed="false" type="model" name="SOUTH tube" visible="true" />
+    <Element collapsed="false" type="model" name="SOUTH S" visible="true" />
+    <Element collapsed="false" type="model" name="SOUTH H" visible="true" />
+    <Element collapsed="false" type="model" name="SOUTH O" visible="true" />
+    <Element collapsed="false" type="model" name="SOUTH T" visible="true" />
+    <Element collapsed="false" type="model" name="SOUTH U" visible="true" />
+    <Element collapsed="false" type="model" name="SIDE D" visible="true" />
+    <Element collapsed="false" type="model" name="SIDE E" visible="true" />
+    <Element collapsed="false" type="model" name="SIDE I" visible="true" />
+    <Element collapsed="false" type="model" name="SIDE S" visible="true" />
   </DisplayElements>
   <ElementEffects>
     <Element type="timing" name="Molten Pour" fixed="500">
@@ -46,14 +55,68 @@
     </Element>
     <Element type="model" name="SIDE tube">
       <EffectLayer>
-        <Effect ref="2" name="Fill" startTime="4500" endTime="7500" palette="0" />
-        <Effect ref="1" name="On" id="1" startTime="7500" endTime="20350" palette="0" />
+        <Effect ref="2" name="Fill" startTime="4500" endTime="5000" palette="0" />
+        <Effect ref="1" name="On" id="1" startTime="5000" endTime="20350" palette="0" />
       </EffectLayer>
     </Element>
     <Element type="model" name="SOUTH tube">
       <EffectLayer>
         <Effect ref="2" name="Fill" startTime="3000" endTime="5700" palette="0" />
         <Effect ref="1" name="On" id="1" startTime="5700" endTime="20350" palette="0" />
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="SOUTH S">
+      <EffectLayer>
+        <Effect ref="2" name="Fill" startTime="5700" endTime="8700" palette="0" />
+        <Effect ref="1" name="On" id="1" startTime="8700" endTime="23350" palette="0" />
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="SOUTH H">
+      <EffectLayer>
+        <Effect ref="2" name="Fill" startTime="9000" endTime="12000" palette="0" />
+        <Effect ref="1" name="On" id="1" startTime="12000" endTime="26650" palette="0" />
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="SOUTH O">
+      <EffectLayer>
+        <Effect ref="2" name="Fill" startTime="6500" endTime="9500" palette="0" />
+        <Effect ref="1" name="On" id="1" startTime="9500" endTime="24150" palette="0" />
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="SOUTH T">
+      <EffectLayer>
+        <Effect ref="2" name="Fill" startTime="8500" endTime="11500" palette="0" />
+        <Effect ref="1" name="On" id="1" startTime="11500" endTime="26150" palette="0" />
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="SOUTH U">
+      <EffectLayer>
+        <Effect ref="2" name="Fill" startTime="7500" endTime="10500" palette="0" />
+        <Effect ref="1" name="On" id="1" startTime="10500" endTime="25150" palette="0" />
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="SIDE D">
+      <EffectLayer>
+        <Effect ref="2" name="Fill" startTime="5000" endTime="8000" palette="0" />
+        <Effect ref="1" name="On" id="1" startTime="8000" endTime="22650" palette="0" />
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="SIDE E">
+      <EffectLayer>
+        <Effect ref="2" name="Fill" startTime="6000" endTime="9000" palette="0" />
+        <Effect ref="1" name="On" id="1" startTime="9000" endTime="23650" palette="0" />
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="SIDE I">
+      <EffectLayer>
+        <Effect ref="2" name="Fill" startTime="6000" endTime="9000" palette="0" />
+        <Effect ref="1" name="On" id="1" startTime="9000" endTime="23650" palette="0" />
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="SIDE S">
+      <EffectLayer>
+        <Effect ref="2" name="Fill" startTime="5000" endTime="8000" palette="0" />
+        <Effect ref="1" name="On" id="1" startTime="8000" endTime="22650" palette="0" />
       </EffectLayer>
     </Element>
   </ElementEffects>
