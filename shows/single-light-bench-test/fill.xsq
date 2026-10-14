@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <xsequence BaseChannel="0" ChanCtrlBasic="0" ChanCtrlColor="0" FixedPointTiming="1" ModelBlending="true">
   <head>
-    <version>2026.16</version>
+    <version>2026.18</version>
     <author></author>
     <author-email></author-email>
     <author-website></author-website>
@@ -36,7 +36,7 @@
     </Element>
     <Element type="model" name="Poly Line">
       <EffectLayer>
-        <Effect ref="0" name="Fill" selected="1" id="1" startTime="0" endTime="8000" palette="0" />
+        <Effect ref="0" name="Fill" selected="1" startTime="0" endTime="8000" palette="0" />
       </EffectLayer>
     </Element>
   </ElementEffects>

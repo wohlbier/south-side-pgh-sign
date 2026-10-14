@@ -72,10 +72,10 @@ From now on use http://fpp.local to access.
 WLED (http://192.168.10.50/) Notes
 - LED settings: SK6812/WS2814 RGBW
 - Length: 8
-- Color order: BRG
+- Color order: RBG
 - Data GPIO: 16
 - Config -> Sync Interfaces -> E1.31, start universe 1 (11, 21 for B, C),
-  DMX Mode
+  bench model RGBW Nodes, and DMX mode Multi RGBW
 
 xLights Notes
 - Layout -> Controllers -> Add -> Add E1.31/ArtNET/DDP

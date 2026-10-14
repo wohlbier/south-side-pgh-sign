@@ -183,6 +183,12 @@
     </model>
   </models>
   <modelGroups type="rgb_effects">
+    <modelGroup name="H cross" DisplayAs="ModelGroup" centreDefined="1" centreMaxx="731" centreMaxy="326" centreMinx="701" centreMiny="314" centrex="716.495422" centrey="320.336456" DefaultCamera="2D" GridSize="400" layout="minimalGrid" LayoutGroup="Default" models="AA,BB,CC" XCentreOffset="-6">
+    </modelGroup>
+    <modelGroup name="H left" DisplayAs="ModelGroup" DefaultCamera="2D" GridSize="400" layout="minimalGrid" LayoutGroup="Default" models="X,Y,Z">
+    </modelGroup>
+    <modelGroup name="H right" DisplayAs="ModelGroup" DefaultCamera="2D" GridSize="400" layout="minimalGrid" LayoutGroup="Default" models="DD,EE,FF">
+    </modelGroup>
     <modelGroup name="Pour" DisplayAs="ModelGroup" DefaultCamera="2D" GridSize="400" layout="minimalGrid" LayoutGroup="Default" models="A,B,C">
     </modelGroup>
     <modelGroup name="SIDE" DisplayAs="ModelGroup" DefaultCamera="2D" GridSize="400" layout="minimalGrid" LayoutGroup="Default" models="SIDE S,SIDE I,SIDE D,SIDE E">
