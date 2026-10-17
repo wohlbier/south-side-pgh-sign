@@ -22,9 +22,12 @@
   <img src="./docs/SSS.3.png" alt="South Side Sketch" width="100%">
 </p>
 
+---
+
 ## Programming the sign
 To make new animations for the sign go [here](./programming.md)
 
+---
 ## Setting up the electronics
 ### Pi
 - https://falconchristmas.com/forum/
