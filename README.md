@@ -10,6 +10,9 @@
   <img src="./docs/SouthSideSketch.png" alt="South Side Sketch" width="100%">
 </p>
 <p align="center">
+  <img src="./docs/SSS.4.png" alt="South Side Sketch" width="100%">
+</p>
+<p align="center">
   <img src="./docs/SSS.1.png" alt="South Side Sketch" width="100%">
 </p>
 <p align="center">
@@ -17,9 +20,6 @@
 </p>
 <p align="center">
   <img src="./docs/SSS.3.png" alt="South Side Sketch" width="100%">
-</p>
-<p align="center">
-  <img src="./docs/SSS.4.png" alt="South Side Sketch" width="100%">
 </p>
 
 ## Setting it up
