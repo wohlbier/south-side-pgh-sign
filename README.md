@@ -3,16 +3,12 @@
 <p align="center">
   <img src="./docs/s-s-sign.png" alt="South Side sign" width="100%">
 </p>
-
+<p align="center">
+  <img src="./docs/s-s-mech.png" alt="South Side sign mechanical drawing" width="100%">
+</p>
 <p align="center">
   <img src="./docs/SouthSideSketch.png" alt="South Side Sketch" width="100%">
 </p>
-
-<p align="center">
-  <img src="./docs/SSS.LED.png" alt="South Side sign LED dimensions drawing" width="49%">
-  <img src="./docs/s-s-mech.png" alt="South Side sign mechanical drawing" width="49%">
-</p>
-
 <p align="center">
   <img src="./docs/SSS.1.png" alt="South Side Sketch" width="100%">
 </p>
