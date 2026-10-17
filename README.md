@@ -56,6 +56,7 @@ arp -a
 - On mac go back to static IP on ethernet LAN
 - From now on use http://fpp.local to access
 - For final setup
+  - Change SSH/system password
   - Set FPP UI password
   - Set tethering to on and network to phone hotspot SSID
 
