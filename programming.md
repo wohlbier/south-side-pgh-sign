@@ -1,4 +1,4 @@
-- Clone this repository
+- Fork this repository
 - Install [xLights](https://xlights.org/)
 - Open xLights and set your show directory to point [here](./shows/sign-rev-1)
 - For an example, load a sequence from [here](./shows/sign-rev-1/sequences)

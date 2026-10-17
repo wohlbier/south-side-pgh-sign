@@ -67,7 +67,8 @@ arp -a
 - Site for flashing if needed: https://install.wled.me/
 - Connect to switch, then can access in browser by IP address
 
-#### WLED (http://192.168.10.50/) Notes
+#### [WLED](https://kno.wled.ge/) Notes
+- Access via IP, e.g., (http://192.168.10.50)
 - LED settings: SK6812/WS2814 RGBW
 - One light length: 8
 - Color order: RGB
