@@ -100,13 +100,13 @@ arp -a
 - Layout -> Models -> pick a model -> Controller -> Dig Quad A. Set number of
   nodes to match the number of pixels in the light, and Lights/Node = 1.
   String properties -> String Type: RGBW Nodes, RGB Color Handling:
-  R=G=B -> W.
+  R=G=B -> W
 - Add models to a metronome sequence
-- Apply effects desired until preview looks correct.
+- Apply effects desired until preview looks correct
 - Click paint palette - Render All
 - While connected to hardware click the light bulb icon to Output to Lights,
   click the loop on the playback, then press play. The LEDs should light
-  according to the sequence.
+  according to the sequence
 - FPP
   - Status/control network and set static IP to 192.168.10.10 (RPi)
   - Set DNS to 8.8.8.8 and 1.1.1.1, Restart Network
@@ -119,15 +119,15 @@ arp -a
     - Dig Quad B: 192.168.10.51, start universe 11
     - Dig Quad C: 192.168.10.52, start universe 21
   - Enable Output, Active, Dig Quad A, E1.31 - Unicast, 192.168.10.50,
-    universe size 512, start universe 1, Save.
+    universe size 512, start universe 1, Save
   - Status/Control -> Display Testing. Start channel 1, End Channel 32,
     Click Enable Test Mode
-  - Go back to xLights.
+  - Go back to xLights
 - Tools -> FPP Connect, discovers device. Check upload. Check sequence name.
   Click upload.
 - FPP
   - Content setup -> playlists, New Playlist, Add a sequence, add
-  your sequence. Set Repeat, play.
+  your sequence. Set Repeat, play
 
 ## Power
 - 15W/meter, 5 meter length circuit, 75W/circuit, 75W/24V = 3.125A/circuit
