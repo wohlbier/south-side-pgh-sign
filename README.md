@@ -54,7 +54,10 @@ arp -a
   192.168.10.10
 - Set DNS to 8.8.8.8 and 1.1.1.1, Restart Network
 - On mac go back to static IP on ethernet LAN
-- From now on use http://fpp.local to access.
+- From now on use http://fpp.local to access
+- For final setup
+  - Set FPP UI password
+  - Set tethering to on and network to phone hotspot SSID
 
 ---
 ### [Dig-Quad](https://quinled.info/quinled-dig-quad/)
@@ -75,7 +78,11 @@ arp -a
 - Data GPIO: 16
 - Config -> Sync Interfaces -> E1.31, start universe 1 (11, 21 for B, C),
   bench model RGBW Nodes, and DMX mode Multi RGBW
-- For final setup disable WiFi
+- For final setup disable WiFi, on all three boards
+  - AP Opens: Never
+  - Blank the client SSID
+  - Set GPIO0 to Pushbutton for emergency physical access restart
+  - Save settings
 
 ---
 ### [xLights](https://xlights.org/)
