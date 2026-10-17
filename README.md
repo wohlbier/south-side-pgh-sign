@@ -22,7 +22,10 @@
   <img src="./docs/SSS.3.png" alt="South Side Sketch" width="100%">
 </p>
 
-## Setting it up
+## Programming the sign
+To make new animations for the sign go [here](./programming.md)
+
+## Setting up the electronics
 ### Pi
 - https://falconchristmas.com/forum/
 - Download Pi imager `imager_2.0.10.dmg` install the dmg
