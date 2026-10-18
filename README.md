@@ -25,7 +25,7 @@
 ---
 
 ## Programming the sign
-To make new animations for the sign go [here](./programming.md)
+To make new animations for the sign go [here](./programming.md).
 
 ---
 ## Setting up the electronics
@@ -85,7 +85,8 @@ arp -a
 - For final setup disable WiFi, on all three boards
   - AP Opens: Never
   - Blank the client SSID
-  - Set GPIO0 to Pushbutton for emergency physical access restart
+  - Set GPIO0 to Pushbutton for emergency physical access restart in
+    LED & Hardware
   - Save settings
 
 ---
