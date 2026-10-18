@@ -62,6 +62,7 @@ arp -a
   - Change SSH/system password
   - Set FPP UI password
   - Set tethering to on and network to phone hotspot SSID
+  - Backup configuration into `configs/FPP.json`
 
 ---
 ### [Dig-Quad](https://quinled.info/quinled-dig-quad/)
