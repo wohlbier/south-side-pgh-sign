@@ -21,3 +21,5 @@ shows/**/*.avi
 # ── OS cruft (anywhere in repo) ───────────────────────
 .DS_Store
 **/.DS_Store
+
+receipts
