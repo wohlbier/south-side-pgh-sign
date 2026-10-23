@@ -28,6 +28,7 @@
 <p align="center">
   <img src="./docs/molten-fill.gif" alt="Molten fill animation" width="450">
 </p>
+
 To make new animations for the sign go [here](./programming.md).
 
 ---
