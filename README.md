@@ -86,7 +86,7 @@ arp -a
 - Connect to switch, then can access in browser by IP address
 
 #### [WLED](https://kno.wled.ge/) Notes
-- Access via IP, e.g., (http://192.168.10.50)
+- Access via IP, http://192.168.10.50 (.51 .52)
 - LED settings: SK6812/WS2814 RGBW
 - One light length: 8
 - Color order: RGB
@@ -98,6 +98,7 @@ arp -a
   - Blank the client SSID
   - Set GPIO0 to Pushbutton for emergency physical access restart in
     LED & Hardware
+  - Backup the json settings into `config/dig-quad-<A,B,C>.json`
   - Save settings
 
 ---
@@ -107,7 +108,7 @@ arp -a
   - Name: Dig Quad A/B/C
   - Vendor: WLED
   - Model/Category: QuinLED-Dig-Quad
-  - IP Address: 192.168.10.50/.51/.52
+  - IP Address: 192.168.10.50 (.51 .52)
   - Protocol: E1.31
   - Active: Active
 - Create model(s) (do 10 pixels/node initially to see viz, or Appearance ->
