@@ -32,7 +32,7 @@ To make new animations for the sign go [here](./programming.md).
   <img src="./docs/molten-fill.gif" alt="Molten fill animation" width="450">
 </p>
 <p align="center">
-  <img src="./docs/bench.jpg" alt="Bench" width="100%">
+  <img src="./docs/sequences/bench.jpg" alt="Bench" width="100%">
 </p>
 
 ---

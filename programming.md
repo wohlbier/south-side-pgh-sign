@@ -8,4 +8,5 @@
   if you run into problems
 - Open a Pull Request that adds your `xsq` file to
   [shows/sign-rev-1/sequences](./shows/sign-rev-1/sequences) and adds a
-  note in the list of [sequences](./sequences.md)
+  note in the list of [sequences](./sequences.md) and an animation in
+  [docs/sequences/](./docs/sequences)
