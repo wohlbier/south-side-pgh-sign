@@ -62,6 +62,8 @@ arp -a
   - Change SSH/system password
   - Set FPP UI password
   - Set tethering to on and network to phone hotspot SSID
+  - In Proxy, add 192.168.10.50 (.51.52) then access from host with
+    http://fpp.local/proxy/192.168.10.50/ (.51 .52)
   - Backup configuration into `configs/FPP.json`
 
 ---
