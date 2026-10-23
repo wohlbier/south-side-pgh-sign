@@ -1,5 +1,5 @@
 # Program the sign!
-- Fork this repository
+- Fork this repository and clone your fork
 - Install [xLights](https://xlights.org/)
 - Open xLights and set your show directory to point [shows/sign-rev-1](./shows/sign-rev-1)
 - For an example, load a sequence from [shows/sign-rev-1/sequences](./shows/sign-rev-1/sequences)
