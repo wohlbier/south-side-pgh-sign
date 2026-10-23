@@ -4,5 +4,11 @@
 <p align="center">
   <img src="./docs/sequences/molten-fill.gif" alt="Molten fill animation" width="450">
 </p>
+
 - [Solid](./shows/sign-rev-1/sequences/solid.xsq)
   - Solid steel color
+<p align="center">
+  <img src="./docs/sequences/solid.png" alt="South Side sign" width="100%">
+</p>
+
+- Put your animation here!
