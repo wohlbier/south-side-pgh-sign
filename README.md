@@ -25,11 +25,15 @@
 ---
 
 ## Programming the sign
+
+To make new animations for the sign go [here](./programming.md).
+
 <p align="center">
   <img src="./docs/molten-fill.gif" alt="Molten fill animation" width="450">
 </p>
-
-To make new animations for the sign go [here](./programming.md).
+<p align="center">
+  <img src="./docs/bench.jpg" alt="Bench" width="100%">
+</p>
 
 ---
 ## Setting up the electronics
