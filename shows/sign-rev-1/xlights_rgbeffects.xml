@@ -217,6 +217,10 @@
     </modelGroup>
     <modelGroup name="SOUTH tube" DisplayAs="ModelGroup" DefaultCamera="2D" GridSize="387" layout="minimalGrid" LayoutGroup="Default" models="D,E,F">
     </modelGroup>
+    <modelGroup name="T bar" DisplayAs="ModelGroup" DefaultCamera="2D" GridSize="400" layout="minimalGrid" LayoutGroup="Default" models="U,V,W">
+    </modelGroup>
+    <modelGroup name="T stem" DisplayAs="ModelGroup" DefaultCamera="2D" GridSize="400" layout="minimalGrid" LayoutGroup="Default" models="R,S,T">
+    </modelGroup>
     <modelGroup name="Whole sign" DisplayAs="ModelGroup" DefaultCamera="2D" GridSize="400" layout="minimalGrid" LayoutGroup="Default" models="SOUTH,SIDE,SOUTH tube,SIDE tube,Pour">
     </modelGroup>
   </modelGroups>
