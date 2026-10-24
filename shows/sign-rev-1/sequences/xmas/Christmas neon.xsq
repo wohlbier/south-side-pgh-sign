@@ -1,0 +1,522 @@
+<?xml version="1.0"?>
+<xsequence BaseChannel="0" ChanCtrlBasic="0" ChanCtrlColor="0" FixedPointTiming="1" ModelBlending="true">
+  <head>
+    <version>2026.18</version>
+    <author></author>
+    <author-email></author-email>
+    <author-website></author-website>
+    <song></song>
+    <artist></artist>
+    <album></album>
+    <MusicURL></MusicURL>
+    <comment></comment>
+    <sequenceTiming>50 ms</sequenceTiming>
+    <sequenceType>Animation</sequenceType>
+    <mediaFile></mediaFile>
+    <sequenceDuration>30.000</sequenceDuration>
+    <imageDir></imageDir>
+  </head>
+  <ColorPalettes>
+    <ColorPalette>C_BUTTON_Palette1=#ffffff,C_BUTTON_Palette2=#000000,C_BUTTON_Palette3=#000000,C_BUTTON_Palette4=#000000,C_BUTTON_Palette5=#000000,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#000000,C_BUTTON_Palette8=#000000,C_CHECKBOXBRIGHTNESSLEVEL=0,C_CHECKBOX_Chroma=0,C_CHECKBOX_MusicSparkles=0,C_CHECKBOX_Palette1=1,C_CHECKBOX_Palette2=0,C_CHECKBOX_Palette3=0,C_CHECKBOX_Palette4=0,C_CHECKBOX_Palette5=0,C_CHECKBOX_Palette6=0,C_CHECKBOX_Palette7=0,C_CHECKBOX_Palette8=0,C_SLIDER_SparkleFrequency=0</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#303030,C_BUTTON_Palette2=#000000,C_BUTTON_Palette3=#000000,C_BUTTON_Palette4=#000000,C_BUTTON_Palette5=#000000,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#000000,C_BUTTON_Palette8=#000000,C_CHECKBOXBRIGHTNESSLEVEL=0,C_CHECKBOX_Chroma=0,C_CHECKBOX_MusicSparkles=0,C_CHECKBOX_Palette1=1,C_CHECKBOX_Palette2=0,C_CHECKBOX_Palette3=0,C_CHECKBOX_Palette4=0,C_CHECKBOX_Palette5=0,C_CHECKBOX_Palette6=0,C_CHECKBOX_Palette7=0,C_CHECKBOX_Palette8=0,C_SLIDER_SparkleFrequency=0</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#ff0000,C_BUTTON_Palette2=#000000,C_BUTTON_Palette3=#000000,C_BUTTON_Palette4=#000000,C_BUTTON_Palette5=#000000,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#000000,C_BUTTON_Palette8=#000000,C_CHECKBOXBRIGHTNESSLEVEL=0,C_CHECKBOX_Chroma=0,C_CHECKBOX_MusicSparkles=0,C_CHECKBOX_Palette1=1,C_CHECKBOX_Palette2=0,C_CHECKBOX_Palette3=0,C_CHECKBOX_Palette4=0,C_CHECKBOX_Palette5=0,C_CHECKBOX_Palette6=0,C_CHECKBOX_Palette7=0,C_CHECKBOX_Palette8=0,C_SLIDER_SparkleFrequency=0</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#500000,C_BUTTON_Palette2=#000000,C_BUTTON_Palette3=#000000,C_BUTTON_Palette4=#000000,C_BUTTON_Palette5=#000000,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#000000,C_BUTTON_Palette8=#000000,C_CHECKBOXBRIGHTNESSLEVEL=0,C_CHECKBOX_Chroma=0,C_CHECKBOX_MusicSparkles=0,C_CHECKBOX_Palette1=1,C_CHECKBOX_Palette2=0,C_CHECKBOX_Palette3=0,C_CHECKBOX_Palette4=0,C_CHECKBOX_Palette5=0,C_CHECKBOX_Palette6=0,C_CHECKBOX_Palette7=0,C_CHECKBOX_Palette8=0,C_SLIDER_SparkleFrequency=0</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#00ff00,C_BUTTON_Palette2=#000000,C_BUTTON_Palette3=#000000,C_BUTTON_Palette4=#000000,C_BUTTON_Palette5=#000000,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#000000,C_BUTTON_Palette8=#000000,C_CHECKBOXBRIGHTNESSLEVEL=0,C_CHECKBOX_Chroma=0,C_CHECKBOX_MusicSparkles=0,C_CHECKBOX_Palette1=1,C_CHECKBOX_Palette2=0,C_CHECKBOX_Palette3=0,C_CHECKBOX_Palette4=0,C_CHECKBOX_Palette5=0,C_CHECKBOX_Palette6=0,C_CHECKBOX_Palette7=0,C_CHECKBOX_Palette8=0,C_SLIDER_SparkleFrequency=0</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#005000,C_BUTTON_Palette2=#000000,C_BUTTON_Palette3=#000000,C_BUTTON_Palette4=#000000,C_BUTTON_Palette5=#000000,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#000000,C_BUTTON_Palette8=#000000,C_CHECKBOXBRIGHTNESSLEVEL=0,C_CHECKBOX_Chroma=0,C_CHECKBOX_MusicSparkles=0,C_CHECKBOX_Palette1=1,C_CHECKBOX_Palette2=0,C_CHECKBOX_Palette3=0,C_CHECKBOX_Palette4=0,C_CHECKBOX_Palette5=0,C_CHECKBOX_Palette6=0,C_CHECKBOX_Palette7=0,C_CHECKBOX_Palette8=0,C_SLIDER_SparkleFrequency=0</ColorPalette>
+  </ColorPalettes>
+  <EffectDB>
+    <Effect>T_CHECKBOX_Canvas=0,T_CHECKBOX_LayerMorph=0,T_CHOICE_LayerMethod=Normal,T_SLIDER_EffectLayerMix=0</Effect>
+  </EffectDB>
+  <SequenceMedia />
+  <DataLayers>
+    <DataLayer lor_params="0" channel_offset="0" num_channels="0" num_frames="0" data="&lt;rendered: erase-mode>" source="&lt;auto-generated>" name="Nutcracker" />
+  </DataLayers>
+  <DisplayElements>
+    <Element collapsed="false" type="timing" name="Molten Pour" visible="true" views="" active="true" />
+    <Element collapsed="false" type="model" name="Pour" visible="true" />
+    <Element collapsed="false" type="model" name="SIDE tube" visible="true" />
+    <Element collapsed="false" type="model" name="SOUTH tube" visible="true" />
+    <Element collapsed="false" type="model" name="SOUTH S" visible="true" />
+    <Element collapsed="false" type="model" name="SOUTH H" visible="true" />
+    <Element collapsed="false" type="model" name="SOUTH O" visible="true" />
+    <Element collapsed="false" type="model" name="SOUTH T" visible="true" />
+    <Element collapsed="false" type="model" name="T bar" visible="true" />
+    <Element collapsed="false" type="model" name="T stem" visible="true" />
+    <Element collapsed="false" type="model" name="SOUTH U" visible="true" />
+    <Element collapsed="false" type="model" name="SIDE D" visible="true" />
+    <Element collapsed="false" type="model" name="SIDE E" visible="true" />
+    <Element collapsed="false" type="model" name="SIDE I" visible="true" />
+    <Element collapsed="false" type="model" name="SIDE S" visible="true" />
+    <Element collapsed="false" type="model" name="H cross" visible="true" />
+    <Element collapsed="false" type="model" name="H left" visible="true" />
+    <Element collapsed="false" type="model" name="H right" visible="true" />
+  </DisplayElements>
+  <ElementEffects>
+    <Element type="timing" name="Molten Pour" fixed="500">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="Pour">
+      <EffectLayer>
+        <Effect ref="0" name="On" startTime="0" endTime="7500" palette="0" />
+        <Effect ref="0" name="On" startTime="7500" endTime="7550" palette="1" />
+        <Effect ref="0" name="On" startTime="7550" endTime="7700" palette="0" />
+        <Effect ref="0" name="On" startTime="7800" endTime="10450" palette="0" />
+        <Effect ref="0" name="On" startTime="10450" endTime="10600" palette="1" />
+        <Effect ref="0" name="On" startTime="10600" endTime="10650" palette="0" />
+        <Effect ref="0" name="On" startTime="10800" endTime="10950" palette="0" />
+        <Effect ref="0" name="On" startTime="11100" endTime="11250" palette="0" />
+        <Effect ref="0" name="On" startTime="11250" endTime="11400" palette="1" />
+        <Effect ref="0" name="On" startTime="11400" endTime="15000" palette="0" />
+        <Effect ref="0" name="On" startTime="15000" endTime="15200" palette="1" />
+        <Effect ref="0" name="On" startTime="15200" endTime="15500" palette="0" />
+        <Effect ref="0" name="On" startTime="15550" endTime="15700" palette="0" />
+        <Effect ref="0" name="On" startTime="15900" endTime="16000" palette="0" />
+        <Effect ref="0" name="On" startTime="16400" endTime="16500" palette="0" />
+        <Effect ref="0" name="On" startTime="19000" endTime="19100" palette="0" />
+        <Effect ref="0" name="On" startTime="19250" endTime="19350" palette="1" />
+        <Effect ref="0" name="On" startTime="19550" endTime="30000" palette="0" />
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="SIDE tube">
+      <EffectLayer>
+        <Effect ref="0" name="On" startTime="0" endTime="7450" palette="0" />
+        <Effect ref="0" name="On" startTime="7600" endTime="7750" palette="0" />
+        <Effect ref="0" name="On" startTime="7900" endTime="8050" palette="0" />
+        <Effect ref="0" name="On" startTime="8050" endTime="8200" palette="1" />
+        <Effect ref="0" name="On" startTime="8200" endTime="8300" palette="0" />
+        <Effect ref="0" name="On" startTime="8400" endTime="8550" palette="0" />
+        <Effect ref="0" name="On" startTime="8550" endTime="8600" palette="1" />
+        <Effect ref="0" name="On" startTime="8600" endTime="11250" palette="0" />
+        <Effect ref="0" name="On" startTime="11400" endTime="11550" palette="0" />
+        <Effect ref="0" name="On" startTime="11700" endTime="11850" palette="0" />
+        <Effect ref="0" name="On" startTime="11900" endTime="11950" palette="0" />
+        <Effect ref="0" name="On" startTime="12100" endTime="12200" palette="0" />
+        <Effect ref="0" name="On" startTime="12200" endTime="12350" palette="1" />
+        <Effect ref="0" name="On" startTime="12350" endTime="15000" palette="0" />
+        <Effect ref="0" name="On" startTime="15000" endTime="15200" palette="1" />
+        <Effect ref="0" name="On" startTime="15200" endTime="15500" palette="0" />
+        <Effect ref="0" name="On" startTime="15550" endTime="15700" palette="0" />
+        <Effect ref="0" name="On" startTime="15900" endTime="16000" palette="0" />
+        <Effect ref="0" name="On" startTime="16400" endTime="16500" palette="0" />
+        <Effect ref="0" name="On" startTime="19250" endTime="19350" palette="0" />
+        <Effect ref="0" name="On" startTime="19500" endTime="19600" palette="1" />
+        <Effect ref="0" name="On" startTime="19800" endTime="30000" palette="0" />
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="SOUTH tube">
+      <EffectLayer>
+        <Effect ref="0" name="On" startTime="0" endTime="8000" palette="0" />
+        <Effect ref="0" name="On" startTime="8100" endTime="8200" palette="0" />
+        <Effect ref="0" name="On" startTime="8300" endTime="8350" palette="0" />
+        <Effect ref="0" name="On" startTime="8350" endTime="8450" palette="1" />
+        <Effect ref="0" name="On" startTime="8450" endTime="8600" palette="0" />
+        <Effect ref="0" name="On" startTime="8700" endTime="8800" palette="0" />
+        <Effect ref="0" name="On" startTime="8800" endTime="8850" palette="1" />
+        <Effect ref="0" name="On" startTime="8850" endTime="12650" palette="0" />
+        <Effect ref="0" name="On" startTime="12700" endTime="12750" palette="0" />
+        <Effect ref="0" name="On" startTime="12800" endTime="12950" palette="0" />
+        <Effect ref="0" name="On" startTime="13000" endTime="13050" palette="0" />
+        <Effect ref="0" name="On" startTime="13050" endTime="13100" palette="1" />
+        <Effect ref="0" name="On" startTime="13100" endTime="14450" palette="0" />
+        <Effect ref="0" name="On" startTime="14450" endTime="14550" palette="1" />
+        <Effect ref="0" name="On" startTime="14550" endTime="14650" palette="0" />
+        <Effect ref="0" name="On" startTime="14650" endTime="14750" palette="1" />
+        <Effect ref="0" name="On" startTime="14750" endTime="14850" palette="0" />
+        <Effect ref="0" name="On" startTime="14850" endTime="14950" palette="1" />
+        <Effect ref="0" name="On" startTime="14950" endTime="15000" palette="0" />
+        <Effect ref="0" name="On" startTime="15000" endTime="15200" palette="1" />
+        <Effect ref="0" name="On" startTime="15200" endTime="15500" palette="0" />
+        <Effect ref="0" name="On" startTime="15550" endTime="15700" palette="0" />
+        <Effect ref="0" name="On" startTime="15900" endTime="16000" palette="0" />
+        <Effect ref="0" name="On" startTime="16400" endTime="16500" palette="0" />
+        <Effect ref="0" name="On" startTime="19150" endTime="19250" palette="0" />
+        <Effect ref="0" name="On" startTime="19400" endTime="19500" palette="1" />
+        <Effect ref="0" name="On" startTime="19700" endTime="30000" palette="0" />
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="SOUTH S">
+      <EffectLayer>
+        <Effect ref="0" name="On" startTime="0" endTime="6100" palette="0" />
+        <Effect ref="0" name="On" startTime="6250" endTime="6300" palette="0" />
+        <Effect ref="0" name="On" startTime="6300" endTime="6450" palette="1" />
+        <Effect ref="0" name="On" startTime="6450" endTime="6600" palette="0" />
+        <Effect ref="0" name="On" startTime="6600" endTime="6650" palette="1" />
+        <Effect ref="0" name="On" startTime="6650" endTime="10900" palette="0" />
+        <Effect ref="0" name="On" startTime="10950" endTime="11100" palette="0" />
+        <Effect ref="0" name="On" startTime="11100" endTime="11150" palette="1" />
+        <Effect ref="0" name="On" startTime="11150" endTime="14950" palette="0" />
+        <Effect ref="0" name="On" startTime="15000" endTime="15100" palette="1" />
+        <Effect ref="0" name="On" startTime="15250" endTime="15400" palette="0" />
+        <Effect ref="0" name="On" startTime="15550" endTime="15600" palette="0" />
+        <Effect ref="0" name="On" startTime="15650" endTime="15700" palette="0" />
+        <Effect ref="0" name="On" startTime="15900" endTime="16000" palette="0" />
+        <Effect ref="0" name="On" startTime="16400" endTime="16500" palette="0" />
+        <Effect ref="0" name="On" startTime="19500" endTime="19600" palette="2" />
+        <Effect ref="0" name="On" startTime="19750" endTime="19850" palette="3" />
+        <Effect ref="0" name="On" startTime="20050" endTime="21000" palette="2" />
+        <Effect ref="0" name="On" startTime="21000" endTime="22500" palette="4" />
+        <Effect ref="0" name="On" startTime="22500" endTime="24000" palette="2" />
+        <Effect ref="0" name="On" startTime="24000" endTime="25500" palette="4" />
+        <Effect ref="0" name="On" startTime="25500" endTime="27000" palette="2" />
+        <Effect ref="0" name="On" startTime="27000" endTime="28500" palette="4" />
+        <Effect ref="0" name="On" startTime="28500" endTime="30000" palette="2" />
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="SOUTH H">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="SOUTH O">
+      <EffectLayer>
+        <Effect ref="0" name="On" startTime="0" endTime="6850" palette="0" />
+        <Effect ref="0" name="On" startTime="6900" endTime="7050" palette="0" />
+        <Effect ref="0" name="On" startTime="7050" endTime="7100" palette="1" />
+        <Effect ref="0" name="On" startTime="7100" endTime="7250" palette="0" />
+        <Effect ref="0" name="On" startTime="7300" endTime="10050" palette="0" />
+        <Effect ref="0" name="On" startTime="10200" endTime="10300" palette="0" />
+        <Effect ref="0" name="On" startTime="10300" endTime="10350" palette="1" />
+        <Effect ref="0" name="On" startTime="10350" endTime="13550" palette="0" />
+        <Effect ref="0" name="On" startTime="13550" endTime="13650" palette="1" />
+        <Effect ref="0" name="On" startTime="13650" endTime="13750" palette="0" />
+        <Effect ref="0" name="On" startTime="13800" endTime="13900" palette="0" />
+        <Effect ref="0" name="On" startTime="14000" endTime="14150" palette="0" />
+        <Effect ref="0" name="On" startTime="14250" endTime="15000" palette="0" />
+        <Effect ref="0" name="On" startTime="15000" endTime="15200" palette="1" />
+        <Effect ref="0" name="On" startTime="15200" endTime="15500" palette="0" />
+        <Effect ref="0" name="On" startTime="15550" endTime="15700" palette="0" />
+        <Effect ref="0" name="On" startTime="15900" endTime="16000" palette="0" />
+        <Effect ref="0" name="On" startTime="16400" endTime="16500" palette="0" />
+        <Effect ref="0" name="On" startTime="19850" endTime="19950" palette="4" />
+        <Effect ref="0" name="On" startTime="20100" endTime="20200" palette="5" />
+        <Effect ref="0" name="On" startTime="20400" endTime="21000" palette="4" />
+        <Effect ref="0" name="On" startTime="21000" endTime="22500" palette="2" />
+        <Effect ref="0" name="On" startTime="22500" endTime="24000" palette="4" />
+        <Effect ref="0" name="On" startTime="24000" endTime="24200" palette="2" />
+        <Effect ref="0" name="On" startTime="24300" endTime="24350" palette="2" />
+        <Effect ref="0" name="On" startTime="24400" endTime="25500" palette="2" />
+        <Effect ref="0" name="On" startTime="25500" endTime="27000" palette="4" />
+        <Effect ref="0" name="On" startTime="27000" endTime="28500" palette="2" />
+        <Effect ref="0" name="On" startTime="28500" endTime="30000" palette="4" />
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="SOUTH T">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="T bar">
+      <EffectLayer>
+        <Effect ref="0" name="On" startTime="0" endTime="8450" palette="0" />
+        <Effect ref="0" name="On" startTime="8450" endTime="8550" palette="1" />
+        <Effect ref="0" name="On" startTime="8550" endTime="8600" palette="0" />
+        <Effect ref="0" name="On" startTime="8600" endTime="8650" palette="1" />
+        <Effect ref="0" name="On" startTime="8650" endTime="8750" palette="0" />
+        <Effect ref="0" name="On" startTime="8850" endTime="12350" palette="0" />
+        <Effect ref="0" name="On" startTime="12450" endTime="12550" palette="0" />
+        <Effect ref="0" name="On" startTime="12650" endTime="12700" palette="0" />
+        <Effect ref="0" name="On" startTime="12750" endTime="12800" palette="0" />
+        <Effect ref="0" name="On" startTime="12800" endTime="12950" palette="1" />
+        <Effect ref="0" name="On" startTime="12950" endTime="14100" palette="0" />
+        <Effect ref="0" name="On" startTime="14150" endTime="14300" palette="0" />
+        <Effect ref="0" name="On" startTime="14300" endTime="14450" palette="1" />
+        <Effect ref="0" name="On" startTime="14450" endTime="14550" palette="0" />
+        <Effect ref="0" name="On" startTime="14700" endTime="15000" palette="0" />
+        <Effect ref="0" name="On" startTime="15000" endTime="15200" palette="1" />
+        <Effect ref="0" name="On" startTime="15200" endTime="15500" palette="0" />
+        <Effect ref="0" name="On" startTime="15550" endTime="15700" palette="0" />
+        <Effect ref="0" name="On" startTime="15900" endTime="16000" palette="0" />
+        <Effect ref="0" name="On" startTime="16400" endTime="16500" palette="0" />
+        <Effect ref="0" name="On" startTime="20000" endTime="20100" palette="4" />
+        <Effect ref="0" name="On" startTime="20250" endTime="20350" palette="5" />
+        <Effect ref="0" name="On" startTime="20550" endTime="21000" palette="4" />
+        <Effect ref="0" name="On" startTime="21000" endTime="22500" palette="2" />
+        <Effect ref="0" name="On" startTime="22500" endTime="24000" palette="4" />
+        <Effect ref="0" name="On" startTime="24000" endTime="25500" palette="2" />
+        <Effect ref="0" name="On" startTime="25500" endTime="27000" palette="4" />
+        <Effect ref="0" name="On" startTime="27000" endTime="28500" palette="2" />
+        <Effect ref="0" name="On" startTime="28500" endTime="30000" palette="4" />
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="T stem">
+      <EffectLayer>
+        <Effect ref="0" name="On" startTime="0" endTime="7500" palette="0" />
+        <Effect ref="0" name="On" startTime="7550" endTime="7600" palette="0" />
+        <Effect ref="0" name="On" startTime="7600" endTime="7750" palette="1" />
+        <Effect ref="0" name="On" startTime="7750" endTime="11900" palette="0" />
+        <Effect ref="0" name="On" startTime="11950" endTime="12000" palette="0" />
+        <Effect ref="0" name="On" startTime="12100" endTime="15000" palette="0" />
+        <Effect ref="0" name="On" startTime="15000" endTime="15200" palette="1" />
+        <Effect ref="0" name="On" startTime="15200" endTime="15500" palette="0" />
+        <Effect ref="0" name="On" startTime="15550" endTime="15700" palette="0" />
+        <Effect ref="0" name="On" startTime="15900" endTime="16000" palette="0" />
+        <Effect ref="0" name="On" startTime="16400" endTime="16500" palette="0" />
+        <Effect ref="0" name="On" startTime="20100" endTime="20200" palette="4" />
+        <Effect ref="0" name="On" startTime="20350" endTime="20450" palette="5" />
+        <Effect ref="0" name="On" startTime="20650" endTime="21000" palette="4" />
+        <Effect ref="0" name="On" startTime="21000" endTime="22500" palette="2" />
+        <Effect ref="0" name="On" startTime="22500" endTime="24000" palette="4" />
+        <Effect ref="0" name="On" startTime="24000" endTime="25500" palette="2" />
+        <Effect ref="0" name="On" startTime="25500" endTime="27000" palette="4" />
+        <Effect ref="0" name="On" startTime="27000" endTime="28500" palette="2" />
+        <Effect ref="0" name="On" startTime="28500" endTime="30000" palette="4" />
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="SOUTH U">
+      <EffectLayer>
+        <Effect ref="0" name="On" startTime="0" endTime="7050" palette="0" />
+        <Effect ref="0" name="On" startTime="7050" endTime="7150" palette="1" />
+        <Effect ref="0" name="On" startTime="7150" endTime="7300" palette="0" />
+        <Effect ref="0" name="On" startTime="7350" endTime="7400" palette="0" />
+        <Effect ref="0" name="On" startTime="7500" endTime="10200" palette="0" />
+        <Effect ref="0" name="On" startTime="10200" endTime="10250" palette="1" />
+        <Effect ref="0" name="On" startTime="10250" endTime="10300" palette="0" />
+        <Effect ref="0" name="On" startTime="10450" endTime="10550" palette="0" />
+        <Effect ref="0" name="On" startTime="10600" endTime="10750" palette="0" />
+        <Effect ref="0" name="On" startTime="10750" endTime="10800" palette="1" />
+        <Effect ref="0" name="On" startTime="10800" endTime="10900" palette="0" />
+        <Effect ref="0" name="On" startTime="11000" endTime="14300" palette="0" />
+        <Effect ref="0" name="On" startTime="14350" endTime="14500" palette="0" />
+        <Effect ref="0" name="On" startTime="14550" endTime="14650" palette="0" />
+        <Effect ref="0" name="On" startTime="14800" endTime="14850" palette="0" />
+        <Effect ref="0" name="On" startTime="15000" endTime="15100" palette="1" />
+        <Effect ref="0" name="On" startTime="19950" endTime="20050" palette="2" />
+        <Effect ref="0" name="On" startTime="20200" endTime="20300" palette="3" />
+        <Effect ref="0" name="On" startTime="20500" endTime="21000" palette="2" />
+        <Effect ref="0" name="On" startTime="21000" endTime="22500" palette="4" />
+        <Effect ref="0" name="On" startTime="22500" endTime="24000" palette="2" />
+        <Effect ref="0" name="On" startTime="24000" endTime="25500" palette="4" />
+        <Effect ref="0" name="On" startTime="25500" endTime="27000" palette="2" />
+        <Effect ref="0" name="On" startTime="27000" endTime="28500" palette="4" />
+        <Effect ref="0" name="On" startTime="28500" endTime="30000" palette="2" />
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="SIDE D">
+      <EffectLayer>
+        <Effect ref="0" name="On" startTime="0" endTime="7850" palette="0" />
+        <Effect ref="0" name="On" startTime="7850" endTime="7900" palette="1" />
+        <Effect ref="0" name="On" startTime="7900" endTime="7950" palette="0" />
+        <Effect ref="0" name="On" startTime="8050" endTime="8100" palette="0" />
+        <Effect ref="0" name="On" startTime="8200" endTime="8300" palette="0" />
+        <Effect ref="0" name="On" startTime="8400" endTime="8550" palette="0" />
+        <Effect ref="0" name="On" startTime="8550" endTime="8600" palette="1" />
+        <Effect ref="0" name="On" startTime="8600" endTime="12050" palette="0" />
+        <Effect ref="0" name="On" startTime="12150" endTime="12200" palette="0" />
+        <Effect ref="0" name="On" startTime="12200" endTime="12300" palette="1" />
+        <Effect ref="0" name="On" startTime="12300" endTime="12450" palette="0" />
+        <Effect ref="0" name="On" startTime="12500" endTime="12650" palette="0" />
+        <Effect ref="0" name="On" startTime="12700" endTime="12850" palette="0" />
+        <Effect ref="0" name="On" startTime="12850" endTime="12950" palette="1" />
+        <Effect ref="0" name="On" startTime="12950" endTime="14350" palette="0" />
+        <Effect ref="0" name="On" startTime="14350" endTime="14450" palette="1" />
+        <Effect ref="0" name="On" startTime="14450" endTime="14550" palette="0" />
+        <Effect ref="0" name="On" startTime="14550" endTime="14650" palette="1" />
+        <Effect ref="0" name="On" startTime="14650" endTime="15000" palette="0" />
+        <Effect ref="0" name="On" startTime="15000" endTime="15200" palette="1" />
+        <Effect ref="0" name="On" startTime="15200" endTime="15500" palette="0" />
+        <Effect ref="0" name="On" startTime="15550" endTime="15700" palette="0" />
+        <Effect ref="0" name="On" startTime="15900" endTime="16000" palette="0" />
+        <Effect ref="0" name="On" startTime="16400" endTime="16500" palette="0" />
+        <Effect ref="0" name="On" startTime="19300" endTime="19400" palette="4" />
+        <Effect ref="0" name="On" startTime="19550" endTime="19650" palette="5" />
+        <Effect ref="0" name="On" startTime="19850" endTime="21000" palette="4" />
+        <Effect ref="0" name="On" startTime="21000" endTime="22500" palette="2" />
+        <Effect ref="0" name="On" startTime="22500" endTime="24000" palette="4" />
+        <Effect ref="0" name="On" startTime="24000" endTime="25500" palette="2" />
+        <Effect ref="0" name="On" startTime="25500" endTime="27000" palette="4" />
+        <Effect ref="0" name="On" startTime="27000" endTime="28500" palette="2" />
+        <Effect ref="0" name="On" startTime="28500" endTime="30000" palette="4" />
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="SIDE E">
+      <EffectLayer>
+        <Effect ref="0" name="On" startTime="0" endTime="7750" palette="0" />
+        <Effect ref="0" name="On" startTime="7850" endTime="7900" palette="0" />
+        <Effect ref="0" name="On" startTime="7900" endTime="8050" palette="1" />
+        <Effect ref="0" name="On" startTime="8050" endTime="8150" palette="0" />
+        <Effect ref="0" name="On" startTime="8150" endTime="8200" palette="1" />
+        <Effect ref="0" name="On" startTime="8200" endTime="8250" palette="0" />
+        <Effect ref="0" name="On" startTime="8250" endTime="8300" palette="1" />
+        <Effect ref="0" name="On" startTime="8300" endTime="8350" palette="0" />
+        <Effect ref="0" name="On" startTime="8400" endTime="11150" palette="0" />
+        <Effect ref="0" name="On" startTime="11250" endTime="11400" palette="0" />
+        <Effect ref="0" name="On" startTime="11450" endTime="15000" palette="0" />
+        <Effect ref="0" name="On" startTime="15000" endTime="15200" palette="1" />
+        <Effect ref="0" name="On" startTime="15200" endTime="15500" palette="0" />
+        <Effect ref="0" name="On" startTime="15550" endTime="15700" palette="0" />
+        <Effect ref="0" name="On" startTime="15900" endTime="16000" palette="0" />
+        <Effect ref="0" name="On" startTime="16400" endTime="16500" palette="0" />
+        <Effect ref="0" name="On" startTime="19600" endTime="19700" palette="2" />
+        <Effect ref="0" name="On" startTime="19850" endTime="19950" palette="3" />
+        <Effect ref="0" name="On" startTime="20150" endTime="21000" palette="2" />
+        <Effect ref="0" name="On" startTime="21000" endTime="22500" palette="4" />
+        <Effect ref="0" name="On" startTime="22500" endTime="24000" palette="2" />
+        <Effect ref="0" name="On" startTime="24000" endTime="25500" palette="4" />
+        <Effect ref="0" name="On" startTime="25500" endTime="27000" palette="2" />
+        <Effect ref="0" name="On" startTime="27000" endTime="27300" palette="4" />
+        <Effect ref="0" name="On" startTime="27400" endTime="27550" palette="4" />
+        <Effect ref="0" name="On" startTime="27700" endTime="28500" palette="4" />
+        <Effect ref="0" name="On" startTime="28500" endTime="30000" palette="2" />
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="SIDE I">
+      <EffectLayer>
+        <Effect ref="0" name="On" startTime="0" endTime="8100" palette="0" />
+        <Effect ref="0" name="On" startTime="8100" endTime="8150" palette="1" />
+        <Effect ref="0" name="On" startTime="8150" endTime="8250" palette="0" />
+        <Effect ref="0" name="On" startTime="8250" endTime="8400" palette="1" />
+        <Effect ref="0" name="On" startTime="8400" endTime="8550" palette="0" />
+        <Effect ref="0" name="On" startTime="8600" endTime="8750" palette="0" />
+        <Effect ref="0" name="On" startTime="8900" endTime="11500" palette="0" />
+        <Effect ref="0" name="On" startTime="11600" endTime="11750" palette="0" />
+        <Effect ref="0" name="On" startTime="11850" endTime="11900" palette="0" />
+        <Effect ref="0" name="On" startTime="11900" endTime="12000" palette="1" />
+        <Effect ref="0" name="On" startTime="12000" endTime="12100" palette="0" />
+        <Effect ref="0" name="On" startTime="12150" endTime="12250" palette="0" />
+        <Effect ref="0" name="On" startTime="12250" endTime="12400" palette="1" />
+        <Effect ref="0" name="On" startTime="12450" endTime="12600" palette="0" />
+        <Effect ref="0" name="On" startTime="12600" endTime="12700" palette="1" />
+        <Effect ref="0" name="On" startTime="12700" endTime="12750" palette="0" />
+        <Effect ref="0" name="On" startTime="12800" endTime="12900" palette="0" />
+        <Effect ref="0" name="On" startTime="12900" endTime="12950" palette="1" />
+        <Effect ref="0" name="On" startTime="12950" endTime="13050" palette="0" />
+        <Effect ref="0" name="On" startTime="19700" endTime="19800" palette="2" />
+        <Effect ref="0" name="On" startTime="19950" endTime="20050" palette="3" />
+        <Effect ref="0" name="On" startTime="20250" endTime="21000" palette="2" />
+        <Effect ref="0" name="On" startTime="21000" endTime="22500" palette="4" />
+        <Effect ref="0" name="On" startTime="22500" endTime="24000" palette="2" />
+        <Effect ref="0" name="On" startTime="24000" endTime="25500" palette="4" />
+        <Effect ref="0" name="On" startTime="25500" endTime="27000" palette="2" />
+        <Effect ref="0" name="On" startTime="27000" endTime="28500" palette="4" />
+        <Effect ref="0" name="On" startTime="28500" endTime="30000" palette="2" />
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="SIDE S">
+      <EffectLayer>
+        <Effect ref="0" name="On" startTime="0" endTime="7400" palette="0" />
+        <Effect ref="0" name="On" startTime="7550" endTime="7700" palette="0" />
+        <Effect ref="0" name="On" startTime="7750" endTime="7800" palette="0" />
+        <Effect ref="0" name="On" startTime="7800" endTime="7850" palette="1" />
+        <Effect ref="0" name="On" startTime="7850" endTime="8000" palette="0" />
+        <Effect ref="0" name="On" startTime="8150" endTime="8200" palette="0" />
+        <Effect ref="0" name="On" startTime="8300" endTime="12050" palette="0" />
+        <Effect ref="0" name="On" startTime="12050" endTime="12150" palette="1" />
+        <Effect ref="0" name="On" startTime="12150" endTime="12300" palette="0" />
+        <Effect ref="0" name="On" startTime="12400" endTime="12550" palette="0" />
+        <Effect ref="0" name="On" startTime="12650" endTime="12750" palette="0" />
+        <Effect ref="0" name="On" startTime="12900" endTime="15000" palette="0" />
+        <Effect ref="0" name="On" startTime="15000" endTime="15200" palette="1" />
+        <Effect ref="0" name="On" startTime="15200" endTime="15500" palette="0" />
+        <Effect ref="0" name="On" startTime="15550" endTime="15700" palette="0" />
+        <Effect ref="0" name="On" startTime="15900" endTime="16000" palette="0" />
+        <Effect ref="0" name="On" startTime="16400" endTime="16500" palette="0" />
+        <Effect ref="0" name="On" startTime="19450" endTime="19550" palette="4" />
+        <Effect ref="0" name="On" startTime="19700" endTime="19800" palette="5" />
+        <Effect ref="0" name="On" startTime="20000" endTime="21000" palette="4" />
+        <Effect ref="0" name="On" startTime="21000" endTime="22500" palette="2" />
+        <Effect ref="0" name="On" startTime="22500" endTime="24000" palette="4" />
+        <Effect ref="0" name="On" startTime="24000" endTime="25500" palette="2" />
+        <Effect ref="0" name="On" startTime="25500" endTime="27000" palette="4" />
+        <Effect ref="0" name="On" startTime="27000" endTime="28500" palette="2" />
+        <Effect ref="0" name="On" startTime="28500" endTime="30000" palette="4" />
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="H cross">
+      <EffectLayer>
+        <Effect ref="0" name="On" startTime="0" endTime="7700" palette="0" />
+        <Effect ref="0" name="On" startTime="7700" endTime="7750" palette="1" />
+        <Effect ref="0" name="On" startTime="7750" endTime="7850" palette="0" />
+        <Effect ref="0" name="On" startTime="8000" endTime="12250" palette="0" />
+        <Effect ref="0" name="On" startTime="12250" endTime="12400" palette="1" />
+        <Effect ref="0" name="On" startTime="12400" endTime="12450" palette="0" />
+        <Effect ref="0" name="On" startTime="12600" endTime="12750" palette="0" />
+        <Effect ref="0" name="On" startTime="12900" endTime="12950" palette="0" />
+        <Effect ref="0" name="On" startTime="12950" endTime="13100" palette="1" />
+        <Effect ref="0" name="On" startTime="13100" endTime="15000" palette="0" />
+        <Effect ref="0" name="On" startTime="15000" endTime="15200" palette="1" />
+        <Effect ref="0" name="On" startTime="15200" endTime="15500" palette="0" />
+        <Effect ref="0" name="On" startTime="15550" endTime="15700" palette="0" />
+        <Effect ref="0" name="On" startTime="15900" endTime="16000" palette="0" />
+        <Effect ref="0" name="On" startTime="16400" endTime="16500" palette="0" />
+        <Effect ref="0" name="On" startTime="20350" endTime="20450" palette="2" />
+        <Effect ref="0" name="On" startTime="20600" endTime="20700" palette="3" />
+        <Effect ref="0" name="On" startTime="20900" endTime="21000" palette="2" />
+        <Effect ref="0" name="On" startTime="21000" endTime="22500" palette="4" />
+        <Effect ref="0" name="On" startTime="22500" endTime="24000" palette="2" />
+        <Effect ref="0" name="On" startTime="24000" endTime="25500" palette="4" />
+        <Effect ref="0" name="On" startTime="25500" endTime="27000" palette="2" />
+        <Effect ref="0" name="On" startTime="27000" endTime="28500" palette="4" />
+        <Effect ref="0" name="On" startTime="28500" endTime="30000" palette="2" />
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="H left">
+      <EffectLayer>
+        <Effect ref="0" name="On" startTime="0" endTime="8300" palette="0" />
+        <Effect ref="0" name="On" startTime="8450" endTime="8500" palette="0" />
+        <Effect ref="0" name="On" startTime="8650" endTime="8800" palette="0" />
+        <Effect ref="0" name="On" startTime="8800" endTime="8850" palette="1" />
+        <Effect ref="0" name="On" startTime="8850" endTime="12000" palette="0" />
+        <Effect ref="0" name="On" startTime="12100" endTime="12150" palette="0" />
+        <Effect ref="0" name="On" startTime="12150" endTime="12200" palette="1" />
+        <Effect ref="0" name="On" startTime="12200" endTime="12300" palette="0" />
+        <Effect ref="0" name="On" startTime="12300" endTime="12450" palette="1" />
+        <Effect ref="0" name="On" startTime="12450" endTime="14600" palette="0" />
+        <Effect ref="0" name="On" startTime="14600" endTime="14700" palette="1" />
+        <Effect ref="0" name="On" startTime="14700" endTime="14800" palette="0" />
+        <Effect ref="0" name="On" startTime="14800" endTime="14950" palette="1" />
+        <Effect ref="0" name="On" startTime="14950" endTime="15000" palette="0" />
+        <Effect ref="0" name="On" startTime="15000" endTime="15200" palette="1" />
+        <Effect ref="0" name="On" startTime="15200" endTime="15500" palette="0" />
+        <Effect ref="0" name="On" startTime="15550" endTime="15700" palette="0" />
+        <Effect ref="0" name="On" startTime="15900" endTime="16000" palette="0" />
+        <Effect ref="0" name="On" startTime="16400" endTime="16500" palette="0" />
+        <Effect ref="0" name="On" startTime="20200" endTime="20300" palette="2" />
+        <Effect ref="0" name="On" startTime="20450" endTime="20550" palette="3" />
+        <Effect ref="0" name="On" startTime="20750" endTime="21000" palette="2" />
+        <Effect ref="0" name="On" startTime="21000" endTime="22500" palette="4" />
+        <Effect ref="0" name="On" startTime="22500" endTime="24000" palette="2" />
+        <Effect ref="0" name="On" startTime="24000" endTime="25500" palette="4" />
+        <Effect ref="0" name="On" startTime="25500" endTime="27000" palette="2" />
+        <Effect ref="0" name="On" startTime="27000" endTime="28500" palette="4" />
+        <Effect ref="0" name="On" startTime="28500" endTime="30000" palette="2" />
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="H right">
+      <EffectLayer>
+        <Effect ref="0" name="On" startTime="0" endTime="7150" palette="0" />
+        <Effect ref="0" name="On" startTime="7150" endTime="7200" palette="1" />
+        <Effect ref="0" name="On" startTime="7200" endTime="7350" palette="0" />
+        <Effect ref="0" name="On" startTime="7350" endTime="7400" palette="1" />
+        <Effect ref="0" name="On" startTime="7400" endTime="7450" palette="0" />
+        <Effect ref="0" name="On" startTime="7550" endTime="7700" palette="0" />
+        <Effect ref="0" name="On" startTime="7700" endTime="7850" palette="1" />
+        <Effect ref="0" name="On" startTime="7850" endTime="11050" palette="0" />
+        <Effect ref="0" name="On" startTime="11200" endTime="11250" palette="0" />
+        <Effect ref="0" name="On" startTime="11300" endTime="13500" palette="0" />
+        <Effect ref="0" name="On" startTime="13500" endTime="13600" palette="1" />
+        <Effect ref="0" name="On" startTime="13600" endTime="13750" palette="0" />
+        <Effect ref="0" name="On" startTime="13850" endTime="14000" palette="0" />
+        <Effect ref="0" name="On" startTime="14000" endTime="14100" palette="1" />
+        <Effect ref="0" name="On" startTime="14100" endTime="14200" palette="0" />
+        <Effect ref="0" name="On" startTime="14350" endTime="14400" palette="0" />
+        <Effect ref="0" name="On" startTime="20450" endTime="20550" palette="2" />
+        <Effect ref="0" name="On" startTime="20700" endTime="20800" palette="3" />
+        <Effect ref="0" name="On" startTime="21000" endTime="22500" palette="4" />
+        <Effect ref="0" name="On" startTime="22500" endTime="24000" palette="2" />
+        <Effect ref="0" name="On" startTime="24000" endTime="25500" palette="4" />
+        <Effect ref="0" name="On" startTime="25500" endTime="27000" palette="2" />
+        <Effect ref="0" name="On" startTime="27000" endTime="28500" palette="4" />
+        <Effect ref="0" name="On" startTime="28500" endTime="30000" palette="2" />
+      </EffectLayer>
+    </Element>
+  </ElementEffects>
+  <lastView>0</lastView>
+  <TimingTags>
+    <Tag number="0" position="-1" />
+    <Tag number="1" position="-1" />
+    <Tag number="2" position="-1" />
+    <Tag number="3" position="-1" />
+    <Tag number="4" position="-1" />
+    <Tag number="5" position="-1" />
+    <Tag number="6" position="-1" />
+    <Tag number="7" position="-1" />
+    <Tag number="8" position="-1" />
+    <Tag number="9" position="-1" />
+  </TimingTags>
+</xsequence>

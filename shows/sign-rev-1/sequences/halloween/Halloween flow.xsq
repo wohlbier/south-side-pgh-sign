@@ -1,0 +1,1976 @@
+<?xml version="1.0"?>
+<xsequence BaseChannel="0" ChanCtrlBasic="0" ChanCtrlColor="0" FixedPointTiming="1" ModelBlending="true">
+  <head>
+    <version>2026.18</version>
+    <author></author>
+    <author-email></author-email>
+    <author-website></author-website>
+    <song></song>
+    <artist></artist>
+    <album></album>
+    <MusicURL></MusicURL>
+    <comment></comment>
+    <sequenceTiming>50 ms</sequenceTiming>
+    <sequenceType>Animation</sequenceType>
+    <mediaFile></mediaFile>
+    <sequenceDuration>30.000</sequenceDuration>
+    <imageDir></imageDir>
+  </head>
+  <ColorPalettes>
+    <ColorPalette>C_BUTTON_Palette1=#ff2000,C_BUTTON_Palette2=#000000,C_BUTTON_Palette3=#000000,C_BUTTON_Palette4=#000000,C_BUTTON_Palette5=#000000,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#000000,C_BUTTON_Palette8=#000000,C_CHECKBOXBRIGHTNESSLEVEL=0,C_CHECKBOX_Chroma=0,C_CHECKBOX_MusicSparkles=0,C_CHECKBOX_Palette1=1,C_CHECKBOX_Palette2=0,C_CHECKBOX_Palette3=0,C_CHECKBOX_Palette4=0,C_CHECKBOX_Palette5=0,C_CHECKBOX_Palette6=0,C_CHECKBOX_Palette7=0,C_CHECKBOX_Palette8=0,C_SLIDER_SparkleFrequency=0</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#7000ff,C_BUTTON_Palette2=#000000,C_BUTTON_Palette3=#000000,C_BUTTON_Palette4=#000000,C_BUTTON_Palette5=#000000,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#000000,C_BUTTON_Palette8=#000000,C_CHECKBOXBRIGHTNESSLEVEL=0,C_CHECKBOX_Chroma=0,C_CHECKBOX_MusicSparkles=0,C_CHECKBOX_Palette1=1,C_CHECKBOX_Palette2=0,C_CHECKBOX_Palette3=0,C_CHECKBOX_Palette4=0,C_CHECKBOX_Palette5=0,C_CHECKBOX_Palette6=0,C_CHECKBOX_Palette7=0,C_CHECKBOX_Palette8=0,C_SLIDER_SparkleFrequency=0</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#30ff00,C_BUTTON_Palette2=#000000,C_BUTTON_Palette3=#000000,C_BUTTON_Palette4=#000000,C_BUTTON_Palette5=#000000,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#000000,C_BUTTON_Palette8=#000000,C_CHECKBOXBRIGHTNESSLEVEL=0,C_CHECKBOX_Chroma=0,C_CHECKBOX_MusicSparkles=0,C_CHECKBOX_Palette1=1,C_CHECKBOX_Palette2=0,C_CHECKBOX_Palette3=0,C_CHECKBOX_Palette4=0,C_CHECKBOX_Palette5=0,C_CHECKBOX_Palette6=0,C_CHECKBOX_Palette7=0,C_CHECKBOX_Palette8=0,C_SLIDER_SparkleFrequency=0</ColorPalette>
+  </ColorPalettes>
+  <EffectDB>
+    <Effect>T_CHECKBOX_Canvas=0,T_CHECKBOX_LayerMorph=0,T_CHOICE_LayerMethod=Normal,T_SLIDER_EffectLayerMix=0</Effect>
+    <Effect>B_CHOICE_BufferStyle=Horizontal Per Model,E_CHECKBOX_Fill_Color_Time=0,E_CHECKBOX_Fill_Offset_In_Pixels=1,E_CHECKBOX_Fill_Wrap=1,E_CHOICE_Fill_Direction=Up,E_SLIDER_Fill_Band_Size=0,E_SLIDER_Fill_Offset=0,E_SLIDER_Fill_Skip_Size=0,E_VALUECURVE_Fill_Position=Active=TRUE|Id=ID_VALUECURVE_Fill_Position|Type=Ramp|Min=0.00|Max=100.00|P1=94.34|P2=100.00|RV=TRUE|,T_CHECKBOX_Canvas=0,T_CHECKBOX_LayerMorph=0,T_CHOICE_LayerMethod=Normal,T_SLIDER_EffectLayerMix=0</Effect>
+    <Effect>B_CHOICE_BufferStyle=Horizontal Per Model,E_CHECKBOX_Fill_Color_Time=0,E_CHECKBOX_Fill_Offset_In_Pixels=1,E_CHECKBOX_Fill_Wrap=1,E_CHOICE_Fill_Direction=Up,E_SLIDER_Fill_Band_Size=0,E_SLIDER_Fill_Offset=0,E_SLIDER_Fill_Skip_Size=0,E_VALUECURVE_Fill_Position=Active=TRUE|Id=ID_VALUECURVE_Fill_Position|Type=Ramp|Min=0.00|Max=100.00|P1=75.47|P2=94.34|RV=TRUE|,T_CHECKBOX_Canvas=0,T_CHECKBOX_LayerMorph=0,T_CHOICE_LayerMethod=Normal,T_SLIDER_EffectLayerMix=0</Effect>
+    <Effect>B_CHOICE_BufferStyle=Horizontal Per Model,E_CHECKBOX_Fill_Color_Time=0,E_CHECKBOX_Fill_Offset_In_Pixels=1,E_CHECKBOX_Fill_Wrap=1,E_CHOICE_Fill_Direction=Up,E_SLIDER_Fill_Band_Size=0,E_SLIDER_Fill_Offset=0,E_SLIDER_Fill_Skip_Size=0,E_VALUECURVE_Fill_Position=Active=TRUE|Id=ID_VALUECURVE_Fill_Position|Type=Ramp|Min=0.00|Max=100.00|P1=56.60|P2=75.47|RV=TRUE|,T_CHECKBOX_Canvas=0,T_CHECKBOX_LayerMorph=0,T_CHOICE_LayerMethod=Normal,T_SLIDER_EffectLayerMix=0</Effect>
+    <Effect>B_CHOICE_BufferStyle=Horizontal Per Model,E_CHECKBOX_Fill_Color_Time=0,E_CHECKBOX_Fill_Offset_In_Pixels=1,E_CHECKBOX_Fill_Wrap=1,E_CHOICE_Fill_Direction=Up,E_SLIDER_Fill_Band_Size=0,E_SLIDER_Fill_Offset=0,E_SLIDER_Fill_Skip_Size=0,E_VALUECURVE_Fill_Position=Active=TRUE|Id=ID_VALUECURVE_Fill_Position|Type=Ramp|Min=0.00|Max=100.00|P1=37.74|P2=56.60|RV=TRUE|,T_CHECKBOX_Canvas=0,T_CHECKBOX_LayerMorph=0,T_CHOICE_LayerMethod=Normal,T_SLIDER_EffectLayerMix=0</Effect>
+    <Effect>B_CHOICE_BufferStyle=Horizontal Per Model,E_CHECKBOX_Fill_Color_Time=0,E_CHECKBOX_Fill_Offset_In_Pixels=1,E_CHECKBOX_Fill_Wrap=1,E_CHOICE_Fill_Direction=Up,E_SLIDER_Fill_Band_Size=0,E_SLIDER_Fill_Offset=0,E_SLIDER_Fill_Skip_Size=0,E_VALUECURVE_Fill_Position=Active=TRUE|Id=ID_VALUECURVE_Fill_Position|Type=Ramp|Min=0.00|Max=100.00|P1=18.87|P2=37.74|RV=TRUE|,T_CHECKBOX_Canvas=0,T_CHECKBOX_LayerMorph=0,T_CHOICE_LayerMethod=Normal,T_SLIDER_EffectLayerMix=0</Effect>
+    <Effect>B_CHOICE_BufferStyle=Horizontal Per Model,E_CHECKBOX_Fill_Color_Time=0,E_CHECKBOX_Fill_Offset_In_Pixels=1,E_CHECKBOX_Fill_Wrap=1,E_CHOICE_Fill_Direction=Up,E_SLIDER_Fill_Band_Size=0,E_SLIDER_Fill_Offset=0,E_SLIDER_Fill_Skip_Size=0,E_VALUECURVE_Fill_Position=Active=TRUE|Id=ID_VALUECURVE_Fill_Position|Type=Ramp|Min=0.00|Max=100.00|P1=0.00|P2=18.87|RV=TRUE|,T_CHECKBOX_Canvas=0,T_CHECKBOX_LayerMorph=0,T_CHOICE_LayerMethod=Normal,T_SLIDER_EffectLayerMix=0</Effect>
+    <Effect>E_CHECKBOX_Fill_Color_Time=0,E_CHECKBOX_Fill_Offset_In_Pixels=1,E_CHECKBOX_Fill_Wrap=1,E_CHOICE_Fill_Direction=Up,E_SLIDER_Fill_Band_Size=0,E_SLIDER_Fill_Offset=0,E_SLIDER_Fill_Skip_Size=0,E_VALUECURVE_Fill_Position=Active=TRUE|Id=ID_VALUECURVE_Fill_Position|Type=Ramp|Min=0.00|Max=100.00|P1=26.32|P2=100.00|RV=TRUE|,T_CHECKBOX_Canvas=0,T_CHECKBOX_LayerMorph=0,T_CHOICE_LayerMethod=Normal,T_SLIDER_EffectLayerMix=0</Effect>
+    <Effect>E_CHECKBOX_Fill_Color_Time=0,E_CHECKBOX_Fill_Offset_In_Pixels=1,E_CHECKBOX_Fill_Wrap=1,E_CHOICE_Fill_Direction=Up,E_SLIDER_Fill_Band_Size=0,E_SLIDER_Fill_Offset=0,E_SLIDER_Fill_Skip_Size=0,E_VALUECURVE_Fill_Position=Active=TRUE|Id=ID_VALUECURVE_Fill_Position|Type=Ramp|Min=0.00|Max=100.00|P1=0.00|P2=100.00|RV=TRUE|,T_CHECKBOX_Canvas=0,T_CHECKBOX_LayerMorph=0,T_CHOICE_LayerMethod=Normal,T_SLIDER_EffectLayerMix=0</Effect>
+    <Effect>E_CHECKBOX_Fill_Color_Time=0,E_CHECKBOX_Fill_Offset_In_Pixels=1,E_CHECKBOX_Fill_Wrap=1,E_CHOICE_Fill_Direction=Up,E_SLIDER_Fill_Band_Size=0,E_SLIDER_Fill_Offset=0,E_SLIDER_Fill_Skip_Size=0,E_VALUECURVE_Fill_Position=Active=TRUE|Id=ID_VALUECURVE_Fill_Position|Type=Ramp|Min=0.00|Max=100.00|P1=0.00|P2=26.32|RV=TRUE|,T_CHECKBOX_Canvas=0,T_CHECKBOX_LayerMorph=0,T_CHOICE_LayerMethod=Normal,T_SLIDER_EffectLayerMix=0</Effect>
+    <Effect>E_CHECKBOX_Fill_Color_Time=0,E_CHECKBOX_Fill_Offset_In_Pixels=1,E_CHECKBOX_Fill_Wrap=1,E_CHOICE_Fill_Direction=Up,E_SLIDER_Fill_Band_Size=0,E_SLIDER_Fill_Offset=0,E_SLIDER_Fill_Skip_Size=0,E_VALUECURVE_Fill_Position=Active=TRUE|Id=ID_VALUECURVE_Fill_Position|Type=Ramp|Min=0.00|Max=100.00|P1=74.07|P2=100.00|RV=TRUE|,T_CHECKBOX_Canvas=0,T_CHECKBOX_LayerMorph=0,T_CHOICE_LayerMethod=Normal,T_SLIDER_EffectLayerMix=0</Effect>
+    <Effect>E_CHECKBOX_Fill_Color_Time=0,E_CHECKBOX_Fill_Offset_In_Pixels=1,E_CHECKBOX_Fill_Wrap=1,E_CHOICE_Fill_Direction=Up,E_SLIDER_Fill_Band_Size=0,E_SLIDER_Fill_Offset=0,E_SLIDER_Fill_Skip_Size=0,E_VALUECURVE_Fill_Position=Active=TRUE|Id=ID_VALUECURVE_Fill_Position|Type=Ramp|Min=0.00|Max=100.00|P1=37.04|P2=74.07|RV=TRUE|,T_CHECKBOX_Canvas=0,T_CHECKBOX_LayerMorph=0,T_CHOICE_LayerMethod=Normal,T_SLIDER_EffectLayerMix=0</Effect>
+    <Effect>E_CHECKBOX_Fill_Color_Time=0,E_CHECKBOX_Fill_Offset_In_Pixels=1,E_CHECKBOX_Fill_Wrap=1,E_CHOICE_Fill_Direction=Up,E_SLIDER_Fill_Band_Size=0,E_SLIDER_Fill_Offset=0,E_SLIDER_Fill_Skip_Size=0,E_VALUECURVE_Fill_Position=Active=TRUE|Id=ID_VALUECURVE_Fill_Position|Type=Ramp|Min=0.00|Max=100.00|P1=0.00|P2=37.04|RV=TRUE|,T_CHECKBOX_Canvas=0,T_CHECKBOX_LayerMorph=0,T_CHOICE_LayerMethod=Normal,T_SLIDER_EffectLayerMix=0</Effect>
+    <Effect>E_CHECKBOX_Fill_Color_Time=0,E_CHECKBOX_Fill_Offset_In_Pixels=1,E_CHECKBOX_Fill_Wrap=1,E_CHOICE_Fill_Direction=Up,E_SLIDER_Fill_Band_Size=0,E_SLIDER_Fill_Offset=0,E_SLIDER_Fill_Skip_Size=0,E_VALUECURVE_Fill_Position=Active=TRUE|Id=ID_VALUECURVE_Fill_Position|Type=Ramp|Min=0.00|Max=100.00|P1=76.67|P2=100.00|RV=TRUE|,T_CHECKBOX_Canvas=0,T_CHECKBOX_LayerMorph=0,T_CHOICE_LayerMethod=Normal,T_SLIDER_EffectLayerMix=0</Effect>
+    <Effect>E_CHECKBOX_Fill_Color_Time=0,E_CHECKBOX_Fill_Offset_In_Pixels=1,E_CHECKBOX_Fill_Wrap=1,E_CHOICE_Fill_Direction=Up,E_SLIDER_Fill_Band_Size=0,E_SLIDER_Fill_Offset=0,E_SLIDER_Fill_Skip_Size=0,E_VALUECURVE_Fill_Position=Active=TRUE|Id=ID_VALUECURVE_Fill_Position|Type=Ramp|Min=0.00|Max=100.00|P1=43.33|P2=66.67|RV=TRUE|,T_CHECKBOX_Canvas=0,T_CHECKBOX_LayerMorph=0,T_CHOICE_LayerMethod=Normal,T_SLIDER_EffectLayerMix=0</Effect>
+    <Effect>E_CHECKBOX_Fill_Color_Time=0,E_CHECKBOX_Fill_Offset_In_Pixels=1,E_CHECKBOX_Fill_Wrap=1,E_CHOICE_Fill_Direction=Up,E_SLIDER_Fill_Band_Size=0,E_SLIDER_Fill_Offset=0,E_SLIDER_Fill_Skip_Size=0,E_VALUECURVE_Fill_Position=Active=TRUE|Id=ID_VALUECURVE_Fill_Position|Type=Ramp|Min=0.00|Max=100.00|P1=66.67|P2=100.00|RV=TRUE|,T_CHECKBOX_Canvas=0,T_CHECKBOX_LayerMorph=0,T_CHOICE_LayerMethod=Normal,T_SLIDER_EffectLayerMix=0</Effect>
+    <Effect>E_CHECKBOX_Fill_Color_Time=0,E_CHECKBOX_Fill_Offset_In_Pixels=1,E_CHECKBOX_Fill_Wrap=1,E_CHOICE_Fill_Direction=Up,E_SLIDER_Fill_Band_Size=0,E_SLIDER_Fill_Offset=0,E_SLIDER_Fill_Skip_Size=0,E_VALUECURVE_Fill_Position=Active=TRUE|Id=ID_VALUECURVE_Fill_Position|Type=Ramp|Min=0.00|Max=100.00|P1=10.00|P2=33.33|RV=TRUE|,T_CHECKBOX_Canvas=0,T_CHECKBOX_LayerMorph=0,T_CHOICE_LayerMethod=Normal,T_SLIDER_EffectLayerMix=0</Effect>
+    <Effect>E_CHECKBOX_Fill_Color_Time=0,E_CHECKBOX_Fill_Offset_In_Pixels=1,E_CHECKBOX_Fill_Wrap=1,E_CHOICE_Fill_Direction=Up,E_SLIDER_Fill_Band_Size=0,E_SLIDER_Fill_Offset=0,E_SLIDER_Fill_Skip_Size=0,E_VALUECURVE_Fill_Position=Active=TRUE|Id=ID_VALUECURVE_Fill_Position|Type=Ramp|Min=0.00|Max=100.00|P1=33.33|P2=66.67|RV=TRUE|,T_CHECKBOX_Canvas=0,T_CHECKBOX_LayerMorph=0,T_CHOICE_LayerMethod=Normal,T_SLIDER_EffectLayerMix=0</Effect>
+    <Effect>E_CHECKBOX_Fill_Color_Time=0,E_CHECKBOX_Fill_Offset_In_Pixels=1,E_CHECKBOX_Fill_Wrap=1,E_CHOICE_Fill_Direction=Up,E_SLIDER_Fill_Band_Size=0,E_SLIDER_Fill_Offset=0,E_SLIDER_Fill_Skip_Size=0,E_VALUECURVE_Fill_Position=Active=TRUE|Id=ID_VALUECURVE_Fill_Position|Type=Ramp|Min=0.00|Max=100.00|P1=0.00|P2=33.33|RV=TRUE|,T_CHECKBOX_Canvas=0,T_CHECKBOX_LayerMorph=0,T_CHOICE_LayerMethod=Normal,T_SLIDER_EffectLayerMix=0</Effect>
+    <Effect>E_CHECKBOX_Fill_Color_Time=0,E_CHECKBOX_Fill_Offset_In_Pixels=1,E_CHECKBOX_Fill_Wrap=1,E_CHOICE_Fill_Direction=Up,E_SLIDER_Fill_Band_Size=0,E_SLIDER_Fill_Offset=0,E_SLIDER_Fill_Skip_Size=0,E_VALUECURVE_Fill_Position=Active=TRUE|Id=ID_VALUECURVE_Fill_Position|Type=Ramp|Min=0.00|Max=100.00|P1=66.67|P2=76.67|RV=TRUE|,T_CHECKBOX_Canvas=0,T_CHECKBOX_LayerMorph=0,T_CHOICE_LayerMethod=Normal,T_SLIDER_EffectLayerMix=0</Effect>
+    <Effect>E_CHECKBOX_Fill_Color_Time=0,E_CHECKBOX_Fill_Offset_In_Pixels=1,E_CHECKBOX_Fill_Wrap=1,E_CHOICE_Fill_Direction=Up,E_SLIDER_Fill_Band_Size=0,E_SLIDER_Fill_Offset=0,E_SLIDER_Fill_Skip_Size=0,E_VALUECURVE_Fill_Position=Active=TRUE|Id=ID_VALUECURVE_Fill_Position|Type=Ramp|Min=0.00|Max=100.00|P1=33.33|P2=43.33|RV=TRUE|,T_CHECKBOX_Canvas=0,T_CHECKBOX_LayerMorph=0,T_CHOICE_LayerMethod=Normal,T_SLIDER_EffectLayerMix=0</Effect>
+    <Effect>E_CHECKBOX_Fill_Color_Time=0,E_CHECKBOX_Fill_Offset_In_Pixels=1,E_CHECKBOX_Fill_Wrap=1,E_CHOICE_Fill_Direction=Up,E_SLIDER_Fill_Band_Size=0,E_SLIDER_Fill_Offset=0,E_SLIDER_Fill_Skip_Size=0,E_VALUECURVE_Fill_Position=Active=TRUE|Id=ID_VALUECURVE_Fill_Position|Type=Ramp|Min=0.00|Max=100.00|P1=0.00|P2=10.00|RV=TRUE|,T_CHECKBOX_Canvas=0,T_CHECKBOX_LayerMorph=0,T_CHOICE_LayerMethod=Normal,T_SLIDER_EffectLayerMix=0</Effect>
+    <Effect>E_CHECKBOX_Fill_Color_Time=0,E_CHECKBOX_Fill_Offset_In_Pixels=1,E_CHECKBOX_Fill_Wrap=1,E_CHOICE_Fill_Direction=Up,E_SLIDER_Fill_Band_Size=0,E_SLIDER_Fill_Offset=0,E_SLIDER_Fill_Skip_Size=0,E_VALUECURVE_Fill_Position=Active=TRUE|Id=ID_VALUECURVE_Fill_Position|Type=Ramp|Min=0.00|Max=100.00|P1=83.33|P2=100.00|RV=TRUE|,T_CHECKBOX_Canvas=0,T_CHECKBOX_LayerMorph=0,T_CHOICE_LayerMethod=Normal,T_SLIDER_EffectLayerMix=0</Effect>
+    <Effect>E_CHECKBOX_Fill_Color_Time=0,E_CHECKBOX_Fill_Offset_In_Pixels=1,E_CHECKBOX_Fill_Wrap=1,E_CHOICE_Fill_Direction=Up,E_SLIDER_Fill_Band_Size=0,E_SLIDER_Fill_Offset=0,E_SLIDER_Fill_Skip_Size=0,E_VALUECURVE_Fill_Position=Active=TRUE|Id=ID_VALUECURVE_Fill_Position|Type=Ramp|Min=0.00|Max=100.00|P1=50.00|P2=66.67|RV=TRUE|,T_CHECKBOX_Canvas=0,T_CHECKBOX_LayerMorph=0,T_CHOICE_LayerMethod=Normal,T_SLIDER_EffectLayerMix=0</Effect>
+    <Effect>E_CHECKBOX_Fill_Color_Time=0,E_CHECKBOX_Fill_Offset_In_Pixels=1,E_CHECKBOX_Fill_Wrap=1,E_CHOICE_Fill_Direction=Up,E_SLIDER_Fill_Band_Size=0,E_SLIDER_Fill_Offset=0,E_SLIDER_Fill_Skip_Size=0,E_VALUECURVE_Fill_Position=Active=TRUE|Id=ID_VALUECURVE_Fill_Position|Type=Ramp|Min=0.00|Max=100.00|P1=16.67|P2=33.33|RV=TRUE|,T_CHECKBOX_Canvas=0,T_CHECKBOX_LayerMorph=0,T_CHOICE_LayerMethod=Normal,T_SLIDER_EffectLayerMix=0</Effect>
+    <Effect>E_CHECKBOX_Fill_Color_Time=0,E_CHECKBOX_Fill_Offset_In_Pixels=1,E_CHECKBOX_Fill_Wrap=1,E_CHOICE_Fill_Direction=Up,E_SLIDER_Fill_Band_Size=0,E_SLIDER_Fill_Offset=0,E_SLIDER_Fill_Skip_Size=0,E_VALUECURVE_Fill_Position=Active=TRUE|Id=ID_VALUECURVE_Fill_Position|Type=Ramp|Min=0.00|Max=100.00|P1=66.67|P2=83.33|RV=TRUE|,T_CHECKBOX_Canvas=0,T_CHECKBOX_LayerMorph=0,T_CHOICE_LayerMethod=Normal,T_SLIDER_EffectLayerMix=0</Effect>
+    <Effect>E_CHECKBOX_Fill_Color_Time=0,E_CHECKBOX_Fill_Offset_In_Pixels=1,E_CHECKBOX_Fill_Wrap=1,E_CHOICE_Fill_Direction=Up,E_SLIDER_Fill_Band_Size=0,E_SLIDER_Fill_Offset=0,E_SLIDER_Fill_Skip_Size=0,E_VALUECURVE_Fill_Position=Active=TRUE|Id=ID_VALUECURVE_Fill_Position|Type=Ramp|Min=0.00|Max=100.00|P1=33.33|P2=50.00|RV=TRUE|,T_CHECKBOX_Canvas=0,T_CHECKBOX_LayerMorph=0,T_CHOICE_LayerMethod=Normal,T_SLIDER_EffectLayerMix=0</Effect>
+    <Effect>E_CHECKBOX_Fill_Color_Time=0,E_CHECKBOX_Fill_Offset_In_Pixels=1,E_CHECKBOX_Fill_Wrap=1,E_CHOICE_Fill_Direction=Up,E_SLIDER_Fill_Band_Size=0,E_SLIDER_Fill_Offset=0,E_SLIDER_Fill_Skip_Size=0,E_VALUECURVE_Fill_Position=Active=TRUE|Id=ID_VALUECURVE_Fill_Position|Type=Ramp|Min=0.00|Max=100.00|P1=0.00|P2=16.67|RV=TRUE|,T_CHECKBOX_Canvas=0,T_CHECKBOX_LayerMorph=0,T_CHOICE_LayerMethod=Normal,T_SLIDER_EffectLayerMix=0</Effect>
+    <Effect>E_CHECKBOX_Fill_Color_Time=0,E_CHECKBOX_Fill_Offset_In_Pixels=1,E_CHECKBOX_Fill_Wrap=1,E_CHOICE_Fill_Direction=Right,E_SLIDER_Fill_Band_Size=0,E_SLIDER_Fill_Offset=0,E_SLIDER_Fill_Skip_Size=0,E_VALUECURVE_Fill_Position=Active=TRUE|Id=ID_VALUECURVE_Fill_Position|Type=Ramp|Min=0.00|Max=100.00|P1=13.04|P2=86.96|RV=TRUE|,T_CHECKBOX_Canvas=0,T_CHECKBOX_LayerMorph=0,T_CHOICE_LayerMethod=Normal,T_SLIDER_EffectLayerMix=0</Effect>
+    <Effect>E_CHECKBOX_Fill_Color_Time=0,E_CHECKBOX_Fill_Offset_In_Pixels=1,E_CHECKBOX_Fill_Wrap=1,E_CHOICE_Fill_Direction=Right,E_SLIDER_Fill_Band_Size=0,E_SLIDER_Fill_Offset=0,E_SLIDER_Fill_Skip_Size=0,E_VALUECURVE_Fill_Position=Active=TRUE|Id=ID_VALUECURVE_Fill_Position|Type=Ramp|Min=0.00|Max=100.00|P1=86.96|P2=100.00|RV=TRUE|,T_CHECKBOX_Canvas=0,T_CHECKBOX_LayerMorph=0,T_CHOICE_LayerMethod=Normal,T_SLIDER_EffectLayerMix=0</Effect>
+    <Effect>E_CHECKBOX_Fill_Color_Time=0,E_CHECKBOX_Fill_Offset_In_Pixels=1,E_CHECKBOX_Fill_Wrap=1,E_CHOICE_Fill_Direction=Right,E_SLIDER_Fill_Band_Size=0,E_SLIDER_Fill_Offset=0,E_SLIDER_Fill_Skip_Size=0,E_VALUECURVE_Fill_Position=Active=TRUE|Id=ID_VALUECURVE_Fill_Position|Type=Ramp|Min=0.00|Max=100.00|P1=0.00|P2=86.96|RV=TRUE|,T_CHECKBOX_Canvas=0,T_CHECKBOX_LayerMorph=0,T_CHOICE_LayerMethod=Normal,T_SLIDER_EffectLayerMix=0</Effect>
+    <Effect>E_CHECKBOX_Fill_Color_Time=0,E_CHECKBOX_Fill_Offset_In_Pixels=1,E_CHECKBOX_Fill_Wrap=1,E_CHOICE_Fill_Direction=Right,E_SLIDER_Fill_Band_Size=0,E_SLIDER_Fill_Offset=0,E_SLIDER_Fill_Skip_Size=0,E_VALUECURVE_Fill_Position=Active=TRUE|Id=ID_VALUECURVE_Fill_Position|Type=Ramp|Min=0.00|Max=100.00|P1=0.00|P2=13.04|RV=TRUE|,T_CHECKBOX_Canvas=0,T_CHECKBOX_LayerMorph=0,T_CHOICE_LayerMethod=Normal,T_SLIDER_EffectLayerMix=0</Effect>
+    <Effect>E_CHECKBOX_Fill_Color_Time=0,E_CHECKBOX_Fill_Offset_In_Pixels=1,E_CHECKBOX_Fill_Wrap=1,E_CHOICE_Fill_Direction=Down,E_SLIDER_Fill_Band_Size=0,E_SLIDER_Fill_Offset=0,E_SLIDER_Fill_Skip_Size=0,E_VALUECURVE_Fill_Position=Active=TRUE|Id=ID_VALUECURVE_Fill_Position|Type=Ramp|Min=0.00|Max=100.00|P1=47.83|P2=86.96|RV=TRUE|,T_CHECKBOX_Canvas=0,T_CHECKBOX_LayerMorph=0,T_CHOICE_LayerMethod=Normal,T_SLIDER_EffectLayerMix=0</Effect>
+    <Effect>E_CHECKBOX_Fill_Color_Time=0,E_CHECKBOX_Fill_Offset_In_Pixels=1,E_CHECKBOX_Fill_Wrap=1,E_CHOICE_Fill_Direction=Down,E_SLIDER_Fill_Band_Size=0,E_SLIDER_Fill_Offset=0,E_SLIDER_Fill_Skip_Size=0,E_VALUECURVE_Fill_Position=Active=TRUE|Id=ID_VALUECURVE_Fill_Position|Type=Ramp|Min=0.00|Max=100.00|P1=86.96|P2=100.00|RV=TRUE|,T_CHECKBOX_Canvas=0,T_CHECKBOX_LayerMorph=0,T_CHOICE_LayerMethod=Normal,T_SLIDER_EffectLayerMix=0</Effect>
+    <Effect>E_CHECKBOX_Fill_Color_Time=0,E_CHECKBOX_Fill_Offset_In_Pixels=1,E_CHECKBOX_Fill_Wrap=1,E_CHOICE_Fill_Direction=Down,E_SLIDER_Fill_Band_Size=0,E_SLIDER_Fill_Offset=0,E_SLIDER_Fill_Skip_Size=0,E_VALUECURVE_Fill_Position=Active=TRUE|Id=ID_VALUECURVE_Fill_Position|Type=Ramp|Min=0.00|Max=100.00|P1=0.00|P2=86.96|RV=TRUE|,T_CHECKBOX_Canvas=0,T_CHECKBOX_LayerMorph=0,T_CHOICE_LayerMethod=Normal,T_SLIDER_EffectLayerMix=0</Effect>
+    <Effect>E_CHECKBOX_Fill_Color_Time=0,E_CHECKBOX_Fill_Offset_In_Pixels=1,E_CHECKBOX_Fill_Wrap=1,E_CHOICE_Fill_Direction=Down,E_SLIDER_Fill_Band_Size=0,E_SLIDER_Fill_Offset=0,E_SLIDER_Fill_Skip_Size=0,E_VALUECURVE_Fill_Position=Active=TRUE|Id=ID_VALUECURVE_Fill_Position|Type=Ramp|Min=0.00|Max=100.00|P1=0.00|P2=47.83|RV=TRUE|,T_CHECKBOX_Canvas=0,T_CHECKBOX_LayerMorph=0,T_CHOICE_LayerMethod=Normal,T_SLIDER_EffectLayerMix=0</Effect>
+    <Effect>E_CHECKBOX_Fill_Color_Time=0,E_CHECKBOX_Fill_Offset_In_Pixels=1,E_CHECKBOX_Fill_Wrap=0,E_CHOICE_Fill_Direction=Right,E_SLIDER_Fill_Band_Size=0,E_SLIDER_Fill_Offset=0,E_SLIDER_Fill_Skip_Size=0,E_VALUECURVE_Fill_Position=Active=TRUE|Id=ID_VALUECURVE_Fill_Position|Type=Ramp|Min=0.00|Max=100.00|P1=63.83|P2=85.11|RV=TRUE|,T_CHECKBOX_Canvas=0,T_CHECKBOX_LayerMorph=0,T_CHOICE_LayerMethod=Normal,T_SLIDER_EffectLayerMix=0</Effect>
+    <Effect>E_CHECKBOX_Fill_Color_Time=0,E_CHECKBOX_Fill_Offset_In_Pixels=1,E_CHECKBOX_Fill_Wrap=0,E_CHOICE_Fill_Direction=Right,E_SLIDER_Fill_Band_Size=0,E_SLIDER_Fill_Offset=0,E_SLIDER_Fill_Skip_Size=0,E_VALUECURVE_Fill_Position=Active=TRUE|Id=ID_VALUECURVE_Fill_Position|Type=Ramp|Min=0.00|Max=100.00|P1=85.11|P2=100.00|RV=TRUE|,T_CHECKBOX_Canvas=0,T_CHECKBOX_LayerMorph=0,T_CHOICE_LayerMethod=Normal,T_SLIDER_EffectLayerMix=0</Effect>
+    <Effect>E_CHECKBOX_Fill_Color_Time=0,E_CHECKBOX_Fill_Offset_In_Pixels=1,E_CHECKBOX_Fill_Wrap=0,E_CHOICE_Fill_Direction=Right,E_SLIDER_Fill_Band_Size=0,E_SLIDER_Fill_Offset=0,E_SLIDER_Fill_Skip_Size=0,E_VALUECURVE_Fill_Position=Active=TRUE|Id=ID_VALUECURVE_Fill_Position|Type=Ramp|Min=0.00|Max=100.00|P1=21.28|P2=42.55|RV=TRUE|,T_CHECKBOX_Canvas=0,T_CHECKBOX_LayerMorph=0,T_CHOICE_LayerMethod=Normal,T_SLIDER_EffectLayerMix=0</Effect>
+    <Effect>E_CHECKBOX_Fill_Color_Time=0,E_CHECKBOX_Fill_Offset_In_Pixels=1,E_CHECKBOX_Fill_Wrap=0,E_CHOICE_Fill_Direction=Right,E_SLIDER_Fill_Band_Size=0,E_SLIDER_Fill_Offset=0,E_SLIDER_Fill_Skip_Size=0,E_VALUECURVE_Fill_Position=Active=TRUE|Id=ID_VALUECURVE_Fill_Position|Type=Ramp|Min=0.00|Max=100.00|P1=42.55|P2=85.11|RV=TRUE|,T_CHECKBOX_Canvas=0,T_CHECKBOX_LayerMorph=0,T_CHOICE_LayerMethod=Normal,T_SLIDER_EffectLayerMix=0</Effect>
+    <Effect>E_CHECKBOX_Fill_Color_Time=0,E_CHECKBOX_Fill_Offset_In_Pixels=1,E_CHECKBOX_Fill_Wrap=0,E_CHOICE_Fill_Direction=Right,E_SLIDER_Fill_Band_Size=0,E_SLIDER_Fill_Offset=0,E_SLIDER_Fill_Skip_Size=0,E_VALUECURVE_Fill_Position=Active=TRUE|Id=ID_VALUECURVE_Fill_Position|Type=Ramp|Min=0.00|Max=100.00|P1=0.00|P2=42.55|RV=TRUE|,T_CHECKBOX_Canvas=0,T_CHECKBOX_LayerMorph=0,T_CHOICE_LayerMethod=Normal,T_SLIDER_EffectLayerMix=0</Effect>
+    <Effect>E_CHECKBOX_Fill_Color_Time=0,E_CHECKBOX_Fill_Offset_In_Pixels=1,E_CHECKBOX_Fill_Wrap=0,E_CHOICE_Fill_Direction=Right,E_SLIDER_Fill_Band_Size=0,E_SLIDER_Fill_Offset=0,E_SLIDER_Fill_Skip_Size=0,E_VALUECURVE_Fill_Position=Active=TRUE|Id=ID_VALUECURVE_Fill_Position|Type=Ramp|Min=0.00|Max=100.00|P1=42.55|P2=63.83|RV=TRUE|,T_CHECKBOX_Canvas=0,T_CHECKBOX_LayerMorph=0,T_CHOICE_LayerMethod=Normal,T_SLIDER_EffectLayerMix=0</Effect>
+    <Effect>E_CHECKBOX_Fill_Color_Time=0,E_CHECKBOX_Fill_Offset_In_Pixels=1,E_CHECKBOX_Fill_Wrap=0,E_CHOICE_Fill_Direction=Right,E_SLIDER_Fill_Band_Size=0,E_SLIDER_Fill_Offset=0,E_SLIDER_Fill_Skip_Size=0,E_VALUECURVE_Fill_Position=Active=TRUE|Id=ID_VALUECURVE_Fill_Position|Type=Ramp|Min=0.00|Max=100.00|P1=0.00|P2=21.28|RV=TRUE|,T_CHECKBOX_Canvas=0,T_CHECKBOX_LayerMorph=0,T_CHOICE_LayerMethod=Normal,T_SLIDER_EffectLayerMix=0</Effect>
+    <Effect>E_CHECKBOX_Fill_Color_Time=0,E_CHECKBOX_Fill_Offset_In_Pixels=1,E_CHECKBOX_Fill_Wrap=1,E_CHOICE_Fill_Direction=Up,E_SLIDER_Fill_Band_Size=0,E_SLIDER_Fill_Offset=0,E_SLIDER_Fill_Skip_Size=0,E_VALUECURVE_Fill_Position=Active=TRUE|Id=ID_VALUECURVE_Fill_Position|Type=Ramp|Min=0.00|Max=100.00|P1=75.47|P2=100.00|RV=TRUE|,T_CHECKBOX_Canvas=0,T_CHECKBOX_LayerMorph=0,T_CHOICE_LayerMethod=Normal,T_SLIDER_EffectLayerMix=0</Effect>
+    <Effect>E_CHECKBOX_Fill_Color_Time=0,E_CHECKBOX_Fill_Offset_In_Pixels=1,E_CHECKBOX_Fill_Wrap=1,E_CHOICE_Fill_Direction=Up,E_SLIDER_Fill_Band_Size=0,E_SLIDER_Fill_Offset=0,E_SLIDER_Fill_Skip_Size=0,E_VALUECURVE_Fill_Position=Active=TRUE|Id=ID_VALUECURVE_Fill_Position|Type=Ramp|Min=0.00|Max=100.00|P1=37.74|P2=75.47|RV=TRUE|,T_CHECKBOX_Canvas=0,T_CHECKBOX_LayerMorph=0,T_CHOICE_LayerMethod=Normal,T_SLIDER_EffectLayerMix=0</Effect>
+    <Effect>E_CHECKBOX_Fill_Color_Time=0,E_CHECKBOX_Fill_Offset_In_Pixels=1,E_CHECKBOX_Fill_Wrap=1,E_CHOICE_Fill_Direction=Up,E_SLIDER_Fill_Band_Size=0,E_SLIDER_Fill_Offset=0,E_SLIDER_Fill_Skip_Size=0,E_VALUECURVE_Fill_Position=Active=TRUE|Id=ID_VALUECURVE_Fill_Position|Type=Ramp|Min=0.00|Max=100.00|P1=0.00|P2=37.74|RV=TRUE|,T_CHECKBOX_Canvas=0,T_CHECKBOX_LayerMorph=0,T_CHOICE_LayerMethod=Normal,T_SLIDER_EffectLayerMix=0</Effect>
+    <Effect>E_CHECKBOX_Fill_Color_Time=0,E_CHECKBOX_Fill_Offset_In_Pixels=1,E_CHECKBOX_Fill_Wrap=1,E_CHOICE_Fill_Direction=Up,E_SLIDER_Fill_Band_Size=0,E_SLIDER_Fill_Offset=0,E_SLIDER_Fill_Skip_Size=0,E_VALUECURVE_Fill_Position=Active=TRUE|Id=ID_VALUECURVE_Fill_Position|Type=Ramp|Min=0.00|Max=100.00|P1=92.31|P2=100.00|RV=TRUE|,T_CHECKBOX_Canvas=0,T_CHECKBOX_LayerMorph=0,T_CHOICE_LayerMethod=Normal,T_SLIDER_EffectLayerMix=0</Effect>
+    <Effect>E_CHECKBOX_Fill_Color_Time=0,E_CHECKBOX_Fill_Offset_In_Pixels=1,E_CHECKBOX_Fill_Wrap=1,E_CHOICE_Fill_Direction=Up,E_SLIDER_Fill_Band_Size=0,E_SLIDER_Fill_Offset=0,E_SLIDER_Fill_Skip_Size=0,E_VALUECURVE_Fill_Position=Active=TRUE|Id=ID_VALUECURVE_Fill_Position|Type=Ramp|Min=0.00|Max=100.00|P1=61.54|P2=92.31|RV=TRUE|,T_CHECKBOX_Canvas=0,T_CHECKBOX_LayerMorph=0,T_CHOICE_LayerMethod=Normal,T_SLIDER_EffectLayerMix=0</Effect>
+    <Effect>E_CHECKBOX_Fill_Color_Time=0,E_CHECKBOX_Fill_Offset_In_Pixels=1,E_CHECKBOX_Fill_Wrap=1,E_CHOICE_Fill_Direction=Up,E_SLIDER_Fill_Band_Size=0,E_SLIDER_Fill_Offset=0,E_SLIDER_Fill_Skip_Size=0,E_VALUECURVE_Fill_Position=Active=TRUE|Id=ID_VALUECURVE_Fill_Position|Type=Ramp|Min=0.00|Max=100.00|P1=30.77|P2=61.54|RV=TRUE|,T_CHECKBOX_Canvas=0,T_CHECKBOX_LayerMorph=0,T_CHOICE_LayerMethod=Normal,T_SLIDER_EffectLayerMix=0</Effect>
+    <Effect>E_CHECKBOX_Fill_Color_Time=0,E_CHECKBOX_Fill_Offset_In_Pixels=1,E_CHECKBOX_Fill_Wrap=1,E_CHOICE_Fill_Direction=Up,E_SLIDER_Fill_Band_Size=0,E_SLIDER_Fill_Offset=0,E_SLIDER_Fill_Skip_Size=0,E_VALUECURVE_Fill_Position=Active=TRUE|Id=ID_VALUECURVE_Fill_Position|Type=Ramp|Min=0.00|Max=100.00|P1=0.00|P2=30.77|RV=TRUE|,T_CHECKBOX_Canvas=0,T_CHECKBOX_LayerMorph=0,T_CHOICE_LayerMethod=Normal,T_SLIDER_EffectLayerMix=0</Effect>
+    <Effect>E_CHECKBOX_Fill_Color_Time=0,E_CHECKBOX_Fill_Offset_In_Pixels=1,E_CHECKBOX_Fill_Wrap=1,E_CHOICE_Fill_Direction=Right,E_SLIDER_Fill_Band_Size=0,E_SLIDER_Fill_Offset=0,E_SLIDER_Fill_Skip_Size=0,E_VALUECURVE_Fill_Position=Active=TRUE|Id=ID_VALUECURVE_Fill_Position|Type=Ramp|Min=0.00|Max=100.00|P1=23.08|P2=100.00|RV=TRUE|,T_CHECKBOX_Canvas=0,T_CHECKBOX_LayerMorph=0,T_CHOICE_LayerMethod=Normal,T_SLIDER_EffectLayerMix=0</Effect>
+    <Effect>E_CHECKBOX_Fill_Color_Time=0,E_CHECKBOX_Fill_Offset_In_Pixels=1,E_CHECKBOX_Fill_Wrap=1,E_CHOICE_Fill_Direction=Right,E_SLIDER_Fill_Band_Size=0,E_SLIDER_Fill_Offset=0,E_SLIDER_Fill_Skip_Size=0,E_VALUECURVE_Fill_Position=Active=TRUE|Id=ID_VALUECURVE_Fill_Position|Type=Ramp|Min=0.00|Max=100.00|P1=0.00|P2=100.00|RV=TRUE|,T_CHECKBOX_Canvas=0,T_CHECKBOX_LayerMorph=0,T_CHOICE_LayerMethod=Normal,T_SLIDER_EffectLayerMix=0</Effect>
+    <Effect>E_CHECKBOX_Fill_Color_Time=0,E_CHECKBOX_Fill_Offset_In_Pixels=1,E_CHECKBOX_Fill_Wrap=1,E_CHOICE_Fill_Direction=Right,E_SLIDER_Fill_Band_Size=0,E_SLIDER_Fill_Offset=0,E_SLIDER_Fill_Skip_Size=0,E_VALUECURVE_Fill_Position=Active=TRUE|Id=ID_VALUECURVE_Fill_Position|Type=Ramp|Min=0.00|Max=100.00|P1=0.00|P2=23.08|RV=TRUE|,T_CHECKBOX_Canvas=0,T_CHECKBOX_LayerMorph=0,T_CHOICE_LayerMethod=Normal,T_SLIDER_EffectLayerMix=0</Effect>
+    <Effect>E_CHECKBOX_Fill_Color_Time=0,E_CHECKBOX_Fill_Offset_In_Pixels=1,E_CHECKBOX_Fill_Wrap=1,E_CHOICE_Fill_Direction=Down,E_SLIDER_Fill_Band_Size=0,E_SLIDER_Fill_Offset=0,E_SLIDER_Fill_Skip_Size=0,E_VALUECURVE_Fill_Position=Active=TRUE|Id=ID_VALUECURVE_Fill_Position|Type=Ramp|Min=0.00|Max=100.00|P1=64.52|P2=100.00|RV=TRUE|,T_CHECKBOX_Canvas=0,T_CHECKBOX_LayerMorph=0,T_CHOICE_LayerMethod=Normal,T_SLIDER_EffectLayerMix=0</Effect>
+    <Effect>E_CHECKBOX_Fill_Color_Time=0,E_CHECKBOX_Fill_Offset_In_Pixels=1,E_CHECKBOX_Fill_Wrap=1,E_CHOICE_Fill_Direction=Down,E_SLIDER_Fill_Band_Size=0,E_SLIDER_Fill_Offset=0,E_SLIDER_Fill_Skip_Size=0,E_VALUECURVE_Fill_Position=Active=TRUE|Id=ID_VALUECURVE_Fill_Position|Type=Ramp|Min=0.00|Max=100.00|P1=0.00|P2=64.52|RV=TRUE|,T_CHECKBOX_Canvas=0,T_CHECKBOX_LayerMorph=0,T_CHOICE_LayerMethod=Normal,T_SLIDER_EffectLayerMix=0</Effect>
+    <Effect>E_CHECKBOX_Fill_Color_Time=0,E_CHECKBOX_Fill_Offset_In_Pixels=1,E_CHECKBOX_Fill_Wrap=1,E_CHOICE_Fill_Direction=Up,E_SLIDER_Fill_Band_Size=0,E_SLIDER_Fill_Offset=0,E_SLIDER_Fill_Skip_Size=0,E_VALUECURVE_Fill_Position=Active=TRUE|Id=ID_VALUECURVE_Fill_Position|Type=Ramp|Min=0.00|Max=100.00|P1=0.00|P2=66.67|RV=TRUE|,T_CHECKBOX_Canvas=0,T_CHECKBOX_LayerMorph=0,T_CHOICE_LayerMethod=Normal,T_SLIDER_EffectLayerMix=0</Effect>
+  </EffectDB>
+  <SequenceMedia />
+  <DataLayers>
+    <DataLayer lor_params="0" channel_offset="0" num_channels="0" num_frames="0" data="&lt;rendered: erase-mode>" source="&lt;auto-generated>" name="Nutcracker" />
+  </DataLayers>
+  <DisplayElements>
+    <Element collapsed="false" type="timing" name="Molten Pour" visible="true" views="" active="true" />
+    <Element collapsed="false" type="model" name="Pour" visible="true" />
+    <Element collapsed="false" type="model" name="SIDE tube" visible="true" />
+    <Element collapsed="false" type="model" name="SOUTH tube" visible="true" />
+    <Element collapsed="false" type="model" name="SOUTH S" visible="true" />
+    <Element collapsed="false" type="model" name="SOUTH H" visible="true" />
+    <Element collapsed="false" type="model" name="SOUTH O" visible="true" />
+    <Element collapsed="false" type="model" name="SOUTH T" visible="true" />
+    <Element collapsed="false" type="model" name="T bar" visible="true" />
+    <Element collapsed="false" type="model" name="T stem" visible="true" />
+    <Element collapsed="false" type="model" name="SOUTH U" visible="true" />
+    <Element collapsed="false" type="model" name="SIDE D" visible="true" />
+    <Element collapsed="false" type="model" name="SIDE E" visible="true" />
+    <Element collapsed="false" type="model" name="SIDE I" visible="true" />
+    <Element collapsed="false" type="model" name="SIDE S" visible="true" />
+    <Element collapsed="false" type="model" name="H cross" visible="true" />
+    <Element collapsed="false" type="model" name="H left" visible="true" />
+    <Element collapsed="false" type="model" name="H right" visible="true" />
+  </DisplayElements>
+  <ElementEffects>
+    <Element type="timing" name="Molten Pour" fixed="500">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="Pour">
+      <EffectLayer>
+        <Effect ref="6" name="Fill" startTime="0" endTime="1000" palette="0" />
+        <Effect ref="6" name="Fill" startTime="1000" endTime="2000" palette="1" />
+        <Effect ref="6" name="Fill" startTime="2000" endTime="3000" palette="2" />
+        <Effect ref="6" name="Fill" startTime="3000" endTime="4000" palette="0" />
+        <Effect ref="6" name="Fill" startTime="4000" endTime="5000" palette="1" />
+        <Effect ref="6" name="Fill" startTime="5000" endTime="6000" palette="2" />
+        <Effect ref="6" name="Fill" startTime="6000" endTime="7000" palette="0" />
+        <Effect ref="6" name="Fill" startTime="7000" endTime="8000" palette="1" />
+        <Effect ref="6" name="Fill" startTime="8000" endTime="9000" palette="2" />
+        <Effect ref="6" name="Fill" startTime="9000" endTime="10000" palette="0" />
+        <Effect ref="6" name="Fill" startTime="10000" endTime="11000" palette="1" />
+        <Effect ref="6" name="Fill" startTime="11000" endTime="12000" palette="2" />
+        <Effect ref="6" name="Fill" startTime="12000" endTime="13000" palette="0" />
+        <Effect ref="6" name="Fill" startTime="13000" endTime="14000" palette="1" />
+        <Effect ref="6" name="Fill" startTime="14000" endTime="15000" palette="2" />
+        <Effect ref="6" name="Fill" startTime="15000" endTime="16000" palette="0" />
+        <Effect ref="6" name="Fill" startTime="16000" endTime="17000" palette="1" />
+        <Effect ref="6" name="Fill" startTime="17000" endTime="18000" palette="2" />
+        <Effect ref="6" name="Fill" startTime="18000" endTime="19000" palette="0" />
+        <Effect ref="6" name="Fill" startTime="19000" endTime="20000" palette="1" />
+        <Effect ref="6" name="Fill" startTime="20000" endTime="21000" palette="2" />
+        <Effect ref="6" name="Fill" startTime="21000" endTime="22000" palette="0" />
+        <Effect ref="6" name="Fill" startTime="22000" endTime="23000" palette="1" />
+        <Effect ref="6" name="Fill" startTime="23000" endTime="24000" palette="2" />
+        <Effect ref="6" name="Fill" startTime="24000" endTime="25000" palette="0" />
+        <Effect ref="6" name="Fill" startTime="25000" endTime="26000" palette="1" />
+        <Effect ref="6" name="Fill" startTime="26000" endTime="27000" palette="2" />
+        <Effect ref="6" name="Fill" startTime="27000" endTime="28000" palette="0" />
+        <Effect ref="6" name="Fill" startTime="28000" endTime="29000" palette="1" />
+        <Effect ref="6" name="Fill" startTime="29000" endTime="30000" palette="2" />
+      </EffectLayer>
+      <EffectLayer>
+        <Effect ref="5" name="Fill" startTime="0" endTime="1000" palette="2" />
+        <Effect ref="5" name="Fill" startTime="1000" endTime="2000" palette="0" />
+        <Effect ref="5" name="Fill" startTime="2000" endTime="3000" palette="1" />
+        <Effect ref="5" name="Fill" startTime="3000" endTime="4000" palette="2" />
+        <Effect ref="5" name="Fill" startTime="4000" endTime="5000" palette="0" />
+        <Effect ref="5" name="Fill" startTime="5000" endTime="6000" palette="1" />
+        <Effect ref="5" name="Fill" startTime="6000" endTime="7000" palette="2" />
+        <Effect ref="5" name="Fill" startTime="7000" endTime="8000" palette="0" />
+        <Effect ref="5" name="Fill" startTime="8000" endTime="9000" palette="1" />
+        <Effect ref="5" name="Fill" startTime="9000" endTime="10000" palette="2" />
+        <Effect ref="5" name="Fill" startTime="10000" endTime="11000" palette="0" />
+        <Effect ref="5" name="Fill" startTime="11000" endTime="12000" palette="1" />
+        <Effect ref="5" name="Fill" startTime="12000" endTime="13000" palette="2" />
+        <Effect ref="5" name="Fill" startTime="13000" endTime="14000" palette="0" />
+        <Effect ref="5" name="Fill" startTime="14000" endTime="15000" palette="1" />
+        <Effect ref="5" name="Fill" startTime="15000" endTime="16000" palette="2" />
+        <Effect ref="5" name="Fill" startTime="16000" endTime="17000" palette="0" />
+        <Effect ref="5" name="Fill" startTime="17000" endTime="18000" palette="1" />
+        <Effect ref="5" name="Fill" startTime="18000" endTime="19000" palette="2" />
+        <Effect ref="5" name="Fill" startTime="19000" endTime="20000" palette="0" />
+        <Effect ref="5" name="Fill" startTime="20000" endTime="21000" palette="1" />
+        <Effect ref="5" name="Fill" startTime="21000" endTime="22000" palette="2" />
+        <Effect ref="5" name="Fill" startTime="22000" endTime="23000" palette="0" />
+        <Effect ref="5" name="Fill" startTime="23000" endTime="24000" palette="1" />
+        <Effect ref="5" name="Fill" startTime="24000" endTime="25000" palette="2" />
+        <Effect ref="5" name="Fill" startTime="25000" endTime="26000" palette="0" />
+        <Effect ref="5" name="Fill" startTime="26000" endTime="27000" palette="1" />
+        <Effect ref="5" name="Fill" startTime="27000" endTime="28000" palette="2" />
+        <Effect ref="5" name="Fill" startTime="28000" endTime="29000" palette="0" />
+        <Effect ref="5" name="Fill" startTime="29000" endTime="30000" palette="1" />
+      </EffectLayer>
+      <EffectLayer>
+        <Effect ref="4" name="Fill" startTime="0" endTime="1000" palette="1" />
+        <Effect ref="4" name="Fill" startTime="1000" endTime="2000" palette="2" />
+        <Effect ref="4" name="Fill" startTime="2000" endTime="3000" palette="0" />
+        <Effect ref="4" name="Fill" startTime="3000" endTime="4000" palette="1" />
+        <Effect ref="4" name="Fill" startTime="4000" endTime="5000" palette="2" />
+        <Effect ref="4" name="Fill" startTime="5000" endTime="6000" palette="0" />
+        <Effect ref="4" name="Fill" startTime="6000" endTime="7000" palette="1" />
+        <Effect ref="4" name="Fill" startTime="7000" endTime="8000" palette="2" />
+        <Effect ref="4" name="Fill" startTime="8000" endTime="9000" palette="0" />
+        <Effect ref="4" name="Fill" startTime="9000" endTime="10000" palette="1" />
+        <Effect ref="4" name="Fill" startTime="10000" endTime="11000" palette="2" />
+        <Effect ref="4" name="Fill" startTime="11000" endTime="12000" palette="0" />
+        <Effect ref="4" name="Fill" startTime="12000" endTime="13000" palette="1" />
+        <Effect ref="4" name="Fill" startTime="13000" endTime="14000" palette="2" />
+        <Effect ref="4" name="Fill" startTime="14000" endTime="15000" palette="0" />
+        <Effect ref="4" name="Fill" startTime="15000" endTime="16000" palette="1" />
+        <Effect ref="4" name="Fill" startTime="16000" endTime="17000" palette="2" />
+        <Effect ref="4" name="Fill" startTime="17000" endTime="18000" palette="0" />
+        <Effect ref="4" name="Fill" startTime="18000" endTime="19000" palette="1" />
+        <Effect ref="4" name="Fill" startTime="19000" endTime="20000" palette="2" />
+        <Effect ref="4" name="Fill" startTime="20000" endTime="21000" palette="0" />
+        <Effect ref="4" name="Fill" startTime="21000" endTime="22000" palette="1" />
+        <Effect ref="4" name="Fill" startTime="22000" endTime="23000" palette="2" />
+        <Effect ref="4" name="Fill" startTime="23000" endTime="24000" palette="0" />
+        <Effect ref="4" name="Fill" startTime="24000" endTime="25000" palette="1" />
+        <Effect ref="4" name="Fill" startTime="25000" endTime="26000" palette="2" />
+        <Effect ref="4" name="Fill" startTime="26000" endTime="27000" palette="0" />
+        <Effect ref="4" name="Fill" startTime="27000" endTime="28000" palette="1" />
+        <Effect ref="4" name="Fill" startTime="28000" endTime="29000" palette="2" />
+        <Effect ref="4" name="Fill" startTime="29000" endTime="30000" palette="0" />
+      </EffectLayer>
+      <EffectLayer>
+        <Effect ref="3" name="Fill" startTime="0" endTime="1000" palette="0" />
+        <Effect ref="3" name="Fill" startTime="1000" endTime="2000" palette="1" />
+        <Effect ref="3" name="Fill" startTime="2000" endTime="3000" palette="2" />
+        <Effect ref="3" name="Fill" startTime="3000" endTime="4000" palette="0" />
+        <Effect ref="3" name="Fill" startTime="4000" endTime="5000" palette="1" />
+        <Effect ref="3" name="Fill" startTime="5000" endTime="6000" palette="2" />
+        <Effect ref="3" name="Fill" startTime="6000" endTime="7000" palette="0" />
+        <Effect ref="3" name="Fill" startTime="7000" endTime="8000" palette="1" />
+        <Effect ref="3" name="Fill" startTime="8000" endTime="9000" palette="2" />
+        <Effect ref="3" name="Fill" startTime="9000" endTime="10000" palette="0" />
+        <Effect ref="3" name="Fill" startTime="10000" endTime="11000" palette="1" />
+        <Effect ref="3" name="Fill" startTime="11000" endTime="12000" palette="2" />
+        <Effect ref="3" name="Fill" startTime="12000" endTime="13000" palette="0" />
+        <Effect ref="3" name="Fill" startTime="13000" endTime="14000" palette="1" />
+        <Effect ref="3" name="Fill" startTime="14000" endTime="15000" palette="2" />
+        <Effect ref="3" name="Fill" startTime="15000" endTime="16000" palette="0" />
+        <Effect ref="3" name="Fill" startTime="16000" endTime="17000" palette="1" />
+        <Effect ref="3" name="Fill" startTime="17000" endTime="18000" palette="2" />
+        <Effect ref="3" name="Fill" startTime="18000" endTime="19000" palette="0" />
+        <Effect ref="3" name="Fill" startTime="19000" endTime="20000" palette="1" />
+        <Effect ref="3" name="Fill" startTime="20000" endTime="21000" palette="2" />
+        <Effect ref="3" name="Fill" startTime="21000" endTime="22000" palette="0" />
+        <Effect ref="3" name="Fill" startTime="22000" endTime="23000" palette="1" />
+        <Effect ref="3" name="Fill" startTime="23000" endTime="24000" palette="2" />
+        <Effect ref="3" name="Fill" startTime="24000" endTime="25000" palette="0" />
+        <Effect ref="3" name="Fill" startTime="25000" endTime="26000" palette="1" />
+        <Effect ref="3" name="Fill" startTime="26000" endTime="27000" palette="2" />
+        <Effect ref="3" name="Fill" startTime="27000" endTime="28000" palette="0" />
+        <Effect ref="3" name="Fill" startTime="28000" endTime="29000" palette="1" />
+        <Effect ref="3" name="Fill" startTime="29000" endTime="30000" palette="2" />
+      </EffectLayer>
+      <EffectLayer>
+        <Effect ref="2" name="Fill" startTime="0" endTime="1000" palette="2" />
+        <Effect ref="2" name="Fill" startTime="1000" endTime="2000" palette="0" />
+        <Effect ref="2" name="Fill" startTime="2000" endTime="3000" palette="1" />
+        <Effect ref="2" name="Fill" startTime="3000" endTime="4000" palette="2" />
+        <Effect ref="2" name="Fill" startTime="4000" endTime="5000" palette="0" />
+        <Effect ref="2" name="Fill" startTime="5000" endTime="6000" palette="1" />
+        <Effect ref="2" name="Fill" startTime="6000" endTime="7000" palette="2" />
+        <Effect ref="2" name="Fill" startTime="7000" endTime="8000" palette="0" />
+        <Effect ref="2" name="Fill" startTime="8000" endTime="9000" palette="1" />
+        <Effect ref="2" name="Fill" startTime="9000" endTime="10000" palette="2" />
+        <Effect ref="2" name="Fill" startTime="10000" endTime="11000" palette="0" />
+        <Effect ref="2" name="Fill" startTime="11000" endTime="12000" palette="1" />
+        <Effect ref="2" name="Fill" startTime="12000" endTime="13000" palette="2" />
+        <Effect ref="2" name="Fill" startTime="13000" endTime="14000" palette="0" />
+        <Effect ref="2" name="Fill" startTime="14000" endTime="15000" palette="1" />
+        <Effect ref="2" name="Fill" startTime="15000" endTime="16000" palette="2" />
+        <Effect ref="2" name="Fill" startTime="16000" endTime="17000" palette="0" />
+        <Effect ref="2" name="Fill" startTime="17000" endTime="18000" palette="1" />
+        <Effect ref="2" name="Fill" startTime="18000" endTime="19000" palette="2" />
+        <Effect ref="2" name="Fill" startTime="19000" endTime="20000" palette="0" />
+        <Effect ref="2" name="Fill" startTime="20000" endTime="21000" palette="1" />
+        <Effect ref="2" name="Fill" startTime="21000" endTime="22000" palette="2" />
+        <Effect ref="2" name="Fill" startTime="22000" endTime="23000" palette="0" />
+        <Effect ref="2" name="Fill" startTime="23000" endTime="24000" palette="1" />
+        <Effect ref="2" name="Fill" startTime="24000" endTime="25000" palette="2" />
+        <Effect ref="2" name="Fill" startTime="25000" endTime="26000" palette="0" />
+        <Effect ref="2" name="Fill" startTime="26000" endTime="27000" palette="1" />
+        <Effect ref="2" name="Fill" startTime="27000" endTime="28000" palette="2" />
+        <Effect ref="2" name="Fill" startTime="28000" endTime="29000" palette="0" />
+        <Effect ref="2" name="Fill" startTime="29000" endTime="30000" palette="1" />
+      </EffectLayer>
+      <EffectLayer>
+        <Effect ref="1" name="Fill" startTime="0" endTime="300" palette="1" />
+        <Effect ref="1" name="Fill" startTime="1000" endTime="1300" palette="2" />
+        <Effect ref="1" name="Fill" startTime="2000" endTime="2300" palette="0" />
+        <Effect ref="1" name="Fill" startTime="3000" endTime="3300" palette="1" />
+        <Effect ref="1" name="Fill" startTime="4000" endTime="4300" palette="2" />
+        <Effect ref="1" name="Fill" startTime="5000" endTime="5300" palette="0" />
+        <Effect ref="1" name="Fill" startTime="6000" endTime="6300" palette="1" />
+        <Effect ref="1" name="Fill" startTime="7000" endTime="7300" palette="2" />
+        <Effect ref="1" name="Fill" startTime="8000" endTime="8300" palette="0" />
+        <Effect ref="1" name="Fill" startTime="9000" endTime="9300" palette="1" />
+        <Effect ref="1" name="Fill" startTime="10000" endTime="10300" palette="2" />
+        <Effect ref="1" name="Fill" startTime="11000" endTime="11300" palette="0" />
+        <Effect ref="1" name="Fill" startTime="12000" endTime="12300" palette="1" />
+        <Effect ref="1" name="Fill" startTime="13000" endTime="13300" palette="2" />
+        <Effect ref="1" name="Fill" startTime="14000" endTime="14300" palette="0" />
+        <Effect ref="1" name="Fill" startTime="15000" endTime="15300" palette="1" />
+        <Effect ref="1" name="Fill" startTime="16000" endTime="16300" palette="2" />
+        <Effect ref="1" name="Fill" startTime="17000" endTime="17300" palette="0" />
+        <Effect ref="1" name="Fill" startTime="18000" endTime="18300" palette="1" />
+        <Effect ref="1" name="Fill" startTime="19000" endTime="19300" palette="2" />
+        <Effect ref="1" name="Fill" startTime="20000" endTime="20300" palette="0" />
+        <Effect ref="1" name="Fill" startTime="21000" endTime="21300" palette="1" />
+        <Effect ref="1" name="Fill" startTime="22000" endTime="22300" palette="2" />
+        <Effect ref="1" name="Fill" startTime="23000" endTime="23300" palette="0" />
+        <Effect ref="1" name="Fill" startTime="24000" endTime="24300" palette="1" />
+        <Effect ref="1" name="Fill" startTime="25000" endTime="25300" palette="2" />
+        <Effect ref="1" name="Fill" startTime="26000" endTime="26300" palette="0" />
+        <Effect ref="1" name="Fill" startTime="27000" endTime="27300" palette="1" />
+        <Effect ref="1" name="Fill" startTime="28000" endTime="28300" palette="2" />
+        <Effect ref="1" name="Fill" startTime="29000" endTime="29300" palette="0" />
+      </EffectLayer>
+      <EffectLayer>
+        <Effect ref="0" name="On" startTime="0" endTime="300" palette="0" />
+        <Effect ref="0" name="On" startTime="300" endTime="1300" palette="1" />
+        <Effect ref="0" name="On" startTime="1300" endTime="2300" palette="2" />
+        <Effect ref="0" name="On" startTime="2300" endTime="3300" palette="0" />
+        <Effect ref="0" name="On" startTime="3300" endTime="4300" palette="1" />
+        <Effect ref="0" name="On" startTime="4300" endTime="5300" palette="2" />
+        <Effect ref="0" name="On" startTime="5300" endTime="6300" palette="0" />
+        <Effect ref="0" name="On" startTime="6300" endTime="7300" palette="1" />
+        <Effect ref="0" name="On" startTime="7300" endTime="8300" palette="2" />
+        <Effect ref="0" name="On" startTime="8300" endTime="9300" palette="0" />
+        <Effect ref="0" name="On" startTime="9300" endTime="10300" palette="1" />
+        <Effect ref="0" name="On" startTime="10300" endTime="11300" palette="2" />
+        <Effect ref="0" name="On" startTime="11300" endTime="12300" palette="0" />
+        <Effect ref="0" name="On" startTime="12300" endTime="13300" palette="1" />
+        <Effect ref="0" name="On" startTime="13300" endTime="14300" palette="2" />
+        <Effect ref="0" name="On" startTime="14300" endTime="15300" palette="0" />
+        <Effect ref="0" name="On" startTime="15300" endTime="16300" palette="1" />
+        <Effect ref="0" name="On" startTime="16300" endTime="17300" palette="2" />
+        <Effect ref="0" name="On" startTime="17300" endTime="18300" palette="0" />
+        <Effect ref="0" name="On" startTime="18300" endTime="19300" palette="1" />
+        <Effect ref="0" name="On" startTime="19300" endTime="20300" palette="2" />
+        <Effect ref="0" name="On" startTime="20300" endTime="21300" palette="0" />
+        <Effect ref="0" name="On" startTime="21300" endTime="22300" palette="1" />
+        <Effect ref="0" name="On" startTime="22300" endTime="23300" palette="2" />
+        <Effect ref="0" name="On" startTime="23300" endTime="24300" palette="0" />
+        <Effect ref="0" name="On" startTime="24300" endTime="25300" palette="1" />
+        <Effect ref="0" name="On" startTime="25300" endTime="26300" palette="2" />
+        <Effect ref="0" name="On" startTime="26300" endTime="27300" palette="0" />
+        <Effect ref="0" name="On" startTime="27300" endTime="28300" palette="1" />
+        <Effect ref="0" name="On" startTime="28300" endTime="29300" palette="2" />
+        <Effect ref="0" name="On" startTime="29300" endTime="30000" palette="0" />
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="SIDE tube">
+      <EffectLayer>
+        <Effect ref="7" name="Fill" startTime="0" endTime="700" palette="1" />
+        <Effect ref="8" name="Fill" startTime="750" endTime="1700" palette="2" />
+        <Effect ref="8" name="Fill" startTime="1750" endTime="2700" palette="0" />
+        <Effect ref="8" name="Fill" startTime="2750" endTime="3700" palette="1" />
+        <Effect ref="8" name="Fill" startTime="3750" endTime="4700" palette="2" />
+        <Effect ref="8" name="Fill" startTime="4750" endTime="5700" palette="0" />
+        <Effect ref="8" name="Fill" startTime="5750" endTime="6700" palette="1" />
+        <Effect ref="8" name="Fill" startTime="6750" endTime="7700" palette="2" />
+        <Effect ref="8" name="Fill" startTime="7750" endTime="8700" palette="0" />
+        <Effect ref="8" name="Fill" startTime="8750" endTime="9700" palette="1" />
+        <Effect ref="8" name="Fill" startTime="9750" endTime="10700" palette="2" />
+        <Effect ref="8" name="Fill" startTime="10750" endTime="11700" palette="0" />
+        <Effect ref="8" name="Fill" startTime="11750" endTime="12700" palette="1" />
+        <Effect ref="8" name="Fill" startTime="12750" endTime="13700" palette="2" />
+        <Effect ref="8" name="Fill" startTime="13750" endTime="14700" palette="0" />
+        <Effect ref="8" name="Fill" startTime="14750" endTime="15700" palette="1" />
+        <Effect ref="8" name="Fill" startTime="15750" endTime="16700" palette="2" />
+        <Effect ref="8" name="Fill" startTime="16750" endTime="17700" palette="0" />
+        <Effect ref="8" name="Fill" startTime="17750" endTime="18700" palette="1" />
+        <Effect ref="8" name="Fill" startTime="18750" endTime="19700" palette="2" />
+        <Effect ref="8" name="Fill" startTime="19750" endTime="20700" palette="0" />
+        <Effect ref="8" name="Fill" startTime="20750" endTime="21700" palette="1" />
+        <Effect ref="8" name="Fill" startTime="21750" endTime="22700" palette="2" />
+        <Effect ref="8" name="Fill" startTime="22750" endTime="23700" palette="0" />
+        <Effect ref="8" name="Fill" startTime="23750" endTime="24700" palette="1" />
+        <Effect ref="8" name="Fill" startTime="24750" endTime="25700" palette="2" />
+        <Effect ref="8" name="Fill" startTime="25750" endTime="26700" palette="0" />
+        <Effect ref="8" name="Fill" startTime="26750" endTime="27700" palette="1" />
+        <Effect ref="8" name="Fill" startTime="27750" endTime="28700" palette="2" />
+        <Effect ref="8" name="Fill" startTime="28750" endTime="29700" palette="0" />
+        <Effect ref="9" name="Fill" startTime="29750" endTime="30000" palette="1" />
+      </EffectLayer>
+      <EffectLayer>
+        <Effect ref="0" name="On" startTime="0" endTime="700" palette="0" />
+        <Effect ref="0" name="On" startTime="700" endTime="1700" palette="1" />
+        <Effect ref="0" name="On" startTime="1700" endTime="2700" palette="2" />
+        <Effect ref="0" name="On" startTime="2700" endTime="3700" palette="0" />
+        <Effect ref="0" name="On" startTime="3700" endTime="4700" palette="1" />
+        <Effect ref="0" name="On" startTime="4700" endTime="5700" palette="2" />
+        <Effect ref="0" name="On" startTime="5700" endTime="6700" palette="0" />
+        <Effect ref="0" name="On" startTime="6700" endTime="7700" palette="1" />
+        <Effect ref="0" name="On" startTime="7700" endTime="8700" palette="2" />
+        <Effect ref="0" name="On" startTime="8700" endTime="9700" palette="0" />
+        <Effect ref="0" name="On" startTime="9700" endTime="10700" palette="1" />
+        <Effect ref="0" name="On" startTime="10700" endTime="11700" palette="2" />
+        <Effect ref="0" name="On" startTime="11700" endTime="12700" palette="0" />
+        <Effect ref="0" name="On" startTime="12700" endTime="13700" palette="1" />
+        <Effect ref="0" name="On" startTime="13700" endTime="14700" palette="2" />
+        <Effect ref="0" name="On" startTime="14700" endTime="15700" palette="0" />
+        <Effect ref="0" name="On" startTime="15700" endTime="16700" palette="1" />
+        <Effect ref="0" name="On" startTime="16700" endTime="17700" palette="2" />
+        <Effect ref="0" name="On" startTime="17700" endTime="18700" palette="0" />
+        <Effect ref="0" name="On" startTime="18700" endTime="19700" palette="1" />
+        <Effect ref="0" name="On" startTime="19700" endTime="20700" palette="2" />
+        <Effect ref="0" name="On" startTime="20700" endTime="21700" palette="0" />
+        <Effect ref="0" name="On" startTime="21700" endTime="22700" palette="1" />
+        <Effect ref="0" name="On" startTime="22700" endTime="23700" palette="2" />
+        <Effect ref="0" name="On" startTime="23700" endTime="24700" palette="0" />
+        <Effect ref="0" name="On" startTime="24700" endTime="25700" palette="1" />
+        <Effect ref="0" name="On" startTime="25700" endTime="26700" palette="2" />
+        <Effect ref="0" name="On" startTime="26700" endTime="27700" palette="0" />
+        <Effect ref="0" name="On" startTime="27700" endTime="28700" palette="1" />
+        <Effect ref="0" name="On" startTime="28700" endTime="29700" palette="2" />
+        <Effect ref="0" name="On" startTime="29700" endTime="30000" palette="0" />
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="SOUTH tube">
+      <EffectLayer>
+        <Effect ref="12" name="Fill" startTime="0" endTime="1000" palette="0" />
+        <Effect ref="12" name="Fill" startTime="1000" endTime="2000" palette="1" />
+        <Effect ref="12" name="Fill" startTime="2000" endTime="3000" palette="2" />
+        <Effect ref="12" name="Fill" startTime="3000" endTime="4000" palette="0" />
+        <Effect ref="12" name="Fill" startTime="4000" endTime="5000" palette="1" />
+        <Effect ref="12" name="Fill" startTime="5000" endTime="6000" palette="2" />
+        <Effect ref="12" name="Fill" startTime="6000" endTime="7000" palette="0" />
+        <Effect ref="12" name="Fill" startTime="7000" endTime="8000" palette="1" />
+        <Effect ref="12" name="Fill" startTime="8000" endTime="9000" palette="2" />
+        <Effect ref="12" name="Fill" startTime="9000" endTime="10000" palette="0" />
+        <Effect ref="12" name="Fill" startTime="10000" endTime="11000" palette="1" />
+        <Effect ref="12" name="Fill" startTime="11000" endTime="12000" palette="2" />
+        <Effect ref="12" name="Fill" startTime="12000" endTime="13000" palette="0" />
+        <Effect ref="12" name="Fill" startTime="13000" endTime="14000" palette="1" />
+        <Effect ref="12" name="Fill" startTime="14000" endTime="15000" palette="2" />
+        <Effect ref="12" name="Fill" startTime="15000" endTime="16000" palette="0" />
+        <Effect ref="12" name="Fill" startTime="16000" endTime="17000" palette="1" />
+        <Effect ref="12" name="Fill" startTime="17000" endTime="18000" palette="2" />
+        <Effect ref="12" name="Fill" startTime="18000" endTime="19000" palette="0" />
+        <Effect ref="12" name="Fill" startTime="19000" endTime="20000" palette="1" />
+        <Effect ref="12" name="Fill" startTime="20000" endTime="21000" palette="2" />
+        <Effect ref="12" name="Fill" startTime="21000" endTime="22000" palette="0" />
+        <Effect ref="12" name="Fill" startTime="22000" endTime="23000" palette="1" />
+        <Effect ref="12" name="Fill" startTime="23000" endTime="24000" palette="2" />
+        <Effect ref="12" name="Fill" startTime="24000" endTime="25000" palette="0" />
+        <Effect ref="12" name="Fill" startTime="25000" endTime="26000" palette="1" />
+        <Effect ref="12" name="Fill" startTime="26000" endTime="27000" palette="2" />
+        <Effect ref="12" name="Fill" startTime="27000" endTime="28000" palette="0" />
+        <Effect ref="12" name="Fill" startTime="28000" endTime="29000" palette="1" />
+        <Effect ref="12" name="Fill" startTime="29000" endTime="30000" palette="2" />
+      </EffectLayer>
+      <EffectLayer>
+        <Effect ref="11" name="Fill" startTime="0" endTime="1000" palette="2" />
+        <Effect ref="11" name="Fill" startTime="1000" endTime="2000" palette="0" />
+        <Effect ref="11" name="Fill" startTime="2000" endTime="3000" palette="1" />
+        <Effect ref="11" name="Fill" startTime="3000" endTime="4000" palette="2" />
+        <Effect ref="11" name="Fill" startTime="4000" endTime="5000" palette="0" />
+        <Effect ref="11" name="Fill" startTime="5000" endTime="6000" palette="1" />
+        <Effect ref="11" name="Fill" startTime="6000" endTime="7000" palette="2" />
+        <Effect ref="11" name="Fill" startTime="7000" endTime="8000" palette="0" />
+        <Effect ref="11" name="Fill" startTime="8000" endTime="9000" palette="1" />
+        <Effect ref="11" name="Fill" startTime="9000" endTime="10000" palette="2" />
+        <Effect ref="11" name="Fill" startTime="10000" endTime="11000" palette="0" />
+        <Effect ref="11" name="Fill" startTime="11000" endTime="12000" palette="1" />
+        <Effect ref="11" name="Fill" startTime="12000" endTime="13000" palette="2" />
+        <Effect ref="11" name="Fill" startTime="13000" endTime="14000" palette="0" />
+        <Effect ref="11" name="Fill" startTime="14000" endTime="15000" palette="1" />
+        <Effect ref="11" name="Fill" startTime="15000" endTime="16000" palette="2" />
+        <Effect ref="11" name="Fill" startTime="16000" endTime="17000" palette="0" />
+        <Effect ref="11" name="Fill" startTime="17000" endTime="18000" palette="1" />
+        <Effect ref="11" name="Fill" startTime="18000" endTime="19000" palette="2" />
+        <Effect ref="11" name="Fill" startTime="19000" endTime="20000" palette="0" />
+        <Effect ref="11" name="Fill" startTime="20000" endTime="21000" palette="1" />
+        <Effect ref="11" name="Fill" startTime="21000" endTime="22000" palette="2" />
+        <Effect ref="11" name="Fill" startTime="22000" endTime="23000" palette="0" />
+        <Effect ref="11" name="Fill" startTime="23000" endTime="24000" palette="1" />
+        <Effect ref="11" name="Fill" startTime="24000" endTime="25000" palette="2" />
+        <Effect ref="11" name="Fill" startTime="25000" endTime="26000" palette="0" />
+        <Effect ref="11" name="Fill" startTime="26000" endTime="27000" palette="1" />
+        <Effect ref="11" name="Fill" startTime="27000" endTime="28000" palette="2" />
+        <Effect ref="11" name="Fill" startTime="28000" endTime="29000" palette="0" />
+        <Effect ref="11" name="Fill" startTime="29000" endTime="30000" palette="1" />
+      </EffectLayer>
+      <EffectLayer>
+        <Effect ref="10" name="Fill" startTime="0" endTime="700" palette="1" />
+        <Effect ref="10" name="Fill" startTime="1000" endTime="1700" palette="2" />
+        <Effect ref="10" name="Fill" startTime="2000" endTime="2700" palette="0" />
+        <Effect ref="10" name="Fill" startTime="3000" endTime="3700" palette="1" />
+        <Effect ref="10" name="Fill" startTime="4000" endTime="4700" palette="2" />
+        <Effect ref="10" name="Fill" startTime="5000" endTime="5700" palette="0" />
+        <Effect ref="10" name="Fill" startTime="6000" endTime="6700" palette="1" />
+        <Effect ref="10" name="Fill" startTime="7000" endTime="7700" palette="2" />
+        <Effect ref="10" name="Fill" startTime="8000" endTime="8700" palette="0" />
+        <Effect ref="10" name="Fill" startTime="9000" endTime="9700" palette="1" />
+        <Effect ref="10" name="Fill" startTime="10000" endTime="10700" palette="2" />
+        <Effect ref="10" name="Fill" startTime="11000" endTime="11700" palette="0" />
+        <Effect ref="10" name="Fill" startTime="12000" endTime="12700" palette="1" />
+        <Effect ref="10" name="Fill" startTime="13000" endTime="13700" palette="2" />
+        <Effect ref="10" name="Fill" startTime="14000" endTime="14700" palette="0" />
+        <Effect ref="10" name="Fill" startTime="15000" endTime="15700" palette="1" />
+        <Effect ref="10" name="Fill" startTime="16000" endTime="16700" palette="2" />
+        <Effect ref="10" name="Fill" startTime="17000" endTime="17700" palette="0" />
+        <Effect ref="10" name="Fill" startTime="18000" endTime="18700" palette="1" />
+        <Effect ref="10" name="Fill" startTime="19000" endTime="19700" palette="2" />
+        <Effect ref="10" name="Fill" startTime="20000" endTime="20700" palette="0" />
+        <Effect ref="10" name="Fill" startTime="21000" endTime="21700" palette="1" />
+        <Effect ref="10" name="Fill" startTime="22000" endTime="22700" palette="2" />
+        <Effect ref="10" name="Fill" startTime="23000" endTime="23700" palette="0" />
+        <Effect ref="10" name="Fill" startTime="24000" endTime="24700" palette="1" />
+        <Effect ref="10" name="Fill" startTime="25000" endTime="25700" palette="2" />
+        <Effect ref="10" name="Fill" startTime="26000" endTime="26700" palette="0" />
+        <Effect ref="10" name="Fill" startTime="27000" endTime="27700" palette="1" />
+        <Effect ref="10" name="Fill" startTime="28000" endTime="28700" palette="2" />
+        <Effect ref="10" name="Fill" startTime="29000" endTime="29700" palette="0" />
+      </EffectLayer>
+      <EffectLayer>
+        <Effect ref="0" name="On" startTime="0" endTime="700" palette="0" />
+        <Effect ref="0" name="On" startTime="700" endTime="1700" palette="1" />
+        <Effect ref="0" name="On" startTime="1700" endTime="2700" palette="2" />
+        <Effect ref="0" name="On" startTime="2700" endTime="3700" palette="0" />
+        <Effect ref="0" name="On" startTime="3700" endTime="4700" palette="1" />
+        <Effect ref="0" name="On" startTime="4700" endTime="5700" palette="2" />
+        <Effect ref="0" name="On" startTime="5700" endTime="6700" palette="0" />
+        <Effect ref="0" name="On" startTime="6700" endTime="7700" palette="1" />
+        <Effect ref="0" name="On" startTime="7700" endTime="8700" palette="2" />
+        <Effect ref="0" name="On" startTime="8700" endTime="9700" palette="0" />
+        <Effect ref="0" name="On" startTime="9700" endTime="10700" palette="1" />
+        <Effect ref="0" name="On" startTime="10700" endTime="11700" palette="2" />
+        <Effect ref="0" name="On" startTime="11700" endTime="12700" palette="0" />
+        <Effect ref="0" name="On" startTime="12700" endTime="13700" palette="1" />
+        <Effect ref="0" name="On" startTime="13700" endTime="14700" palette="2" />
+        <Effect ref="0" name="On" startTime="14700" endTime="15700" palette="0" />
+        <Effect ref="0" name="On" startTime="15700" endTime="16700" palette="1" />
+        <Effect ref="0" name="On" startTime="16700" endTime="17700" palette="2" />
+        <Effect ref="0" name="On" startTime="17700" endTime="18700" palette="0" />
+        <Effect ref="0" name="On" startTime="18700" endTime="19700" palette="1" />
+        <Effect ref="0" name="On" startTime="19700" endTime="20700" palette="2" />
+        <Effect ref="0" name="On" startTime="20700" endTime="21700" palette="0" />
+        <Effect ref="0" name="On" startTime="21700" endTime="22700" palette="1" />
+        <Effect ref="0" name="On" startTime="22700" endTime="23700" palette="2" />
+        <Effect ref="0" name="On" startTime="23700" endTime="24700" palette="0" />
+        <Effect ref="0" name="On" startTime="24700" endTime="25700" palette="1" />
+        <Effect ref="0" name="On" startTime="25700" endTime="26700" palette="2" />
+        <Effect ref="0" name="On" startTime="26700" endTime="27700" palette="0" />
+        <Effect ref="0" name="On" startTime="27700" endTime="28700" palette="1" />
+        <Effect ref="0" name="On" startTime="28700" endTime="29700" palette="2" />
+        <Effect ref="0" name="On" startTime="29700" endTime="30000" palette="0" />
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="SOUTH S">
+      <EffectLayer>
+        <Effect ref="16" name="Fill" startTime="0" endTime="700" palette="0" />
+        <Effect ref="18" name="Fill" startTime="700" endTime="1700" palette="1" />
+        <Effect ref="18" name="Fill" startTime="1700" endTime="2700" palette="2" />
+        <Effect ref="18" name="Fill" startTime="2700" endTime="3700" palette="0" />
+        <Effect ref="18" name="Fill" startTime="3700" endTime="4700" palette="1" />
+        <Effect ref="18" name="Fill" startTime="4700" endTime="5700" palette="2" />
+        <Effect ref="18" name="Fill" startTime="5700" endTime="6700" palette="0" />
+        <Effect ref="18" name="Fill" startTime="6700" endTime="7700" palette="1" />
+        <Effect ref="18" name="Fill" startTime="7700" endTime="8700" palette="2" />
+        <Effect ref="18" name="Fill" startTime="8700" endTime="9700" palette="0" />
+        <Effect ref="18" name="Fill" startTime="9700" endTime="10700" palette="1" />
+        <Effect ref="18" name="Fill" startTime="10700" endTime="11700" palette="2" />
+        <Effect ref="18" name="Fill" startTime="11700" endTime="12700" palette="0" />
+        <Effect ref="18" name="Fill" startTime="12700" endTime="13700" palette="1" />
+        <Effect ref="18" name="Fill" startTime="13700" endTime="14700" palette="2" />
+        <Effect ref="18" name="Fill" startTime="14700" endTime="15700" palette="0" />
+        <Effect ref="18" name="Fill" startTime="15700" endTime="16700" palette="1" />
+        <Effect ref="18" name="Fill" startTime="16700" endTime="17700" palette="2" />
+        <Effect ref="18" name="Fill" startTime="17700" endTime="18700" palette="0" />
+        <Effect ref="18" name="Fill" startTime="18700" endTime="19700" palette="1" />
+        <Effect ref="18" name="Fill" startTime="19700" endTime="20700" palette="2" />
+        <Effect ref="18" name="Fill" startTime="20700" endTime="21700" palette="0" />
+        <Effect ref="18" name="Fill" startTime="21700" endTime="22700" palette="1" />
+        <Effect ref="18" name="Fill" startTime="22700" endTime="23700" palette="2" />
+        <Effect ref="18" name="Fill" startTime="23700" endTime="24700" palette="0" />
+        <Effect ref="18" name="Fill" startTime="24700" endTime="25700" palette="1" />
+        <Effect ref="18" name="Fill" startTime="25700" endTime="26700" palette="2" />
+        <Effect ref="18" name="Fill" startTime="26700" endTime="27700" palette="0" />
+        <Effect ref="18" name="Fill" startTime="27700" endTime="28700" palette="1" />
+        <Effect ref="18" name="Fill" startTime="28700" endTime="29700" palette="2" />
+        <Effect ref="21" name="Fill" startTime="29700" endTime="30000" palette="0" />
+      </EffectLayer>
+      <EffectLayer>
+        <Effect ref="14" name="Fill" startTime="0" endTime="700" palette="2" />
+        <Effect ref="17" name="Fill" startTime="700" endTime="1700" palette="0" />
+        <Effect ref="17" name="Fill" startTime="1700" endTime="2700" palette="1" />
+        <Effect ref="17" name="Fill" startTime="2700" endTime="3700" palette="2" />
+        <Effect ref="17" name="Fill" startTime="3700" endTime="4700" palette="0" />
+        <Effect ref="17" name="Fill" startTime="4700" endTime="5700" palette="1" />
+        <Effect ref="17" name="Fill" startTime="5700" endTime="6700" palette="2" />
+        <Effect ref="17" name="Fill" startTime="6700" endTime="7700" palette="0" />
+        <Effect ref="17" name="Fill" startTime="7700" endTime="8700" palette="1" />
+        <Effect ref="17" name="Fill" startTime="8700" endTime="9700" palette="2" />
+        <Effect ref="17" name="Fill" startTime="9700" endTime="10700" palette="0" />
+        <Effect ref="17" name="Fill" startTime="10700" endTime="11700" palette="1" />
+        <Effect ref="17" name="Fill" startTime="11700" endTime="12700" palette="2" />
+        <Effect ref="17" name="Fill" startTime="12700" endTime="13700" palette="0" />
+        <Effect ref="17" name="Fill" startTime="13700" endTime="14700" palette="1" />
+        <Effect ref="17" name="Fill" startTime="14700" endTime="15700" palette="2" />
+        <Effect ref="17" name="Fill" startTime="15700" endTime="16700" palette="0" />
+        <Effect ref="17" name="Fill" startTime="16700" endTime="17700" palette="1" />
+        <Effect ref="17" name="Fill" startTime="17700" endTime="18700" palette="2" />
+        <Effect ref="17" name="Fill" startTime="18700" endTime="19700" palette="0" />
+        <Effect ref="17" name="Fill" startTime="19700" endTime="20700" palette="1" />
+        <Effect ref="17" name="Fill" startTime="20700" endTime="21700" palette="2" />
+        <Effect ref="17" name="Fill" startTime="21700" endTime="22700" palette="0" />
+        <Effect ref="17" name="Fill" startTime="22700" endTime="23700" palette="1" />
+        <Effect ref="17" name="Fill" startTime="23700" endTime="24700" palette="2" />
+        <Effect ref="17" name="Fill" startTime="24700" endTime="25700" palette="0" />
+        <Effect ref="17" name="Fill" startTime="25700" endTime="26700" palette="1" />
+        <Effect ref="17" name="Fill" startTime="26700" endTime="27700" palette="2" />
+        <Effect ref="17" name="Fill" startTime="27700" endTime="28700" palette="0" />
+        <Effect ref="17" name="Fill" startTime="28700" endTime="29700" palette="1" />
+        <Effect ref="20" name="Fill" startTime="29700" endTime="30000" palette="2" />
+      </EffectLayer>
+      <EffectLayer>
+        <Effect ref="13" name="Fill" startTime="0" endTime="700" palette="1" />
+        <Effect ref="15" name="Fill" startTime="700" endTime="1700" palette="2" />
+        <Effect ref="15" name="Fill" startTime="1700" endTime="2700" palette="0" />
+        <Effect ref="15" name="Fill" startTime="2700" endTime="3700" palette="1" />
+        <Effect ref="15" name="Fill" startTime="3700" endTime="4700" palette="2" />
+        <Effect ref="15" name="Fill" startTime="4700" endTime="5700" palette="0" />
+        <Effect ref="15" name="Fill" startTime="5700" endTime="6700" palette="1" />
+        <Effect ref="15" name="Fill" startTime="6700" endTime="7700" palette="2" />
+        <Effect ref="15" name="Fill" startTime="7700" endTime="8700" palette="0" />
+        <Effect ref="15" name="Fill" startTime="8700" endTime="9700" palette="1" />
+        <Effect ref="15" name="Fill" startTime="9700" endTime="10700" palette="2" />
+        <Effect ref="15" name="Fill" startTime="10700" endTime="11700" palette="0" />
+        <Effect ref="15" name="Fill" startTime="11700" endTime="12700" palette="1" />
+        <Effect ref="15" name="Fill" startTime="12700" endTime="13700" palette="2" />
+        <Effect ref="15" name="Fill" startTime="13700" endTime="14700" palette="0" />
+        <Effect ref="15" name="Fill" startTime="14700" endTime="15700" palette="1" />
+        <Effect ref="15" name="Fill" startTime="15700" endTime="16700" palette="2" />
+        <Effect ref="15" name="Fill" startTime="16700" endTime="17700" palette="0" />
+        <Effect ref="15" name="Fill" startTime="17700" endTime="18700" palette="1" />
+        <Effect ref="15" name="Fill" startTime="18700" endTime="19700" palette="2" />
+        <Effect ref="15" name="Fill" startTime="19700" endTime="20700" palette="0" />
+        <Effect ref="15" name="Fill" startTime="20700" endTime="21700" palette="1" />
+        <Effect ref="15" name="Fill" startTime="21700" endTime="22700" palette="2" />
+        <Effect ref="15" name="Fill" startTime="22700" endTime="23700" palette="0" />
+        <Effect ref="15" name="Fill" startTime="23700" endTime="24700" palette="1" />
+        <Effect ref="15" name="Fill" startTime="24700" endTime="25700" palette="2" />
+        <Effect ref="15" name="Fill" startTime="25700" endTime="26700" palette="0" />
+        <Effect ref="15" name="Fill" startTime="26700" endTime="27700" palette="1" />
+        <Effect ref="15" name="Fill" startTime="27700" endTime="28700" palette="2" />
+        <Effect ref="15" name="Fill" startTime="28700" endTime="29700" palette="0" />
+        <Effect ref="19" name="Fill" startTime="29700" endTime="30000" palette="1" />
+      </EffectLayer>
+      <EffectLayer>
+        <Effect ref="0" name="On" startTime="0" endTime="700" palette="0" />
+        <Effect ref="0" name="On" startTime="700" endTime="1700" palette="1" />
+        <Effect ref="0" name="On" startTime="1700" endTime="2700" palette="2" />
+        <Effect ref="0" name="On" startTime="2700" endTime="3700" palette="0" />
+        <Effect ref="0" name="On" startTime="3700" endTime="4700" palette="1" />
+        <Effect ref="0" name="On" startTime="4700" endTime="5700" palette="2" />
+        <Effect ref="0" name="On" startTime="5700" endTime="6700" palette="0" />
+        <Effect ref="0" name="On" startTime="6700" endTime="7700" palette="1" />
+        <Effect ref="0" name="On" startTime="7700" endTime="8700" palette="2" />
+        <Effect ref="0" name="On" startTime="8700" endTime="9700" palette="0" />
+        <Effect ref="0" name="On" startTime="9700" endTime="10700" palette="1" />
+        <Effect ref="0" name="On" startTime="10700" endTime="11700" palette="2" />
+        <Effect ref="0" name="On" startTime="11700" endTime="12700" palette="0" />
+        <Effect ref="0" name="On" startTime="12700" endTime="13700" palette="1" />
+        <Effect ref="0" name="On" startTime="13700" endTime="14700" palette="2" />
+        <Effect ref="0" name="On" startTime="14700" endTime="15700" palette="0" />
+        <Effect ref="0" name="On" startTime="15700" endTime="16700" palette="1" />
+        <Effect ref="0" name="On" startTime="16700" endTime="17700" palette="2" />
+        <Effect ref="0" name="On" startTime="17700" endTime="18700" palette="0" />
+        <Effect ref="0" name="On" startTime="18700" endTime="19700" palette="1" />
+        <Effect ref="0" name="On" startTime="19700" endTime="20700" palette="2" />
+        <Effect ref="0" name="On" startTime="20700" endTime="21700" palette="0" />
+        <Effect ref="0" name="On" startTime="21700" endTime="22700" palette="1" />
+        <Effect ref="0" name="On" startTime="22700" endTime="23700" palette="2" />
+        <Effect ref="0" name="On" startTime="23700" endTime="24700" palette="0" />
+        <Effect ref="0" name="On" startTime="24700" endTime="25700" palette="1" />
+        <Effect ref="0" name="On" startTime="25700" endTime="26700" palette="2" />
+        <Effect ref="0" name="On" startTime="26700" endTime="27700" palette="0" />
+        <Effect ref="0" name="On" startTime="27700" endTime="28700" palette="1" />
+        <Effect ref="0" name="On" startTime="28700" endTime="29700" palette="2" />
+        <Effect ref="0" name="On" startTime="29700" endTime="30000" palette="0" />
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="SOUTH H">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="SOUTH O">
+      <EffectLayer>
+        <Effect ref="24" name="Fill" startTime="0" endTime="500" palette="2" />
+        <Effect ref="18" name="Fill" startTime="500" endTime="1500" palette="0" />
+        <Effect ref="18" name="Fill" startTime="1500" endTime="2500" palette="1" />
+        <Effect ref="18" name="Fill" startTime="2500" endTime="3500" palette="2" />
+        <Effect ref="18" name="Fill" startTime="3500" endTime="4500" palette="0" />
+        <Effect ref="18" name="Fill" startTime="4500" endTime="5500" palette="1" />
+        <Effect ref="18" name="Fill" startTime="5500" endTime="6500" palette="2" />
+        <Effect ref="18" name="Fill" startTime="6500" endTime="7500" palette="0" />
+        <Effect ref="18" name="Fill" startTime="7500" endTime="8500" palette="1" />
+        <Effect ref="18" name="Fill" startTime="8500" endTime="9500" palette="2" />
+        <Effect ref="18" name="Fill" startTime="9500" endTime="10500" palette="0" />
+        <Effect ref="18" name="Fill" startTime="10500" endTime="11500" palette="1" />
+        <Effect ref="18" name="Fill" startTime="11500" endTime="12500" palette="2" />
+        <Effect ref="18" name="Fill" startTime="12500" endTime="13500" palette="0" />
+        <Effect ref="18" name="Fill" startTime="13500" endTime="14500" palette="1" />
+        <Effect ref="18" name="Fill" startTime="14500" endTime="15500" palette="2" />
+        <Effect ref="18" name="Fill" startTime="15500" endTime="16500" palette="0" />
+        <Effect ref="18" name="Fill" startTime="16500" endTime="17500" palette="1" />
+        <Effect ref="18" name="Fill" startTime="17500" endTime="18500" palette="2" />
+        <Effect ref="18" name="Fill" startTime="18500" endTime="19500" palette="0" />
+        <Effect ref="18" name="Fill" startTime="19500" endTime="20500" palette="1" />
+        <Effect ref="18" name="Fill" startTime="20500" endTime="21500" palette="2" />
+        <Effect ref="18" name="Fill" startTime="21500" endTime="22500" palette="0" />
+        <Effect ref="18" name="Fill" startTime="22500" endTime="23500" palette="1" />
+        <Effect ref="18" name="Fill" startTime="23500" endTime="24500" palette="2" />
+        <Effect ref="18" name="Fill" startTime="24500" endTime="25500" palette="0" />
+        <Effect ref="18" name="Fill" startTime="25500" endTime="26500" palette="1" />
+        <Effect ref="18" name="Fill" startTime="26500" endTime="27500" palette="2" />
+        <Effect ref="18" name="Fill" startTime="27500" endTime="28500" palette="0" />
+        <Effect ref="18" name="Fill" startTime="28500" endTime="29500" palette="1" />
+        <Effect ref="27" name="Fill" startTime="29500" endTime="30000" palette="2" />
+      </EffectLayer>
+      <EffectLayer>
+        <Effect ref="23" name="Fill" startTime="0" endTime="500" palette="1" />
+        <Effect ref="17" name="Fill" startTime="500" endTime="1500" palette="2" />
+        <Effect ref="17" name="Fill" startTime="1500" endTime="2500" palette="0" />
+        <Effect ref="17" name="Fill" startTime="2500" endTime="3500" palette="1" />
+        <Effect ref="17" name="Fill" startTime="3500" endTime="4500" palette="2" />
+        <Effect ref="17" name="Fill" startTime="4500" endTime="5500" palette="0" />
+        <Effect ref="17" name="Fill" startTime="5500" endTime="6500" palette="1" />
+        <Effect ref="17" name="Fill" startTime="6500" endTime="7500" palette="2" />
+        <Effect ref="17" name="Fill" startTime="7500" endTime="8500" palette="0" />
+        <Effect ref="17" name="Fill" startTime="8500" endTime="9500" palette="1" />
+        <Effect ref="17" name="Fill" startTime="9500" endTime="10500" palette="2" />
+        <Effect ref="17" name="Fill" startTime="10500" endTime="11500" palette="0" />
+        <Effect ref="17" name="Fill" startTime="11500" endTime="12500" palette="1" />
+        <Effect ref="17" name="Fill" startTime="12500" endTime="13500" palette="2" />
+        <Effect ref="17" name="Fill" startTime="13500" endTime="14500" palette="0" />
+        <Effect ref="17" name="Fill" startTime="14500" endTime="15500" palette="1" />
+        <Effect ref="17" name="Fill" startTime="15500" endTime="16500" palette="2" />
+        <Effect ref="17" name="Fill" startTime="16500" endTime="17500" palette="0" />
+        <Effect ref="17" name="Fill" startTime="17500" endTime="18500" palette="1" />
+        <Effect ref="17" name="Fill" startTime="18500" endTime="19500" palette="2" />
+        <Effect ref="17" name="Fill" startTime="19500" endTime="20500" palette="0" />
+        <Effect ref="17" name="Fill" startTime="20500" endTime="21500" palette="1" />
+        <Effect ref="17" name="Fill" startTime="21500" endTime="22500" palette="2" />
+        <Effect ref="17" name="Fill" startTime="22500" endTime="23500" palette="0" />
+        <Effect ref="17" name="Fill" startTime="23500" endTime="24500" palette="1" />
+        <Effect ref="17" name="Fill" startTime="24500" endTime="25500" palette="2" />
+        <Effect ref="17" name="Fill" startTime="25500" endTime="26500" palette="0" />
+        <Effect ref="17" name="Fill" startTime="26500" endTime="27500" palette="1" />
+        <Effect ref="17" name="Fill" startTime="27500" endTime="28500" palette="2" />
+        <Effect ref="17" name="Fill" startTime="28500" endTime="29500" palette="0" />
+        <Effect ref="26" name="Fill" startTime="29500" endTime="30000" palette="1" />
+      </EffectLayer>
+      <EffectLayer>
+        <Effect ref="22" name="Fill" startTime="0" endTime="500" palette="0" />
+        <Effect ref="15" name="Fill" startTime="500" endTime="1500" palette="1" />
+        <Effect ref="15" name="Fill" startTime="1500" endTime="2500" palette="2" />
+        <Effect ref="15" name="Fill" startTime="2500" endTime="3500" palette="0" />
+        <Effect ref="15" name="Fill" startTime="3500" endTime="4500" palette="1" />
+        <Effect ref="15" name="Fill" startTime="4500" endTime="5500" palette="2" />
+        <Effect ref="15" name="Fill" startTime="5500" endTime="6500" palette="0" />
+        <Effect ref="15" name="Fill" startTime="6500" endTime="7500" palette="1" />
+        <Effect ref="15" name="Fill" startTime="7500" endTime="8500" palette="2" />
+        <Effect ref="15" name="Fill" startTime="8500" endTime="9500" palette="0" />
+        <Effect ref="15" name="Fill" startTime="9500" endTime="10500" palette="1" />
+        <Effect ref="15" name="Fill" startTime="10500" endTime="11500" palette="2" />
+        <Effect ref="15" name="Fill" startTime="11500" endTime="12500" palette="0" />
+        <Effect ref="15" name="Fill" startTime="12500" endTime="13500" palette="1" />
+        <Effect ref="15" name="Fill" startTime="13500" endTime="14500" palette="2" />
+        <Effect ref="15" name="Fill" startTime="14500" endTime="15500" palette="0" />
+        <Effect ref="15" name="Fill" startTime="15500" endTime="16500" palette="1" />
+        <Effect ref="15" name="Fill" startTime="16500" endTime="17500" palette="2" />
+        <Effect ref="15" name="Fill" startTime="17500" endTime="18500" palette="0" />
+        <Effect ref="15" name="Fill" startTime="18500" endTime="19500" palette="1" />
+        <Effect ref="15" name="Fill" startTime="19500" endTime="20500" palette="2" />
+        <Effect ref="15" name="Fill" startTime="20500" endTime="21500" palette="0" />
+        <Effect ref="15" name="Fill" startTime="21500" endTime="22500" palette="1" />
+        <Effect ref="15" name="Fill" startTime="22500" endTime="23500" palette="2" />
+        <Effect ref="15" name="Fill" startTime="23500" endTime="24500" palette="0" />
+        <Effect ref="15" name="Fill" startTime="24500" endTime="25500" palette="1" />
+        <Effect ref="15" name="Fill" startTime="25500" endTime="26500" palette="2" />
+        <Effect ref="15" name="Fill" startTime="26500" endTime="27500" palette="0" />
+        <Effect ref="15" name="Fill" startTime="27500" endTime="28500" palette="1" />
+        <Effect ref="15" name="Fill" startTime="28500" endTime="29500" palette="2" />
+        <Effect ref="25" name="Fill" startTime="29500" endTime="30000" palette="0" />
+      </EffectLayer>
+      <EffectLayer>
+        <Effect ref="0" name="On" startTime="0" endTime="500" palette="2" />
+        <Effect ref="0" name="On" startTime="500" endTime="1500" palette="0" />
+        <Effect ref="0" name="On" startTime="1500" endTime="2500" palette="1" />
+        <Effect ref="0" name="On" startTime="2500" endTime="3500" palette="2" />
+        <Effect ref="0" name="On" startTime="3500" endTime="4500" palette="0" />
+        <Effect ref="0" name="On" startTime="4500" endTime="5500" palette="1" />
+        <Effect ref="0" name="On" startTime="5500" endTime="6500" palette="2" />
+        <Effect ref="0" name="On" startTime="6500" endTime="7500" palette="0" />
+        <Effect ref="0" name="On" startTime="7500" endTime="8500" palette="1" />
+        <Effect ref="0" name="On" startTime="8500" endTime="9500" palette="2" />
+        <Effect ref="0" name="On" startTime="9500" endTime="10500" palette="0" />
+        <Effect ref="0" name="On" startTime="10500" endTime="11500" palette="1" />
+        <Effect ref="0" name="On" startTime="11500" endTime="12500" palette="2" />
+        <Effect ref="0" name="On" startTime="12500" endTime="13500" palette="0" />
+        <Effect ref="0" name="On" startTime="13500" endTime="14500" palette="1" />
+        <Effect ref="0" name="On" startTime="14500" endTime="15500" palette="2" />
+        <Effect ref="0" name="On" startTime="15500" endTime="16500" palette="0" />
+        <Effect ref="0" name="On" startTime="16500" endTime="17500" palette="1" />
+        <Effect ref="0" name="On" startTime="17500" endTime="18500" palette="2" />
+        <Effect ref="0" name="On" startTime="18500" endTime="19500" palette="0" />
+        <Effect ref="0" name="On" startTime="19500" endTime="20500" palette="1" />
+        <Effect ref="0" name="On" startTime="20500" endTime="21500" palette="2" />
+        <Effect ref="0" name="On" startTime="21500" endTime="22500" palette="0" />
+        <Effect ref="0" name="On" startTime="22500" endTime="23500" palette="1" />
+        <Effect ref="0" name="On" startTime="23500" endTime="24500" palette="2" />
+        <Effect ref="0" name="On" startTime="24500" endTime="25500" palette="0" />
+        <Effect ref="0" name="On" startTime="25500" endTime="26500" palette="1" />
+        <Effect ref="0" name="On" startTime="26500" endTime="27500" palette="2" />
+        <Effect ref="0" name="On" startTime="27500" endTime="28500" palette="0" />
+        <Effect ref="0" name="On" startTime="28500" endTime="29500" palette="1" />
+        <Effect ref="0" name="On" startTime="29500" endTime="30000" palette="2" />
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="SOUTH T">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="T bar">
+      <EffectLayer>
+        <Effect ref="28" name="Fill" startTime="0" endTime="850" palette="2" />
+        <Effect ref="30" name="Fill" startTime="850" endTime="1850" palette="0" />
+        <Effect ref="30" name="Fill" startTime="1850" endTime="2850" palette="1" />
+        <Effect ref="30" name="Fill" startTime="2850" endTime="3850" palette="2" />
+        <Effect ref="30" name="Fill" startTime="3850" endTime="4850" palette="0" />
+        <Effect ref="30" name="Fill" startTime="4850" endTime="5850" palette="1" />
+        <Effect ref="30" name="Fill" startTime="5850" endTime="6850" palette="2" />
+        <Effect ref="30" name="Fill" startTime="6850" endTime="7850" palette="0" />
+        <Effect ref="30" name="Fill" startTime="7850" endTime="8850" palette="1" />
+        <Effect ref="30" name="Fill" startTime="8850" endTime="9850" palette="2" />
+        <Effect ref="30" name="Fill" startTime="9850" endTime="10850" palette="0" />
+        <Effect ref="30" name="Fill" startTime="10850" endTime="11850" palette="1" />
+        <Effect ref="30" name="Fill" startTime="11850" endTime="12850" palette="2" />
+        <Effect ref="30" name="Fill" startTime="12850" endTime="13850" palette="0" />
+        <Effect ref="30" name="Fill" startTime="13850" endTime="14850" palette="1" />
+        <Effect ref="30" name="Fill" startTime="14850" endTime="15850" palette="2" />
+        <Effect ref="30" name="Fill" startTime="15850" endTime="16850" palette="0" />
+        <Effect ref="30" name="Fill" startTime="16850" endTime="17850" palette="1" />
+        <Effect ref="30" name="Fill" startTime="17850" endTime="18850" palette="2" />
+        <Effect ref="30" name="Fill" startTime="18850" endTime="19850" palette="0" />
+        <Effect ref="30" name="Fill" startTime="19850" endTime="20850" palette="1" />
+        <Effect ref="30" name="Fill" startTime="20850" endTime="21850" palette="2" />
+        <Effect ref="30" name="Fill" startTime="21850" endTime="22850" palette="0" />
+        <Effect ref="30" name="Fill" startTime="22850" endTime="23850" palette="1" />
+        <Effect ref="30" name="Fill" startTime="23850" endTime="24850" palette="2" />
+        <Effect ref="30" name="Fill" startTime="24850" endTime="25850" palette="0" />
+        <Effect ref="30" name="Fill" startTime="25850" endTime="26850" palette="1" />
+        <Effect ref="30" name="Fill" startTime="26850" endTime="27850" palette="2" />
+        <Effect ref="30" name="Fill" startTime="27850" endTime="28850" palette="0" />
+        <Effect ref="30" name="Fill" startTime="28850" endTime="29850" palette="1" />
+        <Effect ref="31" name="Fill" startTime="29850" endTime="30000" palette="2" />
+      </EffectLayer>
+      <EffectLayer>
+        <Effect ref="29" name="Fill" startTime="850" endTime="1000" palette="2" />
+        <Effect ref="29" name="Fill" startTime="1850" endTime="2000" palette="0" />
+        <Effect ref="29" name="Fill" startTime="2850" endTime="3000" palette="1" />
+        <Effect ref="29" name="Fill" startTime="3850" endTime="4000" palette="2" />
+        <Effect ref="29" name="Fill" startTime="4850" endTime="5000" palette="0" />
+        <Effect ref="29" name="Fill" startTime="5850" endTime="6000" palette="1" />
+        <Effect ref="29" name="Fill" startTime="6850" endTime="7000" palette="2" />
+        <Effect ref="29" name="Fill" startTime="7850" endTime="8000" palette="0" />
+        <Effect ref="29" name="Fill" startTime="8850" endTime="9000" palette="1" />
+        <Effect ref="29" name="Fill" startTime="9850" endTime="10000" palette="2" />
+        <Effect ref="29" name="Fill" startTime="10850" endTime="11000" palette="0" />
+        <Effect ref="29" name="Fill" startTime="11850" endTime="12000" palette="1" />
+        <Effect ref="29" name="Fill" startTime="12850" endTime="13000" palette="2" />
+        <Effect ref="29" name="Fill" startTime="13850" endTime="14000" palette="0" />
+        <Effect ref="29" name="Fill" startTime="14850" endTime="15000" palette="1" />
+        <Effect ref="29" name="Fill" startTime="15850" endTime="16000" palette="2" />
+        <Effect ref="29" name="Fill" startTime="16850" endTime="17000" palette="0" />
+        <Effect ref="29" name="Fill" startTime="17850" endTime="18000" palette="1" />
+        <Effect ref="29" name="Fill" startTime="18850" endTime="19000" palette="2" />
+        <Effect ref="29" name="Fill" startTime="19850" endTime="20000" palette="0" />
+        <Effect ref="29" name="Fill" startTime="20850" endTime="21000" palette="1" />
+        <Effect ref="29" name="Fill" startTime="21850" endTime="22000" palette="2" />
+        <Effect ref="29" name="Fill" startTime="22850" endTime="23000" palette="0" />
+        <Effect ref="29" name="Fill" startTime="23850" endTime="24000" palette="1" />
+        <Effect ref="29" name="Fill" startTime="24850" endTime="25000" palette="2" />
+        <Effect ref="29" name="Fill" startTime="25850" endTime="26000" palette="0" />
+        <Effect ref="29" name="Fill" startTime="26850" endTime="27000" palette="1" />
+        <Effect ref="29" name="Fill" startTime="27850" endTime="28000" palette="2" />
+        <Effect ref="29" name="Fill" startTime="28850" endTime="29000" palette="0" />
+        <Effect ref="29" name="Fill" startTime="29850" endTime="30000" palette="1" />
+      </EffectLayer>
+      <EffectLayer>
+        <Effect ref="0" name="On" startTime="0" endTime="1000" palette="1" />
+        <Effect ref="0" name="On" startTime="1000" endTime="2000" palette="2" />
+        <Effect ref="0" name="On" startTime="2000" endTime="3000" palette="0" />
+        <Effect ref="0" name="On" startTime="3000" endTime="4000" palette="1" />
+        <Effect ref="0" name="On" startTime="4000" endTime="5000" palette="2" />
+        <Effect ref="0" name="On" startTime="5000" endTime="6000" palette="0" />
+        <Effect ref="0" name="On" startTime="6000" endTime="7000" palette="1" />
+        <Effect ref="0" name="On" startTime="7000" endTime="8000" palette="2" />
+        <Effect ref="0" name="On" startTime="8000" endTime="9000" palette="0" />
+        <Effect ref="0" name="On" startTime="9000" endTime="10000" palette="1" />
+        <Effect ref="0" name="On" startTime="10000" endTime="11000" palette="2" />
+        <Effect ref="0" name="On" startTime="11000" endTime="12000" palette="0" />
+        <Effect ref="0" name="On" startTime="12000" endTime="13000" palette="1" />
+        <Effect ref="0" name="On" startTime="13000" endTime="14000" palette="2" />
+        <Effect ref="0" name="On" startTime="14000" endTime="15000" palette="0" />
+        <Effect ref="0" name="On" startTime="15000" endTime="16000" palette="1" />
+        <Effect ref="0" name="On" startTime="16000" endTime="17000" palette="2" />
+        <Effect ref="0" name="On" startTime="17000" endTime="18000" palette="0" />
+        <Effect ref="0" name="On" startTime="18000" endTime="19000" palette="1" />
+        <Effect ref="0" name="On" startTime="19000" endTime="20000" palette="2" />
+        <Effect ref="0" name="On" startTime="20000" endTime="21000" palette="0" />
+        <Effect ref="0" name="On" startTime="21000" endTime="22000" palette="1" />
+        <Effect ref="0" name="On" startTime="22000" endTime="23000" palette="2" />
+        <Effect ref="0" name="On" startTime="23000" endTime="24000" palette="0" />
+        <Effect ref="0" name="On" startTime="24000" endTime="25000" palette="1" />
+        <Effect ref="0" name="On" startTime="25000" endTime="26000" palette="2" />
+        <Effect ref="0" name="On" startTime="26000" endTime="27000" palette="0" />
+        <Effect ref="0" name="On" startTime="27000" endTime="28000" palette="1" />
+        <Effect ref="0" name="On" startTime="28000" endTime="29000" palette="2" />
+        <Effect ref="0" name="On" startTime="29000" endTime="30000" palette="0" />
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="T stem">
+      <EffectLayer>
+        <Effect ref="32" name="Fill" startTime="0" endTime="450" palette="1" />
+        <Effect ref="34" name="Fill" startTime="450" endTime="1450" palette="2" />
+        <Effect ref="34" name="Fill" startTime="1450" endTime="2450" palette="0" />
+        <Effect ref="34" name="Fill" startTime="2450" endTime="3450" palette="1" />
+        <Effect ref="34" name="Fill" startTime="3450" endTime="4450" palette="2" />
+        <Effect ref="34" name="Fill" startTime="4450" endTime="5450" palette="0" />
+        <Effect ref="34" name="Fill" startTime="5450" endTime="6450" palette="1" />
+        <Effect ref="34" name="Fill" startTime="6450" endTime="7450" palette="2" />
+        <Effect ref="34" name="Fill" startTime="7450" endTime="8450" palette="0" />
+        <Effect ref="34" name="Fill" startTime="8450" endTime="9450" palette="1" />
+        <Effect ref="34" name="Fill" startTime="9450" endTime="10450" palette="2" />
+        <Effect ref="34" name="Fill" startTime="10450" endTime="11450" palette="0" />
+        <Effect ref="34" name="Fill" startTime="11450" endTime="12450" palette="1" />
+        <Effect ref="34" name="Fill" startTime="12450" endTime="13450" palette="2" />
+        <Effect ref="34" name="Fill" startTime="13450" endTime="14450" palette="0" />
+        <Effect ref="34" name="Fill" startTime="14450" endTime="15450" palette="1" />
+        <Effect ref="34" name="Fill" startTime="15450" endTime="16450" palette="2" />
+        <Effect ref="34" name="Fill" startTime="16450" endTime="17450" palette="0" />
+        <Effect ref="34" name="Fill" startTime="17450" endTime="18450" palette="1" />
+        <Effect ref="34" name="Fill" startTime="18450" endTime="19450" palette="2" />
+        <Effect ref="34" name="Fill" startTime="19450" endTime="20450" palette="0" />
+        <Effect ref="34" name="Fill" startTime="20450" endTime="21450" palette="1" />
+        <Effect ref="34" name="Fill" startTime="21450" endTime="22450" palette="2" />
+        <Effect ref="34" name="Fill" startTime="22450" endTime="23450" palette="0" />
+        <Effect ref="34" name="Fill" startTime="23450" endTime="24450" palette="1" />
+        <Effect ref="34" name="Fill" startTime="24450" endTime="25450" palette="2" />
+        <Effect ref="34" name="Fill" startTime="25450" endTime="26450" palette="0" />
+        <Effect ref="34" name="Fill" startTime="26450" endTime="27450" palette="1" />
+        <Effect ref="34" name="Fill" startTime="27450" endTime="28450" palette="2" />
+        <Effect ref="34" name="Fill" startTime="28450" endTime="29450" palette="0" />
+        <Effect ref="35" name="Fill" startTime="29450" endTime="30000" palette="1" />
+      </EffectLayer>
+      <EffectLayer>
+        <Effect ref="33" name="Fill" startTime="450" endTime="600" palette="1" />
+        <Effect ref="33" name="Fill" startTime="1450" endTime="1600" palette="2" />
+        <Effect ref="33" name="Fill" startTime="2450" endTime="2600" palette="0" />
+        <Effect ref="33" name="Fill" startTime="3450" endTime="3600" palette="1" />
+        <Effect ref="33" name="Fill" startTime="4450" endTime="4600" palette="2" />
+        <Effect ref="33" name="Fill" startTime="5450" endTime="5600" palette="0" />
+        <Effect ref="33" name="Fill" startTime="6450" endTime="6600" palette="1" />
+        <Effect ref="33" name="Fill" startTime="7450" endTime="7600" palette="2" />
+        <Effect ref="33" name="Fill" startTime="8450" endTime="8600" palette="0" />
+        <Effect ref="33" name="Fill" startTime="9450" endTime="9600" palette="1" />
+        <Effect ref="33" name="Fill" startTime="10450" endTime="10600" palette="2" />
+        <Effect ref="33" name="Fill" startTime="11450" endTime="11600" palette="0" />
+        <Effect ref="33" name="Fill" startTime="12450" endTime="12600" palette="1" />
+        <Effect ref="33" name="Fill" startTime="13450" endTime="13600" palette="2" />
+        <Effect ref="33" name="Fill" startTime="14450" endTime="14600" palette="0" />
+        <Effect ref="33" name="Fill" startTime="15450" endTime="15600" palette="1" />
+        <Effect ref="33" name="Fill" startTime="16450" endTime="16600" palette="2" />
+        <Effect ref="33" name="Fill" startTime="17450" endTime="17600" palette="0" />
+        <Effect ref="33" name="Fill" startTime="18450" endTime="18600" palette="1" />
+        <Effect ref="33" name="Fill" startTime="19450" endTime="19600" palette="2" />
+        <Effect ref="33" name="Fill" startTime="20450" endTime="20600" palette="0" />
+        <Effect ref="33" name="Fill" startTime="21450" endTime="21600" palette="1" />
+        <Effect ref="33" name="Fill" startTime="22450" endTime="22600" palette="2" />
+        <Effect ref="33" name="Fill" startTime="23450" endTime="23600" palette="0" />
+        <Effect ref="33" name="Fill" startTime="24450" endTime="24600" palette="1" />
+        <Effect ref="33" name="Fill" startTime="25450" endTime="25600" palette="2" />
+        <Effect ref="33" name="Fill" startTime="26450" endTime="26600" palette="0" />
+        <Effect ref="33" name="Fill" startTime="27450" endTime="27600" palette="1" />
+        <Effect ref="33" name="Fill" startTime="28450" endTime="28600" palette="2" />
+        <Effect ref="33" name="Fill" startTime="29450" endTime="29600" palette="0" />
+      </EffectLayer>
+      <EffectLayer>
+        <Effect ref="0" name="On" startTime="0" endTime="600" palette="0" />
+        <Effect ref="0" name="On" startTime="600" endTime="1600" palette="1" />
+        <Effect ref="0" name="On" startTime="1600" endTime="2600" palette="2" />
+        <Effect ref="0" name="On" startTime="2600" endTime="3600" palette="0" />
+        <Effect ref="0" name="On" startTime="3600" endTime="4600" palette="1" />
+        <Effect ref="0" name="On" startTime="4600" endTime="5600" palette="2" />
+        <Effect ref="0" name="On" startTime="5600" endTime="6600" palette="0" />
+        <Effect ref="0" name="On" startTime="6600" endTime="7600" palette="1" />
+        <Effect ref="0" name="On" startTime="7600" endTime="8600" palette="2" />
+        <Effect ref="0" name="On" startTime="8600" endTime="9600" palette="0" />
+        <Effect ref="0" name="On" startTime="9600" endTime="10600" palette="1" />
+        <Effect ref="0" name="On" startTime="10600" endTime="11600" palette="2" />
+        <Effect ref="0" name="On" startTime="11600" endTime="12600" palette="0" />
+        <Effect ref="0" name="On" startTime="12600" endTime="13600" palette="1" />
+        <Effect ref="0" name="On" startTime="13600" endTime="14600" palette="2" />
+        <Effect ref="0" name="On" startTime="14600" endTime="15600" palette="0" />
+        <Effect ref="0" name="On" startTime="15600" endTime="16600" palette="1" />
+        <Effect ref="0" name="On" startTime="16600" endTime="17600" palette="2" />
+        <Effect ref="0" name="On" startTime="17600" endTime="18600" palette="0" />
+        <Effect ref="0" name="On" startTime="18600" endTime="19600" palette="1" />
+        <Effect ref="0" name="On" startTime="19600" endTime="20600" palette="2" />
+        <Effect ref="0" name="On" startTime="20600" endTime="21600" palette="0" />
+        <Effect ref="0" name="On" startTime="21600" endTime="22600" palette="1" />
+        <Effect ref="0" name="On" startTime="22600" endTime="23600" palette="2" />
+        <Effect ref="0" name="On" startTime="23600" endTime="24600" palette="0" />
+        <Effect ref="0" name="On" startTime="24600" endTime="25600" palette="1" />
+        <Effect ref="0" name="On" startTime="25600" endTime="26600" palette="2" />
+        <Effect ref="0" name="On" startTime="26600" endTime="27600" palette="0" />
+        <Effect ref="0" name="On" startTime="27600" endTime="28600" palette="1" />
+        <Effect ref="0" name="On" startTime="28600" endTime="29600" palette="2" />
+        <Effect ref="0" name="On" startTime="29600" endTime="30000" palette="0" />
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="SOUTH U">
+      <EffectLayer>
+        <Effect ref="38" name="Fill" startTime="0" endTime="500" palette="1" />
+        <Effect ref="40" name="Fill" startTime="500" endTime="1500" palette="2" />
+        <Effect ref="40" name="Fill" startTime="1500" endTime="2500" palette="0" />
+        <Effect ref="40" name="Fill" startTime="2500" endTime="3500" palette="1" />
+        <Effect ref="40" name="Fill" startTime="3500" endTime="4500" palette="2" />
+        <Effect ref="40" name="Fill" startTime="4500" endTime="5500" palette="0" />
+        <Effect ref="40" name="Fill" startTime="5500" endTime="6500" palette="1" />
+        <Effect ref="40" name="Fill" startTime="6500" endTime="7500" palette="2" />
+        <Effect ref="40" name="Fill" startTime="7500" endTime="8500" palette="0" />
+        <Effect ref="40" name="Fill" startTime="8500" endTime="9500" palette="1" />
+        <Effect ref="40" name="Fill" startTime="9500" endTime="10500" palette="2" />
+        <Effect ref="40" name="Fill" startTime="10500" endTime="11500" palette="0" />
+        <Effect ref="40" name="Fill" startTime="11500" endTime="12500" palette="1" />
+        <Effect ref="40" name="Fill" startTime="12500" endTime="13500" palette="2" />
+        <Effect ref="40" name="Fill" startTime="13500" endTime="14500" palette="0" />
+        <Effect ref="40" name="Fill" startTime="14500" endTime="15500" palette="1" />
+        <Effect ref="40" name="Fill" startTime="15500" endTime="16500" palette="2" />
+        <Effect ref="40" name="Fill" startTime="16500" endTime="17500" palette="0" />
+        <Effect ref="40" name="Fill" startTime="17500" endTime="18500" palette="1" />
+        <Effect ref="40" name="Fill" startTime="18500" endTime="19500" palette="2" />
+        <Effect ref="40" name="Fill" startTime="19500" endTime="20500" palette="0" />
+        <Effect ref="40" name="Fill" startTime="20500" endTime="21500" palette="1" />
+        <Effect ref="40" name="Fill" startTime="21500" endTime="22500" palette="2" />
+        <Effect ref="40" name="Fill" startTime="22500" endTime="23500" palette="0" />
+        <Effect ref="40" name="Fill" startTime="23500" endTime="24500" palette="1" />
+        <Effect ref="40" name="Fill" startTime="24500" endTime="25500" palette="2" />
+        <Effect ref="40" name="Fill" startTime="25500" endTime="26500" palette="0" />
+        <Effect ref="40" name="Fill" startTime="26500" endTime="27500" palette="1" />
+        <Effect ref="40" name="Fill" startTime="27500" endTime="28500" palette="2" />
+        <Effect ref="40" name="Fill" startTime="28500" endTime="29500" palette="0" />
+        <Effect ref="42" name="Fill" startTime="29500" endTime="30000" palette="1" />
+      </EffectLayer>
+      <EffectLayer>
+        <Effect ref="36" name="Fill" startTime="0" endTime="500" palette="0" />
+        <Effect ref="39" name="Fill" startTime="500" endTime="1500" palette="1" />
+        <Effect ref="39" name="Fill" startTime="1500" endTime="2500" palette="2" />
+        <Effect ref="39" name="Fill" startTime="2500" endTime="3500" palette="0" />
+        <Effect ref="39" name="Fill" startTime="3500" endTime="4500" palette="1" />
+        <Effect ref="39" name="Fill" startTime="4500" endTime="5500" palette="2" />
+        <Effect ref="39" name="Fill" startTime="5500" endTime="6500" palette="0" />
+        <Effect ref="39" name="Fill" startTime="6500" endTime="7500" palette="1" />
+        <Effect ref="39" name="Fill" startTime="7500" endTime="8500" palette="2" />
+        <Effect ref="39" name="Fill" startTime="8500" endTime="9500" palette="0" />
+        <Effect ref="39" name="Fill" startTime="9500" endTime="10500" palette="1" />
+        <Effect ref="39" name="Fill" startTime="10500" endTime="11500" palette="2" />
+        <Effect ref="39" name="Fill" startTime="11500" endTime="12500" palette="0" />
+        <Effect ref="39" name="Fill" startTime="12500" endTime="13500" palette="1" />
+        <Effect ref="39" name="Fill" startTime="13500" endTime="14500" palette="2" />
+        <Effect ref="39" name="Fill" startTime="14500" endTime="15500" palette="0" />
+        <Effect ref="39" name="Fill" startTime="15500" endTime="16500" palette="1" />
+        <Effect ref="39" name="Fill" startTime="16500" endTime="17500" palette="2" />
+        <Effect ref="39" name="Fill" startTime="17500" endTime="18500" palette="0" />
+        <Effect ref="39" name="Fill" startTime="18500" endTime="19500" palette="1" />
+        <Effect ref="39" name="Fill" startTime="19500" endTime="20500" palette="2" />
+        <Effect ref="39" name="Fill" startTime="20500" endTime="21500" palette="0" />
+        <Effect ref="39" name="Fill" startTime="21500" endTime="22500" palette="1" />
+        <Effect ref="39" name="Fill" startTime="22500" endTime="23500" palette="2" />
+        <Effect ref="39" name="Fill" startTime="23500" endTime="24500" palette="0" />
+        <Effect ref="39" name="Fill" startTime="24500" endTime="25500" palette="1" />
+        <Effect ref="39" name="Fill" startTime="25500" endTime="26500" palette="2" />
+        <Effect ref="39" name="Fill" startTime="26500" endTime="27500" palette="0" />
+        <Effect ref="39" name="Fill" startTime="27500" endTime="28500" palette="1" />
+        <Effect ref="39" name="Fill" startTime="28500" endTime="29500" palette="2" />
+        <Effect ref="41" name="Fill" startTime="29500" endTime="30000" palette="0" />
+      </EffectLayer>
+      <EffectLayer>
+        <Effect ref="37" name="Fill" startTime="500" endTime="850" palette="0" />
+        <Effect ref="37" name="Fill" startTime="1500" endTime="1850" palette="1" />
+        <Effect ref="37" name="Fill" startTime="2500" endTime="2850" palette="2" />
+        <Effect ref="37" name="Fill" startTime="3500" endTime="3850" palette="0" />
+        <Effect ref="37" name="Fill" startTime="4500" endTime="4850" palette="1" />
+        <Effect ref="37" name="Fill" startTime="5500" endTime="5850" palette="2" />
+        <Effect ref="37" name="Fill" startTime="6500" endTime="6850" palette="0" />
+        <Effect ref="37" name="Fill" startTime="7500" endTime="7850" palette="1" />
+        <Effect ref="37" name="Fill" startTime="8500" endTime="8850" palette="2" />
+        <Effect ref="37" name="Fill" startTime="9500" endTime="9850" palette="0" />
+        <Effect ref="37" name="Fill" startTime="10500" endTime="10850" palette="1" />
+        <Effect ref="37" name="Fill" startTime="11500" endTime="11850" palette="2" />
+        <Effect ref="37" name="Fill" startTime="12500" endTime="12850" palette="0" />
+        <Effect ref="37" name="Fill" startTime="13500" endTime="13850" palette="1" />
+        <Effect ref="37" name="Fill" startTime="14500" endTime="14850" palette="2" />
+        <Effect ref="37" name="Fill" startTime="15500" endTime="15850" palette="0" />
+        <Effect ref="37" name="Fill" startTime="16500" endTime="16850" palette="1" />
+        <Effect ref="37" name="Fill" startTime="17500" endTime="17850" palette="2" />
+        <Effect ref="37" name="Fill" startTime="18500" endTime="18850" palette="0" />
+        <Effect ref="37" name="Fill" startTime="19500" endTime="19850" palette="1" />
+        <Effect ref="37" name="Fill" startTime="20500" endTime="20850" palette="2" />
+        <Effect ref="37" name="Fill" startTime="21500" endTime="21850" palette="0" />
+        <Effect ref="37" name="Fill" startTime="22500" endTime="22850" palette="1" />
+        <Effect ref="37" name="Fill" startTime="23500" endTime="23850" palette="2" />
+        <Effect ref="37" name="Fill" startTime="24500" endTime="24850" palette="0" />
+        <Effect ref="37" name="Fill" startTime="25500" endTime="25850" palette="1" />
+        <Effect ref="37" name="Fill" startTime="26500" endTime="26850" palette="2" />
+        <Effect ref="37" name="Fill" startTime="27500" endTime="27850" palette="0" />
+        <Effect ref="37" name="Fill" startTime="28500" endTime="28850" palette="1" />
+        <Effect ref="37" name="Fill" startTime="29500" endTime="29850" palette="2" />
+      </EffectLayer>
+      <EffectLayer>
+        <Effect ref="0" name="On" startTime="0" endTime="850" palette="2" />
+        <Effect ref="0" name="On" startTime="850" endTime="1850" palette="0" />
+        <Effect ref="0" name="On" startTime="1850" endTime="2850" palette="1" />
+        <Effect ref="0" name="On" startTime="2850" endTime="3850" palette="2" />
+        <Effect ref="0" name="On" startTime="3850" endTime="4850" palette="0" />
+        <Effect ref="0" name="On" startTime="4850" endTime="5850" palette="1" />
+        <Effect ref="0" name="On" startTime="5850" endTime="6850" palette="2" />
+        <Effect ref="0" name="On" startTime="6850" endTime="7850" palette="0" />
+        <Effect ref="0" name="On" startTime="7850" endTime="8850" palette="1" />
+        <Effect ref="0" name="On" startTime="8850" endTime="9850" palette="2" />
+        <Effect ref="0" name="On" startTime="9850" endTime="10850" palette="0" />
+        <Effect ref="0" name="On" startTime="10850" endTime="11850" palette="1" />
+        <Effect ref="0" name="On" startTime="11850" endTime="12850" palette="2" />
+        <Effect ref="0" name="On" startTime="12850" endTime="13850" palette="0" />
+        <Effect ref="0" name="On" startTime="13850" endTime="14850" palette="1" />
+        <Effect ref="0" name="On" startTime="14850" endTime="15850" palette="2" />
+        <Effect ref="0" name="On" startTime="15850" endTime="16850" palette="0" />
+        <Effect ref="0" name="On" startTime="16850" endTime="17850" palette="1" />
+        <Effect ref="0" name="On" startTime="17850" endTime="18850" palette="2" />
+        <Effect ref="0" name="On" startTime="18850" endTime="19850" palette="0" />
+        <Effect ref="0" name="On" startTime="19850" endTime="20850" palette="1" />
+        <Effect ref="0" name="On" startTime="20850" endTime="21850" palette="2" />
+        <Effect ref="0" name="On" startTime="21850" endTime="22850" palette="0" />
+        <Effect ref="0" name="On" startTime="22850" endTime="23850" palette="1" />
+        <Effect ref="0" name="On" startTime="23850" endTime="24850" palette="2" />
+        <Effect ref="0" name="On" startTime="24850" endTime="25850" palette="0" />
+        <Effect ref="0" name="On" startTime="25850" endTime="26850" palette="1" />
+        <Effect ref="0" name="On" startTime="26850" endTime="27850" palette="2" />
+        <Effect ref="0" name="On" startTime="27850" endTime="28850" palette="0" />
+        <Effect ref="0" name="On" startTime="28850" endTime="29850" palette="1" />
+        <Effect ref="0" name="On" startTime="29850" endTime="30000" palette="2" />
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="SIDE D">
+      <EffectLayer>
+        <Effect ref="18" name="Fill" startTime="0" endTime="1000" palette="1" />
+        <Effect ref="18" name="Fill" startTime="1000" endTime="2000" palette="2" />
+        <Effect ref="18" name="Fill" startTime="2000" endTime="3000" palette="0" />
+        <Effect ref="18" name="Fill" startTime="3000" endTime="4000" palette="1" />
+        <Effect ref="18" name="Fill" startTime="4000" endTime="5000" palette="2" />
+        <Effect ref="18" name="Fill" startTime="5000" endTime="6000" palette="0" />
+        <Effect ref="18" name="Fill" startTime="6000" endTime="7000" palette="1" />
+        <Effect ref="18" name="Fill" startTime="7000" endTime="8000" palette="2" />
+        <Effect ref="18" name="Fill" startTime="8000" endTime="9000" palette="0" />
+        <Effect ref="18" name="Fill" startTime="9000" endTime="10000" palette="1" />
+        <Effect ref="18" name="Fill" startTime="10000" endTime="11000" palette="2" />
+        <Effect ref="18" name="Fill" startTime="11000" endTime="12000" palette="0" />
+        <Effect ref="18" name="Fill" startTime="12000" endTime="13000" palette="1" />
+        <Effect ref="18" name="Fill" startTime="13000" endTime="14000" palette="2" />
+        <Effect ref="18" name="Fill" startTime="14000" endTime="15000" palette="0" />
+        <Effect ref="18" name="Fill" startTime="15000" endTime="16000" palette="1" />
+        <Effect ref="18" name="Fill" startTime="16000" endTime="17000" palette="2" />
+        <Effect ref="18" name="Fill" startTime="17000" endTime="18000" palette="0" />
+        <Effect ref="18" name="Fill" startTime="18000" endTime="19000" palette="1" />
+        <Effect ref="18" name="Fill" startTime="19000" endTime="20000" palette="2" />
+        <Effect ref="18" name="Fill" startTime="20000" endTime="21000" palette="0" />
+        <Effect ref="18" name="Fill" startTime="21000" endTime="22000" palette="1" />
+        <Effect ref="18" name="Fill" startTime="22000" endTime="23000" palette="2" />
+        <Effect ref="18" name="Fill" startTime="23000" endTime="24000" palette="0" />
+        <Effect ref="18" name="Fill" startTime="24000" endTime="25000" palette="1" />
+        <Effect ref="18" name="Fill" startTime="25000" endTime="26000" palette="2" />
+        <Effect ref="18" name="Fill" startTime="26000" endTime="27000" palette="0" />
+        <Effect ref="18" name="Fill" startTime="27000" endTime="28000" palette="1" />
+        <Effect ref="18" name="Fill" startTime="28000" endTime="29000" palette="2" />
+        <Effect ref="18" name="Fill" startTime="29000" endTime="30000" palette="0" />
+      </EffectLayer>
+      <EffectLayer>
+        <Effect ref="17" name="Fill" startTime="0" endTime="1000" palette="0" />
+        <Effect ref="17" name="Fill" startTime="1000" endTime="2000" palette="1" />
+        <Effect ref="17" name="Fill" startTime="2000" endTime="3000" palette="2" />
+        <Effect ref="17" name="Fill" startTime="3000" endTime="4000" palette="0" />
+        <Effect ref="17" name="Fill" startTime="4000" endTime="5000" palette="1" />
+        <Effect ref="17" name="Fill" startTime="5000" endTime="6000" palette="2" />
+        <Effect ref="17" name="Fill" startTime="6000" endTime="7000" palette="0" />
+        <Effect ref="17" name="Fill" startTime="7000" endTime="8000" palette="1" />
+        <Effect ref="17" name="Fill" startTime="8000" endTime="9000" palette="2" />
+        <Effect ref="17" name="Fill" startTime="9000" endTime="10000" palette="0" />
+        <Effect ref="17" name="Fill" startTime="10000" endTime="11000" palette="1" />
+        <Effect ref="17" name="Fill" startTime="11000" endTime="12000" palette="2" />
+        <Effect ref="17" name="Fill" startTime="12000" endTime="13000" palette="0" />
+        <Effect ref="17" name="Fill" startTime="13000" endTime="14000" palette="1" />
+        <Effect ref="17" name="Fill" startTime="14000" endTime="15000" palette="2" />
+        <Effect ref="17" name="Fill" startTime="15000" endTime="16000" palette="0" />
+        <Effect ref="17" name="Fill" startTime="16000" endTime="17000" palette="1" />
+        <Effect ref="17" name="Fill" startTime="17000" endTime="18000" palette="2" />
+        <Effect ref="17" name="Fill" startTime="18000" endTime="19000" palette="0" />
+        <Effect ref="17" name="Fill" startTime="19000" endTime="20000" palette="1" />
+        <Effect ref="17" name="Fill" startTime="20000" endTime="21000" palette="2" />
+        <Effect ref="17" name="Fill" startTime="21000" endTime="22000" palette="0" />
+        <Effect ref="17" name="Fill" startTime="22000" endTime="23000" palette="1" />
+        <Effect ref="17" name="Fill" startTime="23000" endTime="24000" palette="2" />
+        <Effect ref="17" name="Fill" startTime="24000" endTime="25000" palette="0" />
+        <Effect ref="17" name="Fill" startTime="25000" endTime="26000" palette="1" />
+        <Effect ref="17" name="Fill" startTime="26000" endTime="27000" palette="2" />
+        <Effect ref="17" name="Fill" startTime="27000" endTime="28000" palette="0" />
+        <Effect ref="17" name="Fill" startTime="28000" endTime="29000" palette="1" />
+        <Effect ref="17" name="Fill" startTime="29000" endTime="30000" palette="2" />
+      </EffectLayer>
+      <EffectLayer>
+        <Effect ref="15" name="Fill" startTime="0" endTime="1000" palette="2" />
+        <Effect ref="15" name="Fill" startTime="1000" endTime="2000" palette="0" />
+        <Effect ref="15" name="Fill" startTime="2000" endTime="3000" palette="1" />
+        <Effect ref="15" name="Fill" startTime="3000" endTime="4000" palette="2" />
+        <Effect ref="15" name="Fill" startTime="4000" endTime="5000" palette="0" />
+        <Effect ref="15" name="Fill" startTime="5000" endTime="6000" palette="1" />
+        <Effect ref="15" name="Fill" startTime="6000" endTime="7000" palette="2" />
+        <Effect ref="15" name="Fill" startTime="7000" endTime="8000" palette="0" />
+        <Effect ref="15" name="Fill" startTime="8000" endTime="9000" palette="1" />
+        <Effect ref="15" name="Fill" startTime="9000" endTime="10000" palette="2" />
+        <Effect ref="15" name="Fill" startTime="10000" endTime="11000" palette="0" />
+        <Effect ref="15" name="Fill" startTime="11000" endTime="12000" palette="1" />
+        <Effect ref="15" name="Fill" startTime="12000" endTime="13000" palette="2" />
+        <Effect ref="15" name="Fill" startTime="13000" endTime="14000" palette="0" />
+        <Effect ref="15" name="Fill" startTime="14000" endTime="15000" palette="1" />
+        <Effect ref="15" name="Fill" startTime="15000" endTime="16000" palette="2" />
+        <Effect ref="15" name="Fill" startTime="16000" endTime="17000" palette="0" />
+        <Effect ref="15" name="Fill" startTime="17000" endTime="18000" palette="1" />
+        <Effect ref="15" name="Fill" startTime="18000" endTime="19000" palette="2" />
+        <Effect ref="15" name="Fill" startTime="19000" endTime="20000" palette="0" />
+        <Effect ref="15" name="Fill" startTime="20000" endTime="21000" palette="1" />
+        <Effect ref="15" name="Fill" startTime="21000" endTime="22000" palette="2" />
+        <Effect ref="15" name="Fill" startTime="22000" endTime="23000" palette="0" />
+        <Effect ref="15" name="Fill" startTime="23000" endTime="24000" palette="1" />
+        <Effect ref="15" name="Fill" startTime="24000" endTime="25000" palette="2" />
+        <Effect ref="15" name="Fill" startTime="25000" endTime="26000" palette="0" />
+        <Effect ref="15" name="Fill" startTime="26000" endTime="27000" palette="1" />
+        <Effect ref="15" name="Fill" startTime="27000" endTime="28000" palette="2" />
+        <Effect ref="15" name="Fill" startTime="28000" endTime="29000" palette="0" />
+        <Effect ref="15" name="Fill" startTime="29000" endTime="30000" palette="1" />
+      </EffectLayer>
+      <EffectLayer>
+        <Effect ref="0" name="On" startTime="0" endTime="1000" palette="1" />
+        <Effect ref="0" name="On" startTime="1000" endTime="2000" palette="2" />
+        <Effect ref="0" name="On" startTime="2000" endTime="3000" palette="0" />
+        <Effect ref="0" name="On" startTime="3000" endTime="4000" palette="1" />
+        <Effect ref="0" name="On" startTime="4000" endTime="5000" palette="2" />
+        <Effect ref="0" name="On" startTime="5000" endTime="6000" palette="0" />
+        <Effect ref="0" name="On" startTime="6000" endTime="7000" palette="1" />
+        <Effect ref="0" name="On" startTime="7000" endTime="8000" palette="2" />
+        <Effect ref="0" name="On" startTime="8000" endTime="9000" palette="0" />
+        <Effect ref="0" name="On" startTime="9000" endTime="10000" palette="1" />
+        <Effect ref="0" name="On" startTime="10000" endTime="11000" palette="2" />
+        <Effect ref="0" name="On" startTime="11000" endTime="12000" palette="0" />
+        <Effect ref="0" name="On" startTime="12000" endTime="13000" palette="1" />
+        <Effect ref="0" name="On" startTime="13000" endTime="14000" palette="2" />
+        <Effect ref="0" name="On" startTime="14000" endTime="15000" palette="0" />
+        <Effect ref="0" name="On" startTime="15000" endTime="16000" palette="1" />
+        <Effect ref="0" name="On" startTime="16000" endTime="17000" palette="2" />
+        <Effect ref="0" name="On" startTime="17000" endTime="18000" palette="0" />
+        <Effect ref="0" name="On" startTime="18000" endTime="19000" palette="1" />
+        <Effect ref="0" name="On" startTime="19000" endTime="20000" palette="2" />
+        <Effect ref="0" name="On" startTime="20000" endTime="21000" palette="0" />
+        <Effect ref="0" name="On" startTime="21000" endTime="22000" palette="1" />
+        <Effect ref="0" name="On" startTime="22000" endTime="23000" palette="2" />
+        <Effect ref="0" name="On" startTime="23000" endTime="24000" palette="0" />
+        <Effect ref="0" name="On" startTime="24000" endTime="25000" palette="1" />
+        <Effect ref="0" name="On" startTime="25000" endTime="26000" palette="2" />
+        <Effect ref="0" name="On" startTime="26000" endTime="27000" palette="0" />
+        <Effect ref="0" name="On" startTime="27000" endTime="28000" palette="1" />
+        <Effect ref="0" name="On" startTime="28000" endTime="29000" palette="2" />
+        <Effect ref="0" name="On" startTime="29000" endTime="30000" palette="0" />
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="SIDE E">
+      <EffectLayer>
+        <Effect ref="18" name="Fill" startTime="0" endTime="1000" palette="0" />
+        <Effect ref="18" name="Fill" startTime="1000" endTime="2000" palette="1" />
+        <Effect ref="18" name="Fill" startTime="2000" endTime="3000" palette="2" />
+        <Effect ref="18" name="Fill" startTime="3000" endTime="4000" palette="0" />
+        <Effect ref="18" name="Fill" startTime="4000" endTime="5000" palette="1" />
+        <Effect ref="18" name="Fill" startTime="5000" endTime="6000" palette="2" />
+        <Effect ref="18" name="Fill" startTime="6000" endTime="7000" palette="0" />
+        <Effect ref="18" name="Fill" startTime="7000" endTime="8000" palette="1" />
+        <Effect ref="18" name="Fill" startTime="8000" endTime="9000" palette="2" />
+        <Effect ref="18" name="Fill" startTime="9000" endTime="10000" palette="0" />
+        <Effect ref="18" name="Fill" startTime="10000" endTime="11000" palette="1" />
+        <Effect ref="18" name="Fill" startTime="11000" endTime="12000" palette="2" />
+        <Effect ref="18" name="Fill" startTime="12000" endTime="13000" palette="0" />
+        <Effect ref="18" name="Fill" startTime="13000" endTime="14000" palette="1" />
+        <Effect ref="18" name="Fill" startTime="14000" endTime="15000" palette="2" />
+        <Effect ref="18" name="Fill" startTime="15000" endTime="16000" palette="0" />
+        <Effect ref="18" name="Fill" startTime="16000" endTime="17000" palette="1" />
+        <Effect ref="18" name="Fill" startTime="17000" endTime="18000" palette="2" />
+        <Effect ref="18" name="Fill" startTime="18000" endTime="19000" palette="0" />
+        <Effect ref="18" name="Fill" startTime="19000" endTime="20000" palette="1" />
+        <Effect ref="18" name="Fill" startTime="20000" endTime="21000" palette="2" />
+        <Effect ref="18" name="Fill" startTime="21000" endTime="22000" palette="0" />
+        <Effect ref="18" name="Fill" startTime="22000" endTime="23000" palette="1" />
+        <Effect ref="18" name="Fill" startTime="23000" endTime="24000" palette="2" />
+        <Effect ref="18" name="Fill" startTime="24000" endTime="25000" palette="0" />
+        <Effect ref="18" name="Fill" startTime="25000" endTime="26000" palette="1" />
+        <Effect ref="18" name="Fill" startTime="26000" endTime="27000" palette="2" />
+        <Effect ref="18" name="Fill" startTime="27000" endTime="28000" palette="0" />
+        <Effect ref="18" name="Fill" startTime="28000" endTime="29000" palette="1" />
+        <Effect ref="18" name="Fill" startTime="29000" endTime="30000" palette="2" />
+      </EffectLayer>
+      <EffectLayer>
+        <Effect ref="17" name="Fill" startTime="0" endTime="1000" palette="2" />
+        <Effect ref="17" name="Fill" startTime="1000" endTime="2000" palette="0" />
+        <Effect ref="17" name="Fill" startTime="2000" endTime="3000" palette="1" />
+        <Effect ref="17" name="Fill" startTime="3000" endTime="4000" palette="2" />
+        <Effect ref="17" name="Fill" startTime="4000" endTime="5000" palette="0" />
+        <Effect ref="17" name="Fill" startTime="5000" endTime="6000" palette="1" />
+        <Effect ref="17" name="Fill" startTime="6000" endTime="7000" palette="2" />
+        <Effect ref="17" name="Fill" startTime="7000" endTime="8000" palette="0" />
+        <Effect ref="17" name="Fill" startTime="8000" endTime="9000" palette="1" />
+        <Effect ref="17" name="Fill" startTime="9000" endTime="10000" palette="2" />
+        <Effect ref="17" name="Fill" startTime="10000" endTime="11000" palette="0" />
+        <Effect ref="17" name="Fill" startTime="11000" endTime="12000" palette="1" />
+        <Effect ref="17" name="Fill" startTime="12000" endTime="13000" palette="2" />
+        <Effect ref="17" name="Fill" startTime="13000" endTime="14000" palette="0" />
+        <Effect ref="17" name="Fill" startTime="14000" endTime="15000" palette="1" />
+        <Effect ref="17" name="Fill" startTime="15000" endTime="16000" palette="2" />
+        <Effect ref="17" name="Fill" startTime="16000" endTime="17000" palette="0" />
+        <Effect ref="17" name="Fill" startTime="17000" endTime="18000" palette="1" />
+        <Effect ref="17" name="Fill" startTime="18000" endTime="19000" palette="2" />
+        <Effect ref="17" name="Fill" startTime="19000" endTime="20000" palette="0" />
+        <Effect ref="17" name="Fill" startTime="20000" endTime="21000" palette="1" />
+        <Effect ref="17" name="Fill" startTime="21000" endTime="22000" palette="2" />
+        <Effect ref="17" name="Fill" startTime="22000" endTime="23000" palette="0" />
+        <Effect ref="17" name="Fill" startTime="23000" endTime="24000" palette="1" />
+        <Effect ref="17" name="Fill" startTime="24000" endTime="25000" palette="2" />
+        <Effect ref="17" name="Fill" startTime="25000" endTime="26000" palette="0" />
+        <Effect ref="17" name="Fill" startTime="26000" endTime="27000" palette="1" />
+        <Effect ref="17" name="Fill" startTime="27000" endTime="28000" palette="2" />
+        <Effect ref="17" name="Fill" startTime="28000" endTime="29000" palette="0" />
+        <Effect ref="17" name="Fill" startTime="29000" endTime="30000" palette="1" />
+      </EffectLayer>
+      <EffectLayer>
+        <Effect ref="15" name="Fill" startTime="0" endTime="1000" palette="1" />
+        <Effect ref="15" name="Fill" startTime="1000" endTime="2000" palette="2" />
+        <Effect ref="15" name="Fill" startTime="2000" endTime="3000" palette="0" />
+        <Effect ref="15" name="Fill" startTime="3000" endTime="4000" palette="1" />
+        <Effect ref="15" name="Fill" startTime="4000" endTime="5000" palette="2" />
+        <Effect ref="15" name="Fill" startTime="5000" endTime="6000" palette="0" />
+        <Effect ref="15" name="Fill" startTime="6000" endTime="7000" palette="1" />
+        <Effect ref="15" name="Fill" startTime="7000" endTime="8000" palette="2" />
+        <Effect ref="15" name="Fill" startTime="8000" endTime="9000" palette="0" />
+        <Effect ref="15" name="Fill" startTime="9000" endTime="10000" palette="1" />
+        <Effect ref="15" name="Fill" startTime="10000" endTime="11000" palette="2" />
+        <Effect ref="15" name="Fill" startTime="11000" endTime="12000" palette="0" />
+        <Effect ref="15" name="Fill" startTime="12000" endTime="13000" palette="1" />
+        <Effect ref="15" name="Fill" startTime="13000" endTime="14000" palette="2" />
+        <Effect ref="15" name="Fill" startTime="14000" endTime="15000" palette="0" />
+        <Effect ref="15" name="Fill" startTime="15000" endTime="16000" palette="1" />
+        <Effect ref="15" name="Fill" startTime="16000" endTime="17000" palette="2" />
+        <Effect ref="15" name="Fill" startTime="17000" endTime="18000" palette="0" />
+        <Effect ref="15" name="Fill" startTime="18000" endTime="19000" palette="1" />
+        <Effect ref="15" name="Fill" startTime="19000" endTime="20000" palette="2" />
+        <Effect ref="15" name="Fill" startTime="20000" endTime="21000" palette="0" />
+        <Effect ref="15" name="Fill" startTime="21000" endTime="22000" palette="1" />
+        <Effect ref="15" name="Fill" startTime="22000" endTime="23000" palette="2" />
+        <Effect ref="15" name="Fill" startTime="23000" endTime="24000" palette="0" />
+        <Effect ref="15" name="Fill" startTime="24000" endTime="25000" palette="1" />
+        <Effect ref="15" name="Fill" startTime="25000" endTime="26000" palette="2" />
+        <Effect ref="15" name="Fill" startTime="26000" endTime="27000" palette="0" />
+        <Effect ref="15" name="Fill" startTime="27000" endTime="28000" palette="1" />
+        <Effect ref="15" name="Fill" startTime="28000" endTime="29000" palette="2" />
+        <Effect ref="15" name="Fill" startTime="29000" endTime="30000" palette="0" />
+      </EffectLayer>
+      <EffectLayer>
+        <Effect ref="0" name="On" startTime="0" endTime="1000" palette="0" />
+        <Effect ref="0" name="On" startTime="1000" endTime="2000" palette="1" />
+        <Effect ref="0" name="On" startTime="2000" endTime="3000" palette="2" />
+        <Effect ref="0" name="On" startTime="3000" endTime="4000" palette="0" />
+        <Effect ref="0" name="On" startTime="4000" endTime="5000" palette="1" />
+        <Effect ref="0" name="On" startTime="5000" endTime="6000" palette="2" />
+        <Effect ref="0" name="On" startTime="6000" endTime="7000" palette="0" />
+        <Effect ref="0" name="On" startTime="7000" endTime="8000" palette="1" />
+        <Effect ref="0" name="On" startTime="8000" endTime="9000" palette="2" />
+        <Effect ref="0" name="On" startTime="9000" endTime="10000" palette="0" />
+        <Effect ref="0" name="On" startTime="10000" endTime="11000" palette="1" />
+        <Effect ref="0" name="On" startTime="11000" endTime="12000" palette="2" />
+        <Effect ref="0" name="On" startTime="12000" endTime="13000" palette="0" />
+        <Effect ref="0" name="On" startTime="13000" endTime="14000" palette="1" />
+        <Effect ref="0" name="On" startTime="14000" endTime="15000" palette="2" />
+        <Effect ref="0" name="On" startTime="15000" endTime="16000" palette="0" />
+        <Effect ref="0" name="On" startTime="16000" endTime="17000" palette="1" />
+        <Effect ref="0" name="On" startTime="17000" endTime="18000" palette="2" />
+        <Effect ref="0" name="On" startTime="18000" endTime="19000" palette="0" />
+        <Effect ref="0" name="On" startTime="19000" endTime="20000" palette="1" />
+        <Effect ref="0" name="On" startTime="20000" endTime="21000" palette="2" />
+        <Effect ref="0" name="On" startTime="21000" endTime="22000" palette="0" />
+        <Effect ref="0" name="On" startTime="22000" endTime="23000" palette="1" />
+        <Effect ref="0" name="On" startTime="23000" endTime="24000" palette="2" />
+        <Effect ref="0" name="On" startTime="24000" endTime="25000" palette="0" />
+        <Effect ref="0" name="On" startTime="25000" endTime="26000" palette="1" />
+        <Effect ref="0" name="On" startTime="26000" endTime="27000" palette="2" />
+        <Effect ref="0" name="On" startTime="27000" endTime="28000" palette="0" />
+        <Effect ref="0" name="On" startTime="28000" endTime="29000" palette="1" />
+        <Effect ref="0" name="On" startTime="29000" endTime="30000" palette="2" />
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="SIDE I">
+      <EffectLayer>
+        <Effect ref="45" name="Fill" startTime="0" endTime="1000" palette="0" />
+        <Effect ref="45" name="Fill" startTime="1000" endTime="2000" palette="1" />
+        <Effect ref="45" name="Fill" startTime="2000" endTime="3000" palette="2" />
+        <Effect ref="45" name="Fill" startTime="3000" endTime="4000" palette="0" />
+        <Effect ref="45" name="Fill" startTime="4000" endTime="5000" palette="1" />
+        <Effect ref="45" name="Fill" startTime="5000" endTime="6000" palette="2" />
+        <Effect ref="45" name="Fill" startTime="6000" endTime="7000" palette="0" />
+        <Effect ref="45" name="Fill" startTime="7000" endTime="8000" palette="1" />
+        <Effect ref="45" name="Fill" startTime="8000" endTime="9000" palette="2" />
+        <Effect ref="45" name="Fill" startTime="9000" endTime="10000" palette="0" />
+        <Effect ref="45" name="Fill" startTime="10000" endTime="11000" palette="1" />
+        <Effect ref="45" name="Fill" startTime="11000" endTime="12000" palette="2" />
+        <Effect ref="45" name="Fill" startTime="12000" endTime="13000" palette="0" />
+        <Effect ref="45" name="Fill" startTime="13000" endTime="14000" palette="1" />
+        <Effect ref="45" name="Fill" startTime="14000" endTime="15000" palette="2" />
+        <Effect ref="45" name="Fill" startTime="15000" endTime="16000" palette="0" />
+        <Effect ref="45" name="Fill" startTime="16000" endTime="17000" palette="1" />
+        <Effect ref="45" name="Fill" startTime="17000" endTime="18000" palette="2" />
+        <Effect ref="45" name="Fill" startTime="18000" endTime="19000" palette="0" />
+        <Effect ref="45" name="Fill" startTime="19000" endTime="20000" palette="1" />
+        <Effect ref="45" name="Fill" startTime="20000" endTime="21000" palette="2" />
+        <Effect ref="45" name="Fill" startTime="21000" endTime="22000" palette="0" />
+        <Effect ref="45" name="Fill" startTime="22000" endTime="23000" palette="1" />
+        <Effect ref="45" name="Fill" startTime="23000" endTime="24000" palette="2" />
+        <Effect ref="45" name="Fill" startTime="24000" endTime="25000" palette="0" />
+        <Effect ref="45" name="Fill" startTime="25000" endTime="26000" palette="1" />
+        <Effect ref="45" name="Fill" startTime="26000" endTime="27000" palette="2" />
+        <Effect ref="45" name="Fill" startTime="27000" endTime="28000" palette="0" />
+        <Effect ref="45" name="Fill" startTime="28000" endTime="29000" palette="1" />
+        <Effect ref="45" name="Fill" startTime="29000" endTime="30000" palette="2" />
+      </EffectLayer>
+      <EffectLayer>
+        <Effect ref="44" name="Fill" startTime="0" endTime="1000" palette="2" />
+        <Effect ref="44" name="Fill" startTime="1000" endTime="2000" palette="0" />
+        <Effect ref="44" name="Fill" startTime="2000" endTime="3000" palette="1" />
+        <Effect ref="44" name="Fill" startTime="3000" endTime="4000" palette="2" />
+        <Effect ref="44" name="Fill" startTime="4000" endTime="5000" palette="0" />
+        <Effect ref="44" name="Fill" startTime="5000" endTime="6000" palette="1" />
+        <Effect ref="44" name="Fill" startTime="6000" endTime="7000" palette="2" />
+        <Effect ref="44" name="Fill" startTime="7000" endTime="8000" palette="0" />
+        <Effect ref="44" name="Fill" startTime="8000" endTime="9000" palette="1" />
+        <Effect ref="44" name="Fill" startTime="9000" endTime="10000" palette="2" />
+        <Effect ref="44" name="Fill" startTime="10000" endTime="11000" palette="0" />
+        <Effect ref="44" name="Fill" startTime="11000" endTime="12000" palette="1" />
+        <Effect ref="44" name="Fill" startTime="12000" endTime="13000" palette="2" />
+        <Effect ref="44" name="Fill" startTime="13000" endTime="14000" palette="0" />
+        <Effect ref="44" name="Fill" startTime="14000" endTime="15000" palette="1" />
+        <Effect ref="44" name="Fill" startTime="15000" endTime="16000" palette="2" />
+        <Effect ref="44" name="Fill" startTime="16000" endTime="17000" palette="0" />
+        <Effect ref="44" name="Fill" startTime="17000" endTime="18000" palette="1" />
+        <Effect ref="44" name="Fill" startTime="18000" endTime="19000" palette="2" />
+        <Effect ref="44" name="Fill" startTime="19000" endTime="20000" palette="0" />
+        <Effect ref="44" name="Fill" startTime="20000" endTime="21000" palette="1" />
+        <Effect ref="44" name="Fill" startTime="21000" endTime="22000" palette="2" />
+        <Effect ref="44" name="Fill" startTime="22000" endTime="23000" palette="0" />
+        <Effect ref="44" name="Fill" startTime="23000" endTime="24000" palette="1" />
+        <Effect ref="44" name="Fill" startTime="24000" endTime="25000" palette="2" />
+        <Effect ref="44" name="Fill" startTime="25000" endTime="26000" palette="0" />
+        <Effect ref="44" name="Fill" startTime="26000" endTime="27000" palette="1" />
+        <Effect ref="44" name="Fill" startTime="27000" endTime="28000" palette="2" />
+        <Effect ref="44" name="Fill" startTime="28000" endTime="29000" palette="0" />
+        <Effect ref="44" name="Fill" startTime="29000" endTime="30000" palette="1" />
+      </EffectLayer>
+      <EffectLayer>
+        <Effect ref="43" name="Fill" startTime="0" endTime="650" palette="1" />
+        <Effect ref="43" name="Fill" startTime="1000" endTime="1650" palette="2" />
+        <Effect ref="43" name="Fill" startTime="2000" endTime="2650" palette="0" />
+        <Effect ref="43" name="Fill" startTime="3000" endTime="3650" palette="1" />
+        <Effect ref="43" name="Fill" startTime="4000" endTime="4650" palette="2" />
+        <Effect ref="43" name="Fill" startTime="5000" endTime="5650" palette="0" />
+        <Effect ref="43" name="Fill" startTime="6000" endTime="6650" palette="1" />
+        <Effect ref="43" name="Fill" startTime="7000" endTime="7650" palette="2" />
+        <Effect ref="43" name="Fill" startTime="8000" endTime="8650" palette="0" />
+        <Effect ref="43" name="Fill" startTime="9000" endTime="9650" palette="1" />
+        <Effect ref="43" name="Fill" startTime="10000" endTime="10650" palette="2" />
+        <Effect ref="43" name="Fill" startTime="11000" endTime="11650" palette="0" />
+        <Effect ref="43" name="Fill" startTime="12000" endTime="12650" palette="1" />
+        <Effect ref="43" name="Fill" startTime="13000" endTime="13650" palette="2" />
+        <Effect ref="43" name="Fill" startTime="14000" endTime="14650" palette="0" />
+        <Effect ref="43" name="Fill" startTime="15000" endTime="15650" palette="1" />
+        <Effect ref="43" name="Fill" startTime="16000" endTime="16650" palette="2" />
+        <Effect ref="43" name="Fill" startTime="17000" endTime="17650" palette="0" />
+        <Effect ref="43" name="Fill" startTime="18000" endTime="18650" palette="1" />
+        <Effect ref="43" name="Fill" startTime="19000" endTime="19650" palette="2" />
+        <Effect ref="43" name="Fill" startTime="20000" endTime="20650" palette="0" />
+        <Effect ref="43" name="Fill" startTime="21000" endTime="21650" palette="1" />
+        <Effect ref="43" name="Fill" startTime="22000" endTime="22650" palette="2" />
+        <Effect ref="43" name="Fill" startTime="23000" endTime="23650" palette="0" />
+        <Effect ref="43" name="Fill" startTime="24000" endTime="24650" palette="1" />
+        <Effect ref="43" name="Fill" startTime="25000" endTime="25650" palette="2" />
+        <Effect ref="43" name="Fill" startTime="26000" endTime="26650" palette="0" />
+        <Effect ref="43" name="Fill" startTime="27000" endTime="27650" palette="1" />
+        <Effect ref="43" name="Fill" startTime="28000" endTime="28650" palette="2" />
+        <Effect ref="43" name="Fill" startTime="29000" endTime="29650" palette="0" />
+      </EffectLayer>
+      <EffectLayer>
+        <Effect ref="0" name="On" startTime="0" endTime="650" palette="0" />
+        <Effect ref="0" name="On" startTime="650" endTime="1650" palette="1" />
+        <Effect ref="0" name="On" startTime="1650" endTime="2650" palette="2" />
+        <Effect ref="0" name="On" startTime="2650" endTime="3650" palette="0" />
+        <Effect ref="0" name="On" startTime="3650" endTime="4650" palette="1" />
+        <Effect ref="0" name="On" startTime="4650" endTime="5650" palette="2" />
+        <Effect ref="0" name="On" startTime="5650" endTime="6650" palette="0" />
+        <Effect ref="0" name="On" startTime="6650" endTime="7650" palette="1" />
+        <Effect ref="0" name="On" startTime="7650" endTime="8650" palette="2" />
+        <Effect ref="0" name="On" startTime="8650" endTime="9650" palette="0" />
+        <Effect ref="0" name="On" startTime="9650" endTime="10650" palette="1" />
+        <Effect ref="0" name="On" startTime="10650" endTime="11650" palette="2" />
+        <Effect ref="0" name="On" startTime="11650" endTime="12650" palette="0" />
+        <Effect ref="0" name="On" startTime="12650" endTime="13650" palette="1" />
+        <Effect ref="0" name="On" startTime="13650" endTime="14650" palette="2" />
+        <Effect ref="0" name="On" startTime="14650" endTime="15650" palette="0" />
+        <Effect ref="0" name="On" startTime="15650" endTime="16650" palette="1" />
+        <Effect ref="0" name="On" startTime="16650" endTime="17650" palette="2" />
+        <Effect ref="0" name="On" startTime="17650" endTime="18650" palette="0" />
+        <Effect ref="0" name="On" startTime="18650" endTime="19650" palette="1" />
+        <Effect ref="0" name="On" startTime="19650" endTime="20650" palette="2" />
+        <Effect ref="0" name="On" startTime="20650" endTime="21650" palette="0" />
+        <Effect ref="0" name="On" startTime="21650" endTime="22650" palette="1" />
+        <Effect ref="0" name="On" startTime="22650" endTime="23650" palette="2" />
+        <Effect ref="0" name="On" startTime="23650" endTime="24650" palette="0" />
+        <Effect ref="0" name="On" startTime="24650" endTime="25650" palette="1" />
+        <Effect ref="0" name="On" startTime="25650" endTime="26650" palette="2" />
+        <Effect ref="0" name="On" startTime="26650" endTime="27650" palette="0" />
+        <Effect ref="0" name="On" startTime="27650" endTime="28650" palette="1" />
+        <Effect ref="0" name="On" startTime="28650" endTime="29650" palette="2" />
+        <Effect ref="0" name="On" startTime="29650" endTime="30000" palette="0" />
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="SIDE S">
+      <EffectLayer>
+        <Effect ref="49" name="Fill" startTime="0" endTime="1000" palette="1" />
+        <Effect ref="49" name="Fill" startTime="1000" endTime="2000" palette="2" />
+        <Effect ref="49" name="Fill" startTime="2000" endTime="3000" palette="0" />
+        <Effect ref="49" name="Fill" startTime="3000" endTime="4000" palette="1" />
+        <Effect ref="49" name="Fill" startTime="4000" endTime="5000" palette="2" />
+        <Effect ref="49" name="Fill" startTime="5000" endTime="6000" palette="0" />
+        <Effect ref="49" name="Fill" startTime="6000" endTime="7000" palette="1" />
+        <Effect ref="49" name="Fill" startTime="7000" endTime="8000" palette="2" />
+        <Effect ref="49" name="Fill" startTime="8000" endTime="9000" palette="0" />
+        <Effect ref="49" name="Fill" startTime="9000" endTime="10000" palette="1" />
+        <Effect ref="49" name="Fill" startTime="10000" endTime="11000" palette="2" />
+        <Effect ref="49" name="Fill" startTime="11000" endTime="12000" palette="0" />
+        <Effect ref="49" name="Fill" startTime="12000" endTime="13000" palette="1" />
+        <Effect ref="49" name="Fill" startTime="13000" endTime="14000" palette="2" />
+        <Effect ref="49" name="Fill" startTime="14000" endTime="15000" palette="0" />
+        <Effect ref="49" name="Fill" startTime="15000" endTime="16000" palette="1" />
+        <Effect ref="49" name="Fill" startTime="16000" endTime="17000" palette="2" />
+        <Effect ref="49" name="Fill" startTime="17000" endTime="18000" palette="0" />
+        <Effect ref="49" name="Fill" startTime="18000" endTime="19000" palette="1" />
+        <Effect ref="49" name="Fill" startTime="19000" endTime="20000" palette="2" />
+        <Effect ref="49" name="Fill" startTime="20000" endTime="21000" palette="0" />
+        <Effect ref="49" name="Fill" startTime="21000" endTime="22000" palette="1" />
+        <Effect ref="49" name="Fill" startTime="22000" endTime="23000" palette="2" />
+        <Effect ref="49" name="Fill" startTime="23000" endTime="24000" palette="0" />
+        <Effect ref="49" name="Fill" startTime="24000" endTime="25000" palette="1" />
+        <Effect ref="49" name="Fill" startTime="25000" endTime="26000" palette="2" />
+        <Effect ref="49" name="Fill" startTime="26000" endTime="27000" palette="0" />
+        <Effect ref="49" name="Fill" startTime="27000" endTime="28000" palette="1" />
+        <Effect ref="49" name="Fill" startTime="28000" endTime="29000" palette="2" />
+        <Effect ref="49" name="Fill" startTime="29000" endTime="30000" palette="0" />
+      </EffectLayer>
+      <EffectLayer>
+        <Effect ref="48" name="Fill" startTime="0" endTime="1000" palette="0" />
+        <Effect ref="48" name="Fill" startTime="1000" endTime="2000" palette="1" />
+        <Effect ref="48" name="Fill" startTime="2000" endTime="3000" palette="2" />
+        <Effect ref="48" name="Fill" startTime="3000" endTime="4000" palette="0" />
+        <Effect ref="48" name="Fill" startTime="4000" endTime="5000" palette="1" />
+        <Effect ref="48" name="Fill" startTime="5000" endTime="6000" palette="2" />
+        <Effect ref="48" name="Fill" startTime="6000" endTime="7000" palette="0" />
+        <Effect ref="48" name="Fill" startTime="7000" endTime="8000" palette="1" />
+        <Effect ref="48" name="Fill" startTime="8000" endTime="9000" palette="2" />
+        <Effect ref="48" name="Fill" startTime="9000" endTime="10000" palette="0" />
+        <Effect ref="48" name="Fill" startTime="10000" endTime="11000" palette="1" />
+        <Effect ref="48" name="Fill" startTime="11000" endTime="12000" palette="2" />
+        <Effect ref="48" name="Fill" startTime="12000" endTime="13000" palette="0" />
+        <Effect ref="48" name="Fill" startTime="13000" endTime="14000" palette="1" />
+        <Effect ref="48" name="Fill" startTime="14000" endTime="15000" palette="2" />
+        <Effect ref="48" name="Fill" startTime="15000" endTime="16000" palette="0" />
+        <Effect ref="48" name="Fill" startTime="16000" endTime="17000" palette="1" />
+        <Effect ref="48" name="Fill" startTime="17000" endTime="18000" palette="2" />
+        <Effect ref="48" name="Fill" startTime="18000" endTime="19000" palette="0" />
+        <Effect ref="48" name="Fill" startTime="19000" endTime="20000" palette="1" />
+        <Effect ref="48" name="Fill" startTime="20000" endTime="21000" palette="2" />
+        <Effect ref="48" name="Fill" startTime="21000" endTime="22000" palette="0" />
+        <Effect ref="48" name="Fill" startTime="22000" endTime="23000" palette="1" />
+        <Effect ref="48" name="Fill" startTime="23000" endTime="24000" palette="2" />
+        <Effect ref="48" name="Fill" startTime="24000" endTime="25000" palette="0" />
+        <Effect ref="48" name="Fill" startTime="25000" endTime="26000" palette="1" />
+        <Effect ref="48" name="Fill" startTime="26000" endTime="27000" palette="2" />
+        <Effect ref="48" name="Fill" startTime="27000" endTime="28000" palette="0" />
+        <Effect ref="48" name="Fill" startTime="28000" endTime="29000" palette="1" />
+        <Effect ref="48" name="Fill" startTime="29000" endTime="30000" palette="2" />
+      </EffectLayer>
+      <EffectLayer>
+        <Effect ref="47" name="Fill" startTime="0" endTime="1000" palette="2" />
+        <Effect ref="47" name="Fill" startTime="1000" endTime="2000" palette="0" />
+        <Effect ref="47" name="Fill" startTime="2000" endTime="3000" palette="1" />
+        <Effect ref="47" name="Fill" startTime="3000" endTime="4000" palette="2" />
+        <Effect ref="47" name="Fill" startTime="4000" endTime="5000" palette="0" />
+        <Effect ref="47" name="Fill" startTime="5000" endTime="6000" palette="1" />
+        <Effect ref="47" name="Fill" startTime="6000" endTime="7000" palette="2" />
+        <Effect ref="47" name="Fill" startTime="7000" endTime="8000" palette="0" />
+        <Effect ref="47" name="Fill" startTime="8000" endTime="9000" palette="1" />
+        <Effect ref="47" name="Fill" startTime="9000" endTime="10000" palette="2" />
+        <Effect ref="47" name="Fill" startTime="10000" endTime="11000" palette="0" />
+        <Effect ref="47" name="Fill" startTime="11000" endTime="12000" palette="1" />
+        <Effect ref="47" name="Fill" startTime="12000" endTime="13000" palette="2" />
+        <Effect ref="47" name="Fill" startTime="13000" endTime="14000" palette="0" />
+        <Effect ref="47" name="Fill" startTime="14000" endTime="15000" palette="1" />
+        <Effect ref="47" name="Fill" startTime="15000" endTime="16000" palette="2" />
+        <Effect ref="47" name="Fill" startTime="16000" endTime="17000" palette="0" />
+        <Effect ref="47" name="Fill" startTime="17000" endTime="18000" palette="1" />
+        <Effect ref="47" name="Fill" startTime="18000" endTime="19000" palette="2" />
+        <Effect ref="47" name="Fill" startTime="19000" endTime="20000" palette="0" />
+        <Effect ref="47" name="Fill" startTime="20000" endTime="21000" palette="1" />
+        <Effect ref="47" name="Fill" startTime="21000" endTime="22000" palette="2" />
+        <Effect ref="47" name="Fill" startTime="22000" endTime="23000" palette="0" />
+        <Effect ref="47" name="Fill" startTime="23000" endTime="24000" palette="1" />
+        <Effect ref="47" name="Fill" startTime="24000" endTime="25000" palette="2" />
+        <Effect ref="47" name="Fill" startTime="25000" endTime="26000" palette="0" />
+        <Effect ref="47" name="Fill" startTime="26000" endTime="27000" palette="1" />
+        <Effect ref="47" name="Fill" startTime="27000" endTime="28000" palette="2" />
+        <Effect ref="47" name="Fill" startTime="28000" endTime="29000" palette="0" />
+        <Effect ref="47" name="Fill" startTime="29000" endTime="30000" palette="1" />
+      </EffectLayer>
+      <EffectLayer>
+        <Effect ref="46" name="Fill" startTime="0" endTime="250" palette="1" />
+        <Effect ref="46" name="Fill" startTime="1000" endTime="1250" palette="2" />
+        <Effect ref="46" name="Fill" startTime="2000" endTime="2250" palette="0" />
+        <Effect ref="46" name="Fill" startTime="3000" endTime="3250" palette="1" />
+        <Effect ref="46" name="Fill" startTime="4000" endTime="4250" palette="2" />
+        <Effect ref="46" name="Fill" startTime="5000" endTime="5250" palette="0" />
+        <Effect ref="46" name="Fill" startTime="6000" endTime="6250" palette="1" />
+        <Effect ref="46" name="Fill" startTime="7000" endTime="7250" palette="2" />
+        <Effect ref="46" name="Fill" startTime="8000" endTime="8250" palette="0" />
+        <Effect ref="46" name="Fill" startTime="9000" endTime="9250" palette="1" />
+        <Effect ref="46" name="Fill" startTime="10000" endTime="10250" palette="2" />
+        <Effect ref="46" name="Fill" startTime="11000" endTime="11250" palette="0" />
+        <Effect ref="46" name="Fill" startTime="12000" endTime="12250" palette="1" />
+        <Effect ref="46" name="Fill" startTime="13000" endTime="13250" palette="2" />
+        <Effect ref="46" name="Fill" startTime="14000" endTime="14250" palette="0" />
+        <Effect ref="46" name="Fill" startTime="15000" endTime="15250" palette="1" />
+        <Effect ref="46" name="Fill" startTime="16000" endTime="16250" palette="2" />
+        <Effect ref="46" name="Fill" startTime="17000" endTime="17250" palette="0" />
+        <Effect ref="46" name="Fill" startTime="18000" endTime="18250" palette="1" />
+        <Effect ref="46" name="Fill" startTime="19000" endTime="19250" palette="2" />
+        <Effect ref="46" name="Fill" startTime="20000" endTime="20250" palette="0" />
+        <Effect ref="46" name="Fill" startTime="21000" endTime="21250" palette="1" />
+        <Effect ref="46" name="Fill" startTime="22000" endTime="22250" palette="2" />
+        <Effect ref="46" name="Fill" startTime="23000" endTime="23250" palette="0" />
+        <Effect ref="46" name="Fill" startTime="24000" endTime="24250" palette="1" />
+        <Effect ref="46" name="Fill" startTime="25000" endTime="25250" palette="2" />
+        <Effect ref="46" name="Fill" startTime="26000" endTime="26250" palette="0" />
+        <Effect ref="46" name="Fill" startTime="27000" endTime="27250" palette="1" />
+        <Effect ref="46" name="Fill" startTime="28000" endTime="28250" palette="2" />
+        <Effect ref="46" name="Fill" startTime="29000" endTime="29250" palette="0" />
+      </EffectLayer>
+      <EffectLayer>
+        <Effect ref="0" name="On" startTime="0" endTime="250" palette="0" />
+        <Effect ref="0" name="On" startTime="250" endTime="1250" palette="1" />
+        <Effect ref="0" name="On" startTime="1250" endTime="2250" palette="2" />
+        <Effect ref="0" name="On" startTime="2250" endTime="3250" palette="0" />
+        <Effect ref="0" name="On" startTime="3250" endTime="4250" palette="1" />
+        <Effect ref="0" name="On" startTime="4250" endTime="5250" palette="2" />
+        <Effect ref="0" name="On" startTime="5250" endTime="6250" palette="0" />
+        <Effect ref="0" name="On" startTime="6250" endTime="7250" palette="1" />
+        <Effect ref="0" name="On" startTime="7250" endTime="8250" palette="2" />
+        <Effect ref="0" name="On" startTime="8250" endTime="9250" palette="0" />
+        <Effect ref="0" name="On" startTime="9250" endTime="10250" palette="1" />
+        <Effect ref="0" name="On" startTime="10250" endTime="11250" palette="2" />
+        <Effect ref="0" name="On" startTime="11250" endTime="12250" palette="0" />
+        <Effect ref="0" name="On" startTime="12250" endTime="13250" palette="1" />
+        <Effect ref="0" name="On" startTime="13250" endTime="14250" palette="2" />
+        <Effect ref="0" name="On" startTime="14250" endTime="15250" palette="0" />
+        <Effect ref="0" name="On" startTime="15250" endTime="16250" palette="1" />
+        <Effect ref="0" name="On" startTime="16250" endTime="17250" palette="2" />
+        <Effect ref="0" name="On" startTime="17250" endTime="18250" palette="0" />
+        <Effect ref="0" name="On" startTime="18250" endTime="19250" palette="1" />
+        <Effect ref="0" name="On" startTime="19250" endTime="20250" palette="2" />
+        <Effect ref="0" name="On" startTime="20250" endTime="21250" palette="0" />
+        <Effect ref="0" name="On" startTime="21250" endTime="22250" palette="1" />
+        <Effect ref="0" name="On" startTime="22250" endTime="23250" palette="2" />
+        <Effect ref="0" name="On" startTime="23250" endTime="24250" palette="0" />
+        <Effect ref="0" name="On" startTime="24250" endTime="25250" palette="1" />
+        <Effect ref="0" name="On" startTime="25250" endTime="26250" palette="2" />
+        <Effect ref="0" name="On" startTime="26250" endTime="27250" palette="0" />
+        <Effect ref="0" name="On" startTime="27250" endTime="28250" palette="1" />
+        <Effect ref="0" name="On" startTime="28250" endTime="29250" palette="2" />
+        <Effect ref="0" name="On" startTime="29250" endTime="30000" palette="0" />
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="H cross">
+      <EffectLayer>
+        <Effect ref="50" name="Fill" startTime="0" endTime="500" palette="0" />
+        <Effect ref="51" name="Fill" startTime="850" endTime="1500" palette="1" />
+        <Effect ref="51" name="Fill" startTime="1850" endTime="2500" palette="2" />
+        <Effect ref="51" name="Fill" startTime="2850" endTime="3500" palette="0" />
+        <Effect ref="51" name="Fill" startTime="3850" endTime="4500" palette="1" />
+        <Effect ref="51" name="Fill" startTime="4850" endTime="5500" palette="2" />
+        <Effect ref="51" name="Fill" startTime="5850" endTime="6500" palette="0" />
+        <Effect ref="51" name="Fill" startTime="6850" endTime="7500" palette="1" />
+        <Effect ref="51" name="Fill" startTime="7850" endTime="8500" palette="2" />
+        <Effect ref="51" name="Fill" startTime="8850" endTime="9500" palette="0" />
+        <Effect ref="51" name="Fill" startTime="9850" endTime="10500" palette="1" />
+        <Effect ref="51" name="Fill" startTime="10850" endTime="11500" palette="2" />
+        <Effect ref="51" name="Fill" startTime="11850" endTime="12500" palette="0" />
+        <Effect ref="51" name="Fill" startTime="12850" endTime="13500" palette="1" />
+        <Effect ref="51" name="Fill" startTime="13850" endTime="14500" palette="2" />
+        <Effect ref="51" name="Fill" startTime="14850" endTime="15500" palette="0" />
+        <Effect ref="51" name="Fill" startTime="15850" endTime="16500" palette="1" />
+        <Effect ref="51" name="Fill" startTime="16850" endTime="17500" palette="2" />
+        <Effect ref="51" name="Fill" startTime="17850" endTime="18500" palette="0" />
+        <Effect ref="51" name="Fill" startTime="18850" endTime="19500" palette="1" />
+        <Effect ref="51" name="Fill" startTime="19850" endTime="20500" palette="2" />
+        <Effect ref="51" name="Fill" startTime="20850" endTime="21500" palette="0" />
+        <Effect ref="51" name="Fill" startTime="21850" endTime="22500" palette="1" />
+        <Effect ref="51" name="Fill" startTime="22850" endTime="23500" palette="2" />
+        <Effect ref="51" name="Fill" startTime="23850" endTime="24500" palette="0" />
+        <Effect ref="51" name="Fill" startTime="24850" endTime="25500" palette="1" />
+        <Effect ref="51" name="Fill" startTime="25850" endTime="26500" palette="2" />
+        <Effect ref="51" name="Fill" startTime="26850" endTime="27500" palette="0" />
+        <Effect ref="51" name="Fill" startTime="27850" endTime="28500" palette="1" />
+        <Effect ref="51" name="Fill" startTime="28850" endTime="29500" palette="2" />
+        <Effect ref="52" name="Fill" startTime="29850" endTime="30000" palette="0" />
+      </EffectLayer>
+      <EffectLayer>
+        <Effect ref="0" name="On" startTime="0" endTime="500" palette="2" />
+        <Effect ref="0" name="On" startTime="500" endTime="1500" palette="0" />
+        <Effect ref="0" name="On" startTime="1500" endTime="2500" palette="1" />
+        <Effect ref="0" name="On" startTime="2500" endTime="3500" palette="2" />
+        <Effect ref="0" name="On" startTime="3500" endTime="4500" palette="0" />
+        <Effect ref="0" name="On" startTime="4500" endTime="5500" palette="1" />
+        <Effect ref="0" name="On" startTime="5500" endTime="6500" palette="2" />
+        <Effect ref="0" name="On" startTime="6500" endTime="7500" palette="0" />
+        <Effect ref="0" name="On" startTime="7500" endTime="8500" palette="1" />
+        <Effect ref="0" name="On" startTime="8500" endTime="9500" palette="2" />
+        <Effect ref="0" name="On" startTime="9500" endTime="10500" palette="0" />
+        <Effect ref="0" name="On" startTime="10500" endTime="11500" palette="1" />
+        <Effect ref="0" name="On" startTime="11500" endTime="12500" palette="2" />
+        <Effect ref="0" name="On" startTime="12500" endTime="13500" palette="0" />
+        <Effect ref="0" name="On" startTime="13500" endTime="14500" palette="1" />
+        <Effect ref="0" name="On" startTime="14500" endTime="15500" palette="2" />
+        <Effect ref="0" name="On" startTime="15500" endTime="16500" palette="0" />
+        <Effect ref="0" name="On" startTime="16500" endTime="17500" palette="1" />
+        <Effect ref="0" name="On" startTime="17500" endTime="18500" palette="2" />
+        <Effect ref="0" name="On" startTime="18500" endTime="19500" palette="0" />
+        <Effect ref="0" name="On" startTime="19500" endTime="20500" palette="1" />
+        <Effect ref="0" name="On" startTime="20500" endTime="21500" palette="2" />
+        <Effect ref="0" name="On" startTime="21500" endTime="22500" palette="0" />
+        <Effect ref="0" name="On" startTime="22500" endTime="23500" palette="1" />
+        <Effect ref="0" name="On" startTime="23500" endTime="24500" palette="2" />
+        <Effect ref="0" name="On" startTime="24500" endTime="25500" palette="0" />
+        <Effect ref="0" name="On" startTime="25500" endTime="26500" palette="1" />
+        <Effect ref="0" name="On" startTime="26500" endTime="27500" palette="2" />
+        <Effect ref="0" name="On" startTime="27500" endTime="28500" palette="0" />
+        <Effect ref="0" name="On" startTime="28500" endTime="29500" palette="1" />
+        <Effect ref="0" name="On" startTime="29500" endTime="30000" palette="2" />
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="H left">
+      <EffectLayer>
+        <Effect ref="54" name="Fill" startTime="0" endTime="1000" palette="1" />
+        <Effect ref="54" name="Fill" startTime="1000" endTime="2000" palette="2" />
+        <Effect ref="54" name="Fill" startTime="2000" endTime="3000" palette="0" />
+        <Effect ref="54" name="Fill" startTime="3000" endTime="4000" palette="1" />
+        <Effect ref="54" name="Fill" startTime="4000" endTime="5000" palette="2" />
+        <Effect ref="54" name="Fill" startTime="5000" endTime="6000" palette="0" />
+        <Effect ref="54" name="Fill" startTime="6000" endTime="7000" palette="1" />
+        <Effect ref="54" name="Fill" startTime="7000" endTime="8000" palette="2" />
+        <Effect ref="54" name="Fill" startTime="8000" endTime="9000" palette="0" />
+        <Effect ref="54" name="Fill" startTime="9000" endTime="10000" palette="1" />
+        <Effect ref="54" name="Fill" startTime="10000" endTime="11000" palette="2" />
+        <Effect ref="54" name="Fill" startTime="11000" endTime="12000" palette="0" />
+        <Effect ref="54" name="Fill" startTime="12000" endTime="13000" palette="1" />
+        <Effect ref="54" name="Fill" startTime="13000" endTime="14000" palette="2" />
+        <Effect ref="54" name="Fill" startTime="14000" endTime="15000" palette="0" />
+        <Effect ref="54" name="Fill" startTime="15000" endTime="16000" palette="1" />
+        <Effect ref="54" name="Fill" startTime="16000" endTime="17000" palette="2" />
+        <Effect ref="54" name="Fill" startTime="17000" endTime="18000" palette="0" />
+        <Effect ref="54" name="Fill" startTime="18000" endTime="19000" palette="1" />
+        <Effect ref="54" name="Fill" startTime="19000" endTime="20000" palette="2" />
+        <Effect ref="54" name="Fill" startTime="20000" endTime="21000" palette="0" />
+        <Effect ref="54" name="Fill" startTime="21000" endTime="22000" palette="1" />
+        <Effect ref="54" name="Fill" startTime="22000" endTime="23000" palette="2" />
+        <Effect ref="54" name="Fill" startTime="23000" endTime="24000" palette="0" />
+        <Effect ref="54" name="Fill" startTime="24000" endTime="25000" palette="1" />
+        <Effect ref="54" name="Fill" startTime="25000" endTime="26000" palette="2" />
+        <Effect ref="54" name="Fill" startTime="26000" endTime="27000" palette="0" />
+        <Effect ref="54" name="Fill" startTime="27000" endTime="28000" palette="1" />
+        <Effect ref="54" name="Fill" startTime="28000" endTime="29000" palette="2" />
+        <Effect ref="54" name="Fill" startTime="29000" endTime="30000" palette="0" />
+      </EffectLayer>
+      <EffectLayer>
+        <Effect ref="53" name="Fill" startTime="0" endTime="550" palette="0" />
+        <Effect ref="53" name="Fill" startTime="1000" endTime="1550" palette="1" />
+        <Effect ref="53" name="Fill" startTime="2000" endTime="2550" palette="2" />
+        <Effect ref="53" name="Fill" startTime="3000" endTime="3550" palette="0" />
+        <Effect ref="53" name="Fill" startTime="4000" endTime="4550" palette="1" />
+        <Effect ref="53" name="Fill" startTime="5000" endTime="5550" palette="2" />
+        <Effect ref="53" name="Fill" startTime="6000" endTime="6550" palette="0" />
+        <Effect ref="53" name="Fill" startTime="7000" endTime="7550" palette="1" />
+        <Effect ref="53" name="Fill" startTime="8000" endTime="8550" palette="2" />
+        <Effect ref="53" name="Fill" startTime="9000" endTime="9550" palette="0" />
+        <Effect ref="53" name="Fill" startTime="10000" endTime="10550" palette="1" />
+        <Effect ref="53" name="Fill" startTime="11000" endTime="11550" palette="2" />
+        <Effect ref="53" name="Fill" startTime="12000" endTime="12550" palette="0" />
+        <Effect ref="53" name="Fill" startTime="13000" endTime="13550" palette="1" />
+        <Effect ref="53" name="Fill" startTime="14000" endTime="14550" palette="2" />
+        <Effect ref="53" name="Fill" startTime="15000" endTime="15550" palette="0" />
+        <Effect ref="53" name="Fill" startTime="16000" endTime="16550" palette="1" />
+        <Effect ref="53" name="Fill" startTime="17000" endTime="17550" palette="2" />
+        <Effect ref="53" name="Fill" startTime="18000" endTime="18550" palette="0" />
+        <Effect ref="53" name="Fill" startTime="19000" endTime="19550" palette="1" />
+        <Effect ref="53" name="Fill" startTime="20000" endTime="20550" palette="2" />
+        <Effect ref="53" name="Fill" startTime="21000" endTime="21550" palette="0" />
+        <Effect ref="53" name="Fill" startTime="22000" endTime="22550" palette="1" />
+        <Effect ref="53" name="Fill" startTime="23000" endTime="23550" palette="2" />
+        <Effect ref="53" name="Fill" startTime="24000" endTime="24550" palette="0" />
+        <Effect ref="53" name="Fill" startTime="25000" endTime="25550" palette="1" />
+        <Effect ref="53" name="Fill" startTime="26000" endTime="26550" palette="2" />
+        <Effect ref="53" name="Fill" startTime="27000" endTime="27550" palette="0" />
+        <Effect ref="53" name="Fill" startTime="28000" endTime="28550" palette="1" />
+        <Effect ref="53" name="Fill" startTime="29000" endTime="29550" palette="2" />
+      </EffectLayer>
+      <EffectLayer>
+        <Effect ref="0" name="On" startTime="0" endTime="550" palette="2" />
+        <Effect ref="0" name="On" startTime="550" endTime="1550" palette="0" />
+        <Effect ref="0" name="On" startTime="1550" endTime="2550" palette="1" />
+        <Effect ref="0" name="On" startTime="2550" endTime="3550" palette="2" />
+        <Effect ref="0" name="On" startTime="3550" endTime="4550" palette="0" />
+        <Effect ref="0" name="On" startTime="4550" endTime="5550" palette="1" />
+        <Effect ref="0" name="On" startTime="5550" endTime="6550" palette="2" />
+        <Effect ref="0" name="On" startTime="6550" endTime="7550" palette="0" />
+        <Effect ref="0" name="On" startTime="7550" endTime="8550" palette="1" />
+        <Effect ref="0" name="On" startTime="8550" endTime="9550" palette="2" />
+        <Effect ref="0" name="On" startTime="9550" endTime="10550" palette="0" />
+        <Effect ref="0" name="On" startTime="10550" endTime="11550" palette="1" />
+        <Effect ref="0" name="On" startTime="11550" endTime="12550" palette="2" />
+        <Effect ref="0" name="On" startTime="12550" endTime="13550" palette="0" />
+        <Effect ref="0" name="On" startTime="13550" endTime="14550" palette="1" />
+        <Effect ref="0" name="On" startTime="14550" endTime="15550" palette="2" />
+        <Effect ref="0" name="On" startTime="15550" endTime="16550" palette="0" />
+        <Effect ref="0" name="On" startTime="16550" endTime="17550" palette="1" />
+        <Effect ref="0" name="On" startTime="17550" endTime="18550" palette="2" />
+        <Effect ref="0" name="On" startTime="18550" endTime="19550" palette="0" />
+        <Effect ref="0" name="On" startTime="19550" endTime="20550" palette="1" />
+        <Effect ref="0" name="On" startTime="20550" endTime="21550" palette="2" />
+        <Effect ref="0" name="On" startTime="21550" endTime="22550" palette="0" />
+        <Effect ref="0" name="On" startTime="22550" endTime="23550" palette="1" />
+        <Effect ref="0" name="On" startTime="23550" endTime="24550" palette="2" />
+        <Effect ref="0" name="On" startTime="24550" endTime="25550" palette="0" />
+        <Effect ref="0" name="On" startTime="25550" endTime="26550" palette="1" />
+        <Effect ref="0" name="On" startTime="26550" endTime="27550" palette="2" />
+        <Effect ref="0" name="On" startTime="27550" endTime="28550" palette="0" />
+        <Effect ref="0" name="On" startTime="28550" endTime="29550" palette="1" />
+        <Effect ref="0" name="On" startTime="29550" endTime="30000" palette="2" />
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="H right">
+      <EffectLayer>
+        <Effect ref="17" name="Fill" startTime="0" endTime="500" palette="2" />
+        <Effect ref="55" name="Fill" startTime="500" endTime="1500" palette="0" />
+        <Effect ref="55" name="Fill" startTime="1500" endTime="2500" palette="1" />
+        <Effect ref="55" name="Fill" startTime="2500" endTime="3500" palette="2" />
+        <Effect ref="55" name="Fill" startTime="3500" endTime="4500" palette="0" />
+        <Effect ref="55" name="Fill" startTime="4500" endTime="5500" palette="1" />
+        <Effect ref="55" name="Fill" startTime="5500" endTime="6500" palette="2" />
+        <Effect ref="55" name="Fill" startTime="6500" endTime="7500" palette="0" />
+        <Effect ref="55" name="Fill" startTime="7500" endTime="8500" palette="1" />
+        <Effect ref="55" name="Fill" startTime="8500" endTime="9500" palette="2" />
+        <Effect ref="55" name="Fill" startTime="9500" endTime="10500" palette="0" />
+        <Effect ref="55" name="Fill" startTime="10500" endTime="11500" palette="1" />
+        <Effect ref="55" name="Fill" startTime="11500" endTime="12500" palette="2" />
+        <Effect ref="55" name="Fill" startTime="12500" endTime="13500" palette="0" />
+        <Effect ref="55" name="Fill" startTime="13500" endTime="14500" palette="1" />
+        <Effect ref="55" name="Fill" startTime="14500" endTime="15500" palette="2" />
+        <Effect ref="55" name="Fill" startTime="15500" endTime="16500" palette="0" />
+        <Effect ref="55" name="Fill" startTime="16500" endTime="17500" palette="1" />
+        <Effect ref="55" name="Fill" startTime="17500" endTime="18500" palette="2" />
+        <Effect ref="55" name="Fill" startTime="18500" endTime="19500" palette="0" />
+        <Effect ref="55" name="Fill" startTime="19500" endTime="20500" palette="1" />
+        <Effect ref="55" name="Fill" startTime="20500" endTime="21500" palette="2" />
+        <Effect ref="55" name="Fill" startTime="21500" endTime="22500" palette="0" />
+        <Effect ref="55" name="Fill" startTime="22500" endTime="23500" palette="1" />
+        <Effect ref="55" name="Fill" startTime="23500" endTime="24500" palette="2" />
+        <Effect ref="55" name="Fill" startTime="24500" endTime="25500" palette="0" />
+        <Effect ref="55" name="Fill" startTime="25500" endTime="26500" palette="1" />
+        <Effect ref="55" name="Fill" startTime="26500" endTime="27500" palette="2" />
+        <Effect ref="55" name="Fill" startTime="27500" endTime="28500" palette="0" />
+        <Effect ref="55" name="Fill" startTime="28500" endTime="29500" palette="1" />
+        <Effect ref="18" name="Fill" startTime="29500" endTime="30000" palette="2" />
+      </EffectLayer>
+      <EffectLayer>
+        <Effect ref="15" name="Fill" startTime="500" endTime="1000" palette="2" />
+        <Effect ref="15" name="Fill" startTime="1500" endTime="2000" palette="0" />
+        <Effect ref="15" name="Fill" startTime="2500" endTime="3000" palette="1" />
+        <Effect ref="15" name="Fill" startTime="3500" endTime="4000" palette="2" />
+        <Effect ref="15" name="Fill" startTime="4500" endTime="5000" palette="0" />
+        <Effect ref="15" name="Fill" startTime="5500" endTime="6000" palette="1" />
+        <Effect ref="15" name="Fill" startTime="6500" endTime="7000" palette="2" />
+        <Effect ref="15" name="Fill" startTime="7500" endTime="8000" palette="0" />
+        <Effect ref="15" name="Fill" startTime="8500" endTime="9000" palette="1" />
+        <Effect ref="15" name="Fill" startTime="9500" endTime="10000" palette="2" />
+        <Effect ref="15" name="Fill" startTime="10500" endTime="11000" palette="0" />
+        <Effect ref="15" name="Fill" startTime="11500" endTime="12000" palette="1" />
+        <Effect ref="15" name="Fill" startTime="12500" endTime="13000" palette="2" />
+        <Effect ref="15" name="Fill" startTime="13500" endTime="14000" palette="0" />
+        <Effect ref="15" name="Fill" startTime="14500" endTime="15000" palette="1" />
+        <Effect ref="15" name="Fill" startTime="15500" endTime="16000" palette="2" />
+        <Effect ref="15" name="Fill" startTime="16500" endTime="17000" palette="0" />
+        <Effect ref="15" name="Fill" startTime="17500" endTime="18000" palette="1" />
+        <Effect ref="15" name="Fill" startTime="18500" endTime="19000" palette="2" />
+        <Effect ref="15" name="Fill" startTime="19500" endTime="20000" palette="0" />
+        <Effect ref="15" name="Fill" startTime="20500" endTime="21000" palette="1" />
+        <Effect ref="15" name="Fill" startTime="21500" endTime="22000" palette="2" />
+        <Effect ref="15" name="Fill" startTime="22500" endTime="23000" palette="0" />
+        <Effect ref="15" name="Fill" startTime="23500" endTime="24000" palette="1" />
+        <Effect ref="15" name="Fill" startTime="24500" endTime="25000" palette="2" />
+        <Effect ref="15" name="Fill" startTime="25500" endTime="26000" palette="0" />
+        <Effect ref="15" name="Fill" startTime="26500" endTime="27000" palette="1" />
+        <Effect ref="15" name="Fill" startTime="27500" endTime="28000" palette="2" />
+        <Effect ref="15" name="Fill" startTime="28500" endTime="29000" palette="0" />
+        <Effect ref="15" name="Fill" startTime="29500" endTime="30000" palette="1" />
+      </EffectLayer>
+      <EffectLayer>
+        <Effect ref="0" name="On" startTime="0" endTime="1000" palette="1" />
+        <Effect ref="0" name="On" startTime="1000" endTime="2000" palette="2" />
+        <Effect ref="0" name="On" startTime="2000" endTime="3000" palette="0" />
+        <Effect ref="0" name="On" startTime="3000" endTime="4000" palette="1" />
+        <Effect ref="0" name="On" startTime="4000" endTime="5000" palette="2" />
+        <Effect ref="0" name="On" startTime="5000" endTime="6000" palette="0" />
+        <Effect ref="0" name="On" startTime="6000" endTime="7000" palette="1" />
+        <Effect ref="0" name="On" startTime="7000" endTime="8000" palette="2" />
+        <Effect ref="0" name="On" startTime="8000" endTime="9000" palette="0" />
+        <Effect ref="0" name="On" startTime="9000" endTime="10000" palette="1" />
+        <Effect ref="0" name="On" startTime="10000" endTime="11000" palette="2" />
+        <Effect ref="0" name="On" startTime="11000" endTime="12000" palette="0" />
+        <Effect ref="0" name="On" startTime="12000" endTime="13000" palette="1" />
+        <Effect ref="0" name="On" startTime="13000" endTime="14000" palette="2" />
+        <Effect ref="0" name="On" startTime="14000" endTime="15000" palette="0" />
+        <Effect ref="0" name="On" startTime="15000" endTime="16000" palette="1" />
+        <Effect ref="0" name="On" startTime="16000" endTime="17000" palette="2" />
+        <Effect ref="0" name="On" startTime="17000" endTime="18000" palette="0" />
+        <Effect ref="0" name="On" startTime="18000" endTime="19000" palette="1" />
+        <Effect ref="0" name="On" startTime="19000" endTime="20000" palette="2" />
+        <Effect ref="0" name="On" startTime="20000" endTime="21000" palette="0" />
+        <Effect ref="0" name="On" startTime="21000" endTime="22000" palette="1" />
+        <Effect ref="0" name="On" startTime="22000" endTime="23000" palette="2" />
+        <Effect ref="0" name="On" startTime="23000" endTime="24000" palette="0" />
+        <Effect ref="0" name="On" startTime="24000" endTime="25000" palette="1" />
+        <Effect ref="0" name="On" startTime="25000" endTime="26000" palette="2" />
+        <Effect ref="0" name="On" startTime="26000" endTime="27000" palette="0" />
+        <Effect ref="0" name="On" startTime="27000" endTime="28000" palette="1" />
+        <Effect ref="0" name="On" startTime="28000" endTime="29000" palette="2" />
+        <Effect ref="0" name="On" startTime="29000" endTime="30000" palette="0" />
+      </EffectLayer>
+    </Element>
+  </ElementEffects>
+  <lastView>0</lastView>
+  <TimingTags>
+    <Tag number="0" position="-1" />
+    <Tag number="1" position="-1" />
+    <Tag number="2" position="-1" />
+    <Tag number="3" position="-1" />
+    <Tag number="4" position="-1" />
+    <Tag number="5" position="-1" />
+    <Tag number="6" position="-1" />
+    <Tag number="7" position="-1" />
+    <Tag number="8" position="-1" />
+    <Tag number="9" position="-1" />
+  </TimingTags>
+</xsequence>

@@ -1,0 +1,375 @@
+<?xml version="1.0"?>
+<xsequence BaseChannel="0" ChanCtrlBasic="0" ChanCtrlColor="0" FixedPointTiming="1" ModelBlending="true">
+  <head>
+    <version>2026.18</version>
+    <author></author>
+    <author-email></author-email>
+    <author-website></author-website>
+    <song></song>
+    <artist></artist>
+    <album></album>
+    <MusicURL></MusicURL>
+    <comment></comment>
+    <sequenceTiming>50 ms</sequenceTiming>
+    <sequenceType>Animation</sequenceType>
+    <mediaFile></mediaFile>
+    <sequenceDuration>36.000</sequenceDuration>
+    <imageDir></imageDir>
+  </head>
+  <ColorPalettes>
+    <ColorPalette>C_BUTTON_Palette1=#ff0000,C_BUTTON_Palette2=#000000,C_BUTTON_Palette3=#000000,C_BUTTON_Palette4=#000000,C_BUTTON_Palette5=#000000,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#000000,C_BUTTON_Palette8=#000000,C_CHECKBOXBRIGHTNESSLEVEL=0,C_CHECKBOX_Chroma=0,C_CHECKBOX_MusicSparkles=0,C_CHECKBOX_Palette1=1,C_CHECKBOX_Palette2=0,C_CHECKBOX_Palette3=0,C_CHECKBOX_Palette4=0,C_CHECKBOX_Palette5=0,C_CHECKBOX_Palette6=0,C_CHECKBOX_Palette7=0,C_CHECKBOX_Palette8=0,C_SLIDER_SparkleFrequency=0</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#d00000,C_BUTTON_Palette2=#000000,C_BUTTON_Palette3=#000000,C_BUTTON_Palette4=#000000,C_BUTTON_Palette5=#000000,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#000000,C_BUTTON_Palette8=#000000,C_CHECKBOXBRIGHTNESSLEVEL=0,C_CHECKBOX_Chroma=0,C_CHECKBOX_MusicSparkles=0,C_CHECKBOX_Palette1=1,C_CHECKBOX_Palette2=0,C_CHECKBOX_Palette3=0,C_CHECKBOX_Palette4=0,C_CHECKBOX_Palette5=0,C_CHECKBOX_Palette6=0,C_CHECKBOX_Palette7=0,C_CHECKBOX_Palette8=0,C_SLIDER_SparkleFrequency=0</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#a00000,C_BUTTON_Palette2=#000000,C_BUTTON_Palette3=#000000,C_BUTTON_Palette4=#000000,C_BUTTON_Palette5=#000000,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#000000,C_BUTTON_Palette8=#000000,C_CHECKBOXBRIGHTNESSLEVEL=0,C_CHECKBOX_Chroma=0,C_CHECKBOX_MusicSparkles=0,C_CHECKBOX_Palette1=1,C_CHECKBOX_Palette2=0,C_CHECKBOX_Palette3=0,C_CHECKBOX_Palette4=0,C_CHECKBOX_Palette5=0,C_CHECKBOX_Palette6=0,C_CHECKBOX_Palette7=0,C_CHECKBOX_Palette8=0,C_SLIDER_SparkleFrequency=0</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#800000,C_BUTTON_Palette2=#000000,C_BUTTON_Palette3=#000000,C_BUTTON_Palette4=#000000,C_BUTTON_Palette5=#000000,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#000000,C_BUTTON_Palette8=#000000,C_CHECKBOXBRIGHTNESSLEVEL=0,C_CHECKBOX_Chroma=0,C_CHECKBOX_MusicSparkles=0,C_CHECKBOX_Palette1=1,C_CHECKBOX_Palette2=0,C_CHECKBOX_Palette3=0,C_CHECKBOX_Palette4=0,C_CHECKBOX_Palette5=0,C_CHECKBOX_Palette6=0,C_CHECKBOX_Palette7=0,C_CHECKBOX_Palette8=0,C_SLIDER_SparkleFrequency=0</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#600000,C_BUTTON_Palette2=#000000,C_BUTTON_Palette3=#000000,C_BUTTON_Palette4=#000000,C_BUTTON_Palette5=#000000,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#000000,C_BUTTON_Palette8=#000000,C_CHECKBOXBRIGHTNESSLEVEL=0,C_CHECKBOX_Chroma=0,C_CHECKBOX_MusicSparkles=0,C_CHECKBOX_Palette1=1,C_CHECKBOX_Palette2=0,C_CHECKBOX_Palette3=0,C_CHECKBOX_Palette4=0,C_CHECKBOX_Palette5=0,C_CHECKBOX_Palette6=0,C_CHECKBOX_Palette7=0,C_CHECKBOX_Palette8=0,C_SLIDER_SparkleFrequency=0</ColorPalette>
+  </ColorPalettes>
+  <EffectDB>
+    <Effect>T_CHECKBOX_Canvas=0,T_CHECKBOX_LayerMorph=0,T_CHOICE_LayerMethod=Normal,T_SLIDER_EffectLayerMix=0</Effect>
+    <Effect>B_CHOICE_BufferStyle=Horizontal Per Model,E_CHECKBOX_Fill_Color_Time=0,E_CHECKBOX_Fill_Offset_In_Pixels=1,E_CHECKBOX_Fill_Wrap=1,E_CHOICE_Fill_Direction=Up,E_SLIDER_Fill_Band_Size=0,E_SLIDER_Fill_Offset=0,E_SLIDER_Fill_Skip_Size=0,E_VALUECURVE_Fill_Position=Active=TRUE|Id=ID_VALUECURVE_Fill_Position|Type=Ramp|Min=0.00|Max=100.00|P1=0.00|P2=100.00|RV=TRUE|,T_CHECKBOX_Canvas=0,T_CHECKBOX_LayerMorph=0,T_CHOICE_LayerMethod=Normal,T_SLIDER_EffectLayerMix=0</Effect>
+    <Effect>E_CHECKBOX_Fill_Color_Time=0,E_CHECKBOX_Fill_Offset_In_Pixels=1,E_CHECKBOX_Fill_Wrap=1,E_CHOICE_Fill_Direction=Up,E_SLIDER_Fill_Band_Size=0,E_SLIDER_Fill_Offset=0,E_SLIDER_Fill_Skip_Size=0,E_VALUECURVE_Fill_Position=Active=TRUE|Id=ID_VALUECURVE_Fill_Position|Type=Ramp|Min=0.00|Max=100.00|P1=0.00|P2=100.00|RV=TRUE|,T_CHECKBOX_Canvas=0,T_CHECKBOX_LayerMorph=0,T_CHOICE_LayerMethod=Normal,T_SLIDER_EffectLayerMix=0</Effect>
+    <Effect>E_CHECKBOX_Fill_Color_Time=0,E_CHECKBOX_Fill_Offset_In_Pixels=1,E_CHECKBOX_Fill_Wrap=1,E_CHOICE_Fill_Direction=Right,E_SLIDER_Fill_Band_Size=0,E_SLIDER_Fill_Offset=0,E_SLIDER_Fill_Skip_Size=0,E_VALUECURVE_Fill_Position=Active=TRUE|Id=ID_VALUECURVE_Fill_Position|Type=Ramp|Min=0.00|Max=100.00|P1=0.00|P2=100.00|RV=TRUE|,T_CHECKBOX_Canvas=0,T_CHECKBOX_LayerMorph=0,T_CHOICE_LayerMethod=Normal,T_SLIDER_EffectLayerMix=0</Effect>
+    <Effect>E_CHECKBOX_Fill_Color_Time=0,E_CHECKBOX_Fill_Offset_In_Pixels=1,E_CHECKBOX_Fill_Wrap=1,E_CHOICE_Fill_Direction=Down,E_SLIDER_Fill_Band_Size=0,E_SLIDER_Fill_Offset=0,E_SLIDER_Fill_Skip_Size=0,E_VALUECURVE_Fill_Position=Active=TRUE|Id=ID_VALUECURVE_Fill_Position|Type=Ramp|Min=0.00|Max=100.00|P1=0.00|P2=100.00|RV=TRUE|,T_CHECKBOX_Canvas=0,T_CHECKBOX_LayerMorph=0,T_CHOICE_LayerMethod=Normal,T_SLIDER_EffectLayerMix=0</Effect>
+    <Effect>E_CHECKBOX_Fill_Color_Time=0,E_CHECKBOX_Fill_Offset_In_Pixels=1,E_CHECKBOX_Fill_Wrap=0,E_CHOICE_Fill_Direction=Right,E_SLIDER_Fill_Band_Size=0,E_SLIDER_Fill_Offset=0,E_SLIDER_Fill_Skip_Size=0,E_VALUECURVE_Fill_Position=Active=TRUE|Id=ID_VALUECURVE_Fill_Position|Type=Ramp|Min=0.00|Max=100.00|P1=0.00|P2=100.00|RV=TRUE|,T_CHECKBOX_Canvas=0,T_CHECKBOX_LayerMorph=0,T_CHOICE_LayerMethod=Normal,T_SLIDER_EffectLayerMix=0</Effect>
+    <Effect>B_CHOICE_BufferStyle=Horizontal Per Model,E_CHECKBOX_Fill_Color_Time=0,E_CHECKBOX_Fill_Offset_In_Pixels=1,E_CHECKBOX_Fill_Wrap=1,E_CHOICE_Fill_Direction=Up,E_SLIDER_Fill_Band_Size=0,E_SLIDER_Fill_Offset=0,E_SLIDER_Fill_Skip_Size=0,E_VALUECURVE_Fill_Position=Active=TRUE|Id=ID_VALUECURVE_Fill_Position|Type=Ramp|Min=0.00|Max=100.00|P1=100.00|P2=100.00|RV=TRUE|,T_CHECKBOX_Canvas=0,T_CHECKBOX_LayerMorph=0,T_CHOICE_LayerMethod=Normal,T_SLIDER_EffectLayerMix=0</Effect>
+    <Effect>E_CHECKBOX_Fill_Color_Time=0,E_CHECKBOX_Fill_Offset_In_Pixels=1,E_CHECKBOX_Fill_Wrap=1,E_CHOICE_Fill_Direction=Down,E_SLIDER_Fill_Band_Size=0,E_SLIDER_Fill_Offset=0,E_SLIDER_Fill_Skip_Size=0,E_VALUECURVE_Fill_Position=Active=TRUE|Id=ID_VALUECURVE_Fill_Position|Type=Ramp|Min=0.00|Max=100.00|P1=100.00|P2=100.00|RV=TRUE|,T_CHECKBOX_Canvas=0,T_CHECKBOX_LayerMorph=0,T_CHOICE_LayerMethod=Normal,T_SLIDER_EffectLayerMix=0</Effect>
+  </EffectDB>
+  <SequenceMedia />
+  <DataLayers>
+    <DataLayer lor_params="0" channel_offset="0" num_channels="0" num_frames="0" data="&lt;rendered: erase-mode>" source="&lt;auto-generated>" name="Nutcracker" />
+  </DataLayers>
+  <DisplayElements>
+    <Element collapsed="false" type="timing" name="Molten Pour" visible="true" views="" active="true" />
+    <Element collapsed="false" type="model" name="Pour" visible="true" />
+    <Element collapsed="false" type="model" name="SIDE tube" visible="true" />
+    <Element collapsed="false" type="model" name="SOUTH tube" visible="true" />
+    <Element collapsed="false" type="model" name="SOUTH S" visible="true" />
+    <Element collapsed="false" type="model" name="SOUTH H" visible="true" />
+    <Element collapsed="false" type="model" name="SOUTH O" visible="true" />
+    <Element collapsed="false" type="model" name="SOUTH T" visible="true" />
+    <Element collapsed="false" type="model" name="T bar" visible="true" />
+    <Element collapsed="false" type="model" name="T stem" visible="true" />
+    <Element collapsed="false" type="model" name="SOUTH U" visible="true" />
+    <Element collapsed="false" type="model" name="SIDE D" visible="true" />
+    <Element collapsed="false" type="model" name="SIDE E" visible="true" />
+    <Element collapsed="false" type="model" name="SIDE I" visible="true" />
+    <Element collapsed="false" type="model" name="SIDE S" visible="true" />
+    <Element collapsed="false" type="model" name="H cross" visible="true" />
+    <Element collapsed="false" type="model" name="H left" visible="true" />
+    <Element collapsed="false" type="model" name="H right" visible="true" />
+  </DisplayElements>
+  <ElementEffects>
+    <Element type="timing" name="Molten Pour" fixed="500">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="Pour">
+      <EffectLayer>
+        <Effect ref="1" name="Fill" startTime="19750" endTime="23750" palette="4" />
+        <Effect ref="1" name="Fill" startTime="26450" endTime="30450" palette="4" />
+      </EffectLayer>
+      <EffectLayer>
+        <Effect ref="1" name="Fill" startTime="19150" endTime="23150" palette="0" />
+        <Effect ref="6" name="Fill" startTime="23150" endTime="23750" palette="0" />
+        <Effect ref="1" name="Fill" startTime="25850" endTime="29850" palette="0" />
+        <Effect ref="6" name="Fill" startTime="29850" endTime="30450" palette="0" />
+      </EffectLayer>
+      <EffectLayer>
+        <Effect ref="1" name="Fill" startTime="0" endTime="5300" palette="0" />
+      </EffectLayer>
+      <EffectLayer>
+        <Effect ref="0" name="On" startTime="5300" endTime="15000" palette="0" />
+      </EffectLayer>
+      <EffectLayer>
+        <Effect ref="0" name="On" startTime="15000" endTime="15600" palette="1" />
+        <Effect ref="0" name="On" startTime="15600" endTime="16200" palette="2" />
+        <Effect ref="0" name="On" startTime="16200" endTime="16800" palette="3" />
+        <Effect ref="0" name="On" startTime="16800" endTime="36000" palette="4" />
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="SIDE tube">
+      <EffectLayer>
+        <Effect ref="2" name="Fill" startTime="4750" endTime="5700" palette="0" />
+      </EffectLayer>
+      <EffectLayer>
+        <Effect ref="0" name="On" startTime="5700" endTime="15000" palette="0" />
+      </EffectLayer>
+      <EffectLayer>
+        <Effect ref="0" name="On" startTime="15000" endTime="15600" palette="1" />
+        <Effect ref="0" name="On" startTime="15600" endTime="16200" palette="2" />
+        <Effect ref="0" name="On" startTime="16200" endTime="16800" palette="3" />
+        <Effect ref="0" name="On" startTime="16800" endTime="36000" palette="4" />
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="SOUTH tube">
+      <EffectLayer>
+        <Effect ref="4" name="Fill" startTime="19900" endTime="22100" palette="4" />
+        <Effect ref="4" name="Fill" startTime="24200" endTime="26400" palette="4" />
+        <Effect ref="4" name="Fill" startTime="31600" endTime="33800" palette="4" />
+      </EffectLayer>
+      <EffectLayer>
+        <Effect ref="4" name="Fill" startTime="19550" endTime="21750" palette="0" />
+        <Effect ref="7" name="Fill" startTime="21750" endTime="22100" palette="0" />
+        <Effect ref="4" name="Fill" startTime="23850" endTime="26050" palette="0" />
+        <Effect ref="7" name="Fill" startTime="26050" endTime="26400" palette="0" />
+        <Effect ref="4" name="Fill" startTime="31250" endTime="33450" palette="0" />
+        <Effect ref="7" name="Fill" startTime="33450" endTime="33800" palette="0" />
+      </EffectLayer>
+      <EffectLayer>
+        <Effect ref="2" name="Fill" startTime="3000" endTime="5700" palette="0" />
+      </EffectLayer>
+      <EffectLayer>
+        <Effect ref="0" name="On" startTime="5700" endTime="15000" palette="0" />
+      </EffectLayer>
+      <EffectLayer>
+        <Effect ref="0" name="On" startTime="15000" endTime="15600" palette="1" />
+        <Effect ref="0" name="On" startTime="15600" endTime="16200" palette="2" />
+        <Effect ref="0" name="On" startTime="16200" endTime="16800" palette="3" />
+        <Effect ref="0" name="On" startTime="16800" endTime="36000" palette="4" />
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="SOUTH S">
+      <EffectLayer>
+        <Effect ref="2" name="Fill" startTime="5700" endTime="8700" palette="0" />
+      </EffectLayer>
+      <EffectLayer>
+        <Effect ref="0" name="On" startTime="8700" endTime="15000" palette="0" />
+      </EffectLayer>
+      <EffectLayer>
+        <Effect ref="0" name="On" startTime="15000" endTime="15600" palette="1" />
+        <Effect ref="0" name="On" startTime="15600" endTime="16200" palette="2" />
+        <Effect ref="0" name="On" startTime="16200" endTime="16800" palette="3" />
+        <Effect ref="0" name="On" startTime="16800" endTime="36000" palette="4" />
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="SOUTH H">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="SOUTH O">
+      <EffectLayer>
+        <Effect ref="2" name="Fill" startTime="6500" endTime="9500" palette="0" />
+      </EffectLayer>
+      <EffectLayer>
+        <Effect ref="0" name="On" startTime="9500" endTime="15000" palette="0" />
+      </EffectLayer>
+      <EffectLayer>
+        <Effect ref="0" name="On" startTime="15000" endTime="15600" palette="1" />
+        <Effect ref="0" name="On" startTime="15600" endTime="16200" palette="2" />
+        <Effect ref="0" name="On" startTime="16200" endTime="16800" palette="3" />
+        <Effect ref="0" name="On" startTime="16800" endTime="36000" palette="4" />
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="SOUTH T">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="T bar">
+      <EffectLayer>
+        <Effect ref="3" name="Fill" startTime="9850" endTime="11000" palette="0" />
+      </EffectLayer>
+      <EffectLayer>
+        <Effect ref="0" name="On" startTime="11000" endTime="15000" palette="0" />
+      </EffectLayer>
+      <EffectLayer>
+        <Effect ref="0" name="On" startTime="15000" endTime="15600" palette="1" />
+        <Effect ref="0" name="On" startTime="15600" endTime="16200" palette="2" />
+        <Effect ref="0" name="On" startTime="16200" endTime="16800" palette="3" />
+        <Effect ref="0" name="On" startTime="16800" endTime="36000" palette="4" />
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="T stem">
+      <EffectLayer>
+        <Effect ref="4" name="Fill" startTime="18200" endTime="19700" palette="4" />
+        <Effect ref="4" name="Fill" startTime="21700" endTime="23200" palette="4" />
+        <Effect ref="4" name="Fill" startTime="28250" endTime="29750" palette="4" />
+      </EffectLayer>
+      <EffectLayer>
+        <Effect ref="4" name="Fill" startTime="18000" endTime="19500" palette="0" />
+        <Effect ref="7" name="Fill" startTime="19500" endTime="19700" palette="0" />
+        <Effect ref="4" name="Fill" startTime="21500" endTime="23000" palette="0" />
+        <Effect ref="7" name="Fill" startTime="23000" endTime="23200" palette="0" />
+        <Effect ref="4" name="Fill" startTime="28050" endTime="29550" palette="0" />
+        <Effect ref="7" name="Fill" startTime="29550" endTime="29750" palette="0" />
+      </EffectLayer>
+      <EffectLayer>
+        <Effect ref="4" name="Fill" startTime="10450" endTime="11600" palette="0" />
+      </EffectLayer>
+      <EffectLayer>
+        <Effect ref="0" name="On" startTime="11600" endTime="15000" palette="0" />
+      </EffectLayer>
+      <EffectLayer>
+        <Effect ref="0" name="On" startTime="15000" endTime="15600" palette="1" />
+        <Effect ref="0" name="On" startTime="15600" endTime="16200" palette="2" />
+        <Effect ref="0" name="On" startTime="16200" endTime="16800" palette="3" />
+        <Effect ref="0" name="On" startTime="16800" endTime="36000" palette="4" />
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="SOUTH U">
+      <EffectLayer>
+        <Effect ref="5" name="Fill" startTime="7500" endTime="9850" palette="0" />
+      </EffectLayer>
+      <EffectLayer>
+        <Effect ref="0" name="On" startTime="9850" endTime="15000" palette="0" />
+      </EffectLayer>
+      <EffectLayer>
+        <Effect ref="0" name="On" startTime="15000" endTime="15600" palette="1" />
+        <Effect ref="0" name="On" startTime="15600" endTime="16200" palette="2" />
+        <Effect ref="0" name="On" startTime="16200" endTime="16800" palette="3" />
+        <Effect ref="0" name="On" startTime="16800" endTime="36000" palette="4" />
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="SIDE D">
+      <EffectLayer>
+        <Effect ref="2" name="Fill" startTime="5000" endTime="8000" palette="0" />
+      </EffectLayer>
+      <EffectLayer>
+        <Effect ref="0" name="On" startTime="8000" endTime="15000" palette="0" />
+      </EffectLayer>
+      <EffectLayer>
+        <Effect ref="0" name="On" startTime="15000" endTime="15600" palette="1" />
+        <Effect ref="0" name="On" startTime="15600" endTime="16200" palette="2" />
+        <Effect ref="0" name="On" startTime="16200" endTime="16800" palette="3" />
+        <Effect ref="0" name="On" startTime="16800" endTime="36000" palette="4" />
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="SIDE E">
+      <EffectLayer>
+        <Effect ref="2" name="Fill" startTime="6000" endTime="9000" palette="0" />
+      </EffectLayer>
+      <EffectLayer>
+        <Effect ref="0" name="On" startTime="9000" endTime="15000" palette="0" />
+      </EffectLayer>
+      <EffectLayer>
+        <Effect ref="0" name="On" startTime="15000" endTime="15600" palette="1" />
+        <Effect ref="0" name="On" startTime="15600" endTime="16200" palette="2" />
+        <Effect ref="0" name="On" startTime="16200" endTime="16800" palette="3" />
+        <Effect ref="0" name="On" startTime="16800" endTime="36000" palette="4" />
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="SIDE I">
+      <EffectLayer>
+        <Effect ref="4" name="Fill" startTime="19700" endTime="21200" palette="4" />
+        <Effect ref="4" name="Fill" startTime="23200" endTime="24700" palette="4" />
+        <Effect ref="4" name="Fill" startTime="27400" endTime="28900" palette="4" />
+        <Effect ref="4" name="Fill" startTime="30950" endTime="32450" palette="4" />
+      </EffectLayer>
+      <EffectLayer>
+        <Effect ref="4" name="Fill" startTime="19500" endTime="21000" palette="0" />
+        <Effect ref="7" name="Fill" startTime="21000" endTime="21200" palette="0" />
+        <Effect ref="4" name="Fill" startTime="23000" endTime="24500" palette="0" />
+        <Effect ref="7" name="Fill" startTime="24500" endTime="24700" palette="0" />
+        <Effect ref="4" name="Fill" startTime="27200" endTime="28700" palette="0" />
+        <Effect ref="7" name="Fill" startTime="28700" endTime="28900" palette="0" />
+        <Effect ref="4" name="Fill" startTime="30750" endTime="32250" palette="0" />
+        <Effect ref="7" name="Fill" startTime="32250" endTime="32450" palette="0" />
+      </EffectLayer>
+      <EffectLayer>
+        <Effect ref="2" name="Fill" startTime="6000" endTime="8650" palette="0" />
+      </EffectLayer>
+      <EffectLayer>
+        <Effect ref="0" name="On" startTime="8650" endTime="15000" palette="0" />
+      </EffectLayer>
+      <EffectLayer>
+        <Effect ref="0" name="On" startTime="15000" endTime="15600" palette="1" />
+        <Effect ref="0" name="On" startTime="15600" endTime="16200" palette="2" />
+        <Effect ref="0" name="On" startTime="16200" endTime="16800" palette="3" />
+        <Effect ref="0" name="On" startTime="16800" endTime="36000" palette="4" />
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="SIDE S">
+      <EffectLayer>
+        <Effect ref="2" name="Fill" startTime="5000" endTime="8250" palette="0" />
+      </EffectLayer>
+      <EffectLayer>
+        <Effect ref="0" name="On" startTime="8250" endTime="15000" palette="0" />
+      </EffectLayer>
+      <EffectLayer>
+        <Effect ref="0" name="On" startTime="15000" endTime="15600" palette="1" />
+        <Effect ref="0" name="On" startTime="15600" endTime="16200" palette="2" />
+        <Effect ref="0" name="On" startTime="16200" endTime="16800" palette="3" />
+        <Effect ref="0" name="On" startTime="16800" endTime="36000" palette="4" />
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="H cross">
+      <EffectLayer>
+        <Effect ref="3" name="Fill" startTime="11850" endTime="12500" palette="0" />
+      </EffectLayer>
+      <EffectLayer>
+        <Effect ref="0" name="On" startTime="12500" endTime="15000" palette="0" />
+      </EffectLayer>
+      <EffectLayer>
+        <Effect ref="0" name="On" startTime="15000" endTime="15600" palette="1" />
+        <Effect ref="0" name="On" startTime="15600" endTime="16200" palette="2" />
+        <Effect ref="0" name="On" startTime="16200" endTime="16800" palette="3" />
+        <Effect ref="0" name="On" startTime="16800" endTime="36000" palette="4" />
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="H left">
+      <EffectLayer>
+        <Effect ref="4" name="Fill" startTime="18450" endTime="20150" palette="4" />
+        <Effect ref="4" name="Fill" startTime="23400" endTime="25100" palette="4" />
+        <Effect ref="4" name="Fill" startTime="29200" endTime="30900" palette="4" />
+      </EffectLayer>
+      <EffectLayer>
+        <Effect ref="4" name="Fill" startTime="18200" endTime="19900" palette="0" />
+        <Effect ref="7" name="Fill" startTime="19900" endTime="20150" palette="0" />
+        <Effect ref="4" name="Fill" startTime="23150" endTime="24850" palette="0" />
+        <Effect ref="7" name="Fill" startTime="24850" endTime="25100" palette="0" />
+        <Effect ref="4" name="Fill" startTime="28950" endTime="30650" palette="0" />
+        <Effect ref="7" name="Fill" startTime="30650" endTime="30900" palette="0" />
+      </EffectLayer>
+      <EffectLayer>
+        <Effect ref="4" name="Fill" startTime="11000" endTime="12550" palette="0" />
+      </EffectLayer>
+      <EffectLayer>
+        <Effect ref="0" name="On" startTime="12550" endTime="15000" palette="0" />
+      </EffectLayer>
+      <EffectLayer>
+        <Effect ref="0" name="On" startTime="15000" endTime="15600" palette="1" />
+        <Effect ref="0" name="On" startTime="15600" endTime="16200" palette="2" />
+        <Effect ref="0" name="On" startTime="16200" endTime="16800" palette="3" />
+        <Effect ref="0" name="On" startTime="16800" endTime="36000" palette="4" />
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="H right">
+      <EffectLayer>
+        <Effect ref="4" name="Fill" startTime="20150" endTime="21850" palette="4" />
+        <Effect ref="4" name="Fill" startTime="24450" endTime="26150" palette="4" />
+        <Effect ref="4" name="Fill" startTime="28050" endTime="29750" palette="4" />
+        <Effect ref="4" name="Fill" startTime="31850" endTime="33550" palette="4" />
+      </EffectLayer>
+      <EffectLayer>
+        <Effect ref="4" name="Fill" startTime="19900" endTime="21600" palette="0" />
+        <Effect ref="7" name="Fill" startTime="21600" endTime="21850" palette="0" />
+        <Effect ref="4" name="Fill" startTime="24200" endTime="25900" palette="0" />
+        <Effect ref="7" name="Fill" startTime="25900" endTime="26150" palette="0" />
+        <Effect ref="4" name="Fill" startTime="27800" endTime="29500" palette="0" />
+        <Effect ref="7" name="Fill" startTime="29500" endTime="29750" palette="0" />
+        <Effect ref="4" name="Fill" startTime="31600" endTime="33300" palette="0" />
+        <Effect ref="7" name="Fill" startTime="33300" endTime="33550" palette="0" />
+      </EffectLayer>
+      <EffectLayer>
+        <Effect ref="2" name="Fill" startTime="12500" endTime="14000" palette="0" />
+      </EffectLayer>
+      <EffectLayer>
+        <Effect ref="0" name="On" startTime="14000" endTime="15000" palette="0" />
+      </EffectLayer>
+      <EffectLayer>
+        <Effect ref="0" name="On" startTime="15000" endTime="15600" palette="1" />
+        <Effect ref="0" name="On" startTime="15600" endTime="16200" palette="2" />
+        <Effect ref="0" name="On" startTime="16200" endTime="16800" palette="3" />
+        <Effect ref="0" name="On" startTime="16800" endTime="36000" palette="4" />
+      </EffectLayer>
+    </Element>
+  </ElementEffects>
+  <lastView>0</lastView>
+  <TimingTags>
+    <Tag number="0" position="-1" />
+    <Tag number="1" position="-1" />
+    <Tag number="2" position="-1" />
+    <Tag number="3" position="-1" />
+    <Tag number="4" position="-1" />
+    <Tag number="5" position="-1" />
+    <Tag number="6" position="-1" />
+    <Tag number="7" position="-1" />
+    <Tag number="8" position="-1" />
+    <Tag number="9" position="-1" />
+  </TimingTags>
+</xsequence>
