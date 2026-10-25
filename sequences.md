@@ -25,5 +25,11 @@
   <img src="./docs/sequences/rainbow-flow.gif" alt="Rainbow flow animation" width="450">
 </p>
 
+- [Old neon](./shows/sign-rev-1/sequences/Old%20neon.xsq)
+  - Old neon sign effects
+<p align="center">
+  <img src="./docs/sequences/old-neon.gif" alt="Old neon" width="450">
+</p>
+
 
 - Put your animation here!
