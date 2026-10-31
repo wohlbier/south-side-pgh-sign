@@ -1,25 +1,25 @@
 # south-side-pgh-sign
 
 <p align="center">
-  <img src="./docs/s-s-sign.png" alt="South Side sign" width="100%">
+  <img src="./docs/lighting/s-s-sign.png" alt="South Side sign" width="100%">
 </p>
 <p align="center">
-  <img src="./docs/s-s-mech.png" alt="South Side sign mechanical drawing" width="100%">
+  <img src="./docs/lighting/s-s-mech.png" alt="South Side sign mechanical drawing" width="100%">
 </p>
 <p align="center">
-  <img src="./docs/SouthSideSketch.png" alt="South Side Sketch" width="100%">
+  <img src="./docs/lighting/SouthSideSketch.png" alt="South Side Sketch" width="100%">
 </p>
 <p align="center">
-  <img src="./docs/SSS.4.png" alt="South Side Sketch" width="100%">
+  <img src="./docs/lighting/SSS.4.png" alt="South Side Sketch" width="100%">
 </p>
 <p align="center">
-  <img src="./docs/SSS.1.png" alt="South Side Sketch" width="100%">
+  <img src="./docs/lighting/SSS.1.png" alt="South Side Sketch" width="100%">
 </p>
 <p align="center">
-  <img src="./docs/SSS.2.png" alt="South Side Sketch" width="100%">
+  <img src="./docs/lighting/SSS.2.png" alt="South Side Sketch" width="100%">
 </p>
 <p align="center">
-  <img src="./docs/SSS.3.png" alt="South Side Sketch" width="100%">
+  <img src="./docs/lighting/SSS.3.png" alt="South Side Sketch" width="100%">
 </p>
 
 ---
@@ -36,7 +36,7 @@ To make new animations for the sign go [here](./programming.md).
   <img src="./docs/sequences/molten-pour.gif" alt="Molten pour animation" width="450">
 </p>
 <p align="center">
-  <img src="./docs/bench.jpg" alt="Bench" width="100%">
+  <img src="./docs/lighting/bench.jpg" alt="Bench" width="100%">
 </p>
 
 ---
@@ -155,7 +155,7 @@ arp -a
 - 4x 24V/5V buck converters
 - 3x [Power supply](https://www.mouser.com/en/ProductDetail/709-HLG-480H-24)
 <p align="center">
-  <img src="./docs/powersupply.png" alt="Power supply" width="400">
+  <img src="./docs/lighting/powersupply.png" alt="Power supply" width="400">
 </p>
 
 ## Installation
