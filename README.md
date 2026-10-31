@@ -24,7 +24,7 @@
 
 ---
 
-## [Build](./build.md)ing the sign
+## [Building](./build.md) the sign
 
 ---
 
