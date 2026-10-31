@@ -26,6 +26,8 @@
 
 ## [Building](./build.md) the sign
 
+## Sign [Animations](./sequences.md)
+
 ---
 
 ## Programming the sign
