@@ -13,13 +13,15 @@ Hand-marked LED layout, with each run's letter and length
 <p align="center">
   <img src="./docs/lighting/SouthSideSketch.png" alt="Hand-marked LED run layout" width="100%">
 </p>
-([PDF](./docs/lighting/SouthSideSketch.pdf))
+
+[PDF](./docs/lighting/SouthSideSketch.pdf)
 
 LED run lengths, front view
 <p align="center">
   <img src="./docs/lighting/SSS.LED.png" alt="LED run lengths" width="100%">
 </p>
-([PDF](./docs/lighting/SSS.LED.pdf))
+
+[PDF](./docs/lighting/SSS.LED.pdf)
 
 SSS.1: rear view, controller box locations
 <p align="center">

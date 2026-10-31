@@ -9,7 +9,8 @@ Structural drawing: posts, footings, cabinet and wiring channel
 <p align="center">
   <img src="./docs/lighting/s-s-mech.png" alt="Mechanical drawing of the sign" width="100%">
 </p>
-([PDF](./docs/lighting/SouthSideDrawing.pdf))
+
+[PDF](./docs/lighting/SouthSideDrawing.pdf)
 
 ---
 
