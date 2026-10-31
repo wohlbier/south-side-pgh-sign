@@ -30,9 +30,7 @@
 
 ---
 
-## Programming the sign
-
-To make new animations for the sign go [here](./programming.md).
+## [Programming](./programming.md) the sign
 
 <p align="center">
   <img src="./docs/sequences/molten-pour.gif" alt="Molten pour animation" width="450">
