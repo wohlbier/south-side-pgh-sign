@@ -24,6 +24,10 @@
 
 ---
 
+## [Build](./build.md)ing the sign
+
+---
+
 ## Programming the sign
 
 To make new animations for the sign go [here](./programming.md).
