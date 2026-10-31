@@ -4,6 +4,15 @@ Pictures of building the sign!
 
 ---
 
+## Plans
+Structural drawing: posts, footings, cabinet and wiring channel
+<p align="center">
+  <img src="./docs/lighting/s-s-mech.png" alt="Mechanical drawing of the sign" width="100%">
+</p>
+([PDF](./docs/lighting/SouthSideDrawing.pdf))
+
+---
+
 ## Fabrication: October 12, 2026
 
 Plate steel on the table, with the frame behind it

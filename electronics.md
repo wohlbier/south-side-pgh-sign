@@ -4,6 +4,48 @@
 > the new sign maintainer who needs to understand how the electronics were set
 > up. To make animations for the sign, see [programming.md](./programming.md).
 
+## Wiring diagrams
+The drawings below are the reference for tracing a run back to its board and port.
+The SSS sheets are drawn from the **back** of the sign, where the wiring is, so the
+lettering appears mirrored.
+
+Hand-marked LED layout, with each run's letter and length
+<p align="center">
+  <img src="./docs/lighting/SouthSideSketch.png" alt="Hand-marked LED run layout" width="100%">
+</p>
+([PDF](./docs/lighting/SouthSideSketch.pdf))
+
+LED run lengths, front view
+<p align="center">
+  <img src="./docs/lighting/SSS.LED.png" alt="LED run lengths" width="100%">
+</p>
+([PDF](./docs/lighting/SSS.LED.pdf))
+
+SSS.1: rear view, controller box locations
+<p align="center">
+  <img src="./docs/lighting/SSS.1.png" alt="Rear view, controller box locations" width="100%">
+</p>
+
+SSS.2: rear view, wiring paths and distances
+<p align="center">
+  <img src="./docs/lighting/SSS.2.png" alt="Rear view, wiring paths and distances" width="100%">
+</p>
+
+SSS.3: rear view, run dimensions
+<p align="center">
+  <img src="./docs/lighting/SSS.3.png" alt="Rear view, run dimensions" width="100%">
+</p>
+
+SSS.4: rear view, runs color-coded by board
+<p align="center">
+  <img src="./docs/lighting/SSS.4.png" alt="Rear view, runs color-coded by board" width="100%">
+</p>
+
+Full drawing sets: [SSS.V4.pdf](./docs/lighting/SSS.V4.pdf) (current, sheets 1 to 4) and
+[SSS.pdf](./docs/lighting/SSS.pdf) (earlier version, sheets 1 to 3)
+
+---
+
 ## Pi
 - https://falconchristmas.com/forum/
 - Download Pi imager `imager_2.0.10.dmg` install the dmg
