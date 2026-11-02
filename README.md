@@ -24,3 +24,13 @@
 ---
 
 ## Setting up the [Electronics](./electronics.md)
+
+---
+
+## Acknowledgements
+
+- **Pati Beachley**: design and project management
+- **Ray Appleby**: fabrication and construction
+- **Luke Genter**: fabrication and construction
+- **Mike Clark**: site preparation
+- **John Wohlbier**: electronics
