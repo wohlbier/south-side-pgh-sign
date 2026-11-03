@@ -29,8 +29,8 @@
 
 ## Acknowledgements
 
-- **Pati Beachley**: design and project management
-- **Ray Appleby**: fabrication and construction
-- **Luke Genter**: fabrication and construction
-- **Mike Clark**: site preparation
+- **Pati Beachley**, artist: design and project management
+- **Ray Appleby**, Technique Architectural Products: fabrication
+- **Luke Genter**, Technique Architectural Products: fabrication
+- **Mike Clark**, Southside Community Council: site preparation
 - **John Wohlbier**: electronics
