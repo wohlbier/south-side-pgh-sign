@@ -33,4 +33,4 @@
 - **Ray Appleby**, Technique Architectural Products: fabrication
 - **Luke Genter**, Technique Architectural Products: fabrication
 - **Mike Clark**, Southside Community Council: site preparation
-- **John Wohlbier**: electronics
+- **John Wohlbier**, a guy in his basement: electronics
