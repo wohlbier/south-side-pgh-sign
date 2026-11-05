@@ -29,8 +29,8 @@
 
 ## Acknowledgements
 
-- **Pati Beachley**, artist: design and project management
+- **Pati Beachley**, Artist: design and project management
 - **Ray Appleby**, Technique Architectural Products: fabrication
 - **Luke Genter**, Technique Architectural Products: fabrication
 - **Mike Clark**, Southside Community Council: site preparation
-- **John Wohlbier**, a guy in his basement: electronics
+- **John Wohlbier**, a guy in his south side basement with an iron city: electronics
