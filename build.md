@@ -33,6 +33,20 @@ A large cut piece
 
 ---
 
+## In the shop
+
+The letters, painted
+<p align="center">
+  <img src="./docs/build/shop_painted-letters.jpg" alt="Painted blue letters in the shop" width="100%">
+</p>
+
+Moving the steelworker cutout (click for the full video)
+<p align="center">
+  <a href="./docs/build/shop_steelworker.mp4"><img src="./docs/build/shop_steelworker.gif" alt="Video: moving the steelworker cutout in the shop" width="100%"></a>
+</p>
+
+---
+
 ## Digging the footings: October 28, 2026
 
 Both holes dug
@@ -70,4 +84,33 @@ Poured
 
 <p align="center">
   <img src="./docs/build/2026-10-30_100711_footing.jpg" alt="Finished footing close-up" width="100%">
+</p>
+
+---
+
+## Site work: November 21, 2026
+
+Laying out the site
+<p align="center">
+  <img src="./docs/build/2026-11-21_layout.jpg" alt="Site layout marked in paint, excavator behind" width="100%">
+</p>
+
+Compacting along the fence
+<p align="center">
+  <img src="./docs/build/2026-11-21_trench.jpg" alt="Compacting soil along the fence" width="100%">
+</p>
+
+Lifting the stone blocks into place
+<p align="center">
+  <img src="./docs/build/2026-11-21_lift.jpg" alt="Excavator lifting stone blocks" width="100%">
+</p>
+
+Setting the blocks
+<p align="center">
+  <img src="./docs/build/2026-11-21_blocks.jpg" alt="Crew setting stone wall blocks" width="100%">
+</p>
+
+The finished walls
+<p align="center">
+  <img src="./docs/build/2026-11-21_wall.jpg" alt="Finished stone walls at the corner" width="100%">
 </p>
